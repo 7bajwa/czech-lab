@@ -1,0 +1,122 @@
+[
+ {
+  "day": "Mon",
+  "name": "Understand",
+  "blocks": [
+   {
+    "minutes": "0-15 min",
+    "task": "Review cards"
+   },
+   {
+    "minutes": "15-60 min",
+    "task": "Pattern Lab (explain + \"say it in your words\") + guided drills; Vocab Set A (new)"
+   },
+   {
+    "minutes": "60-85 min",
+    "task": "Input: listen/read + shadow"
+   },
+   {
+    "minutes": "85-90",
+    "task": "Log 3 errors"
+   }
+  ]
+ },
+ {
+  "day": "Tue",
+  "name": "Drill",
+  "blocks": [
+   {
+    "minutes": "0-15 min",
+    "task": "Review cards"
+   },
+   {
+    "minutes": "15-60 min",
+    "task": "Production drills on the pattern (type + say); Vocab A recall; dictation"
+   },
+   {
+    "minutes": "60-85 min",
+    "task": "Short output (5 sentences)"
+   },
+   {
+    "minutes": "85-90",
+    "task": "Log errors"
+   }
+  ]
+ },
+ {
+  "day": "Wed",
+  "name": "Sentences",
+  "blocks": [
+   {
+    "minutes": "0-15 min",
+    "task": "Review cards"
+   },
+   {
+    "minutes": "15-60 min",
+    "task": "Sentence ladder (word → phrase → sentence → mini dialogue); Vocab Set B (new)"
+   },
+   {
+    "minutes": "60-85 min",
+    "task": "Reading text + questions"
+   },
+   {
+    "minutes": "85-90",
+    "task": "Log errors"
+   }
+  ]
+ },
+ {
+  "day": "Thu",
+  "name": "Speak",
+  "blocks": [
+   {
+    "minutes": "0-15 min",
+    "task": "Review cards"
+   },
+   {
+    "minutes": "15-60 min",
+    "task": "Shadowing 15; role-play with AI partner 30; pronunciation 10"
+   },
+   {
+    "minutes": "60-85 min",
+    "task": "Recording + self-check"
+   },
+   {
+    "minutes": "85-90",
+    "task": "Log errors"
+   }
+  ]
+ },
+ {
+  "day": "Fri",
+  "name": "Prove it",
+  "blocks": [
+   {
+    "minutes": "0-15 min",
+    "task": "Review cards"
+   },
+   {
+    "minutes": "15-60 min",
+    "task": "Weekly test (25 min); Writing task (25 min); Speaking recording (10 min)"
+   },
+   {
+    "minutes": "60-85 min",
+    "task": "Error repair from log"
+   },
+   {
+    "minutes": "85-90",
+    "task": "Plan next week"
+   }
+  ]
+ },
+ {
+  "day": "Sat (opt.)",
+  "name": "Immerse",
+  "blocks": [
+   {
+    "minutes": "0-15 min",
+    "task": "30 min: slow radio/podcast, review, or a real-life task"
+   }
+  ]
+ }
+]

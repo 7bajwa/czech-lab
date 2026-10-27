@@ -1,0 +1,6049 @@
+{
+ "weeks": [
+  {
+   "week": 1,
+   "phase": "Sound and survival",
+   "title": "Sounds, greetings, survival Czech",
+   "canDo": "read any Czech word aloud correctly; greet and thank; say you don't understand; spell your name; count 0-10.",
+   "patternLab": [
+    "Czech spelling is **phonetic**: one letter ≈ one sound, no silent letters. Learn the 10 special sounds once and you can read everything.",
+    "**Stress is always on the first syllable** (even in long words).",
+    "**Long vs short vowels** (čárka á é í ó ú ů ý) change meaning: *dal / dál* (gave / further), *byt / být* (flat / to be), *vina / víno* (guilt / wine).",
+    "Special letters: **č** = *ch* in church · **š** = *sh* · **ž** = *s* in measure · **ř** = rolled *r* + *ž* together (say *r* while saying *ž*) · **ch** = Scottish *loch* · **c** = *ts* · **j** = *y* · **ě** softens the letter before it (*dě* = *dye*, *tě* = *tye*, *ně* = *nye*, *mě* = *mnye*) · **ď ť ň** = soft *d, t, n*.",
+    "No articles (\"a/the\"). Word order is flexible, so listen for endings."
+   ],
+   "vocabA": [
+    {
+     "cz": "ano",
+     "en": "yes"
+    },
+    {
+     "cz": "ne",
+     "en": "no"
+    },
+    {
+     "cz": "prosím",
+     "en": "please / you're welcome"
+    },
+    {
+     "cz": "děkuju / děkuji",
+     "en": "thank you"
+    },
+    {
+     "cz": "dobrý den",
+     "en": "hello (formal)"
+    },
+    {
+     "cz": "ahoj",
+     "en": "hi / bye (informal)"
+    },
+    {
+     "cz": "na shledanou",
+     "en": "goodbye"
+    },
+    {
+     "cz": "dobré ráno",
+     "en": "good morning"
+    },
+    {
+     "cz": "dobrý večer",
+     "en": "good evening"
+    },
+    {
+     "cz": "dobrou noc",
+     "en": "good night"
+    },
+    {
+     "cz": "promiňte",
+     "en": "excuse me"
+    },
+    {
+     "cz": "omlouvám se",
+     "en": "I apologise"
+    },
+    {
+     "cz": "dobře",
+     "en": "well, OK"
+    },
+    {
+     "cz": "špatně",
+     "en": "badly"
+    },
+    {
+     "cz": "těší mě",
+     "en": "nice to meet you"
+    },
+    {
+     "cz": "jak se máte?",
+     "en": "how are you? (formal)"
+    },
+    {
+     "cz": "jak se máš?",
+     "en": "how are you? (informal)"
+    }
+   ],
+   "vocabB": [
+    {
+     "cz": "nerozumím",
+     "en": "I don't understand"
+    },
+    {
+     "cz": "rozumím",
+     "en": "I understand"
+    },
+    {
+     "cz": "nevím",
+     "en": "I don't know"
+    },
+    {
+     "cz": "mluvte pomaleji",
+     "en": "speak more slowly"
+    },
+    {
+     "cz": "můžete to opakovat?",
+     "en": "can you repeat that?"
+    },
+    {
+     "cz": "ještě jednou",
+     "en": "once more"
+    },
+    {
+     "cz": "co to znamená?",
+     "en": "what does that mean?"
+    },
+    {
+     "cz": "jak se to řekne česky?",
+     "en": "how do you say that in Czech?"
+    },
+    {
+     "cz": "jak se to píše?",
+     "en": "how is it written?"
+    },
+    {
+     "cz": "mluvím anglicky",
+     "en": "I speak English"
+    },
+    {
+     "cz": "mluvím trochu česky",
+     "en": "I speak a little Czech"
+    },
+    {
+     "cz": "pomoc",
+     "en": "help"
+    },
+    {
+     "cz": "jmenuju se",
+     "en": "I am called"
+    },
+    {
+     "cz": "nula",
+     "en": "0"
+    },
+    {
+     "cz": "jedna",
+     "en": "1"
+    },
+    {
+     "cz": "dva",
+     "en": "2"
+    },
+    {
+     "cz": "tři",
+     "en": "3"
+    },
+    {
+     "cz": "čtyři",
+     "en": "4"
+    },
+    {
+     "cz": "pět",
+     "en": "5"
+    },
+    {
+     "cz": "šest",
+     "en": "6"
+    },
+    {
+     "cz": "sedm",
+     "en": "7"
+    },
+    {
+     "cz": "osm",
+     "en": "8"
+    },
+    {
+     "cz": "devět",
+     "en": "9"
+    },
+    {
+     "cz": "deset",
+     "en": "10"
+    }
+   ],
+   "sentences": [
+    {
+     "cz": "Dobrý den. Jak se máte?",
+     "en": "Hello. How are you? (formal)",
+     "chunk": false
+    },
+    {
+     "cz": "Dobře, děkuji. A vy?",
+     "en": "Fine, thank you. And you?",
+     "chunk": false
+    },
+    {
+     "cz": "Ahoj, jak se máš?",
+     "en": "Hi, how are you? (informal)",
+     "chunk": false
+    },
+    {
+     "cz": "Jmenuju se Aman.",
+     "en": "My name is Aman.",
+     "chunk": false
+    },
+    {
+     "cz": "Těší mě.",
+     "en": "Nice to meet you.",
+     "chunk": false
+    },
+    {
+     "cz": "Promiňte, nerozumím.",
+     "en": "Excuse me, I don't understand.",
+     "chunk": false
+    },
+    {
+     "cz": "Můžete to opakovat, prosím?",
+     "en": "Can you repeat that, please?",
+     "chunk": false
+    },
+    {
+     "cz": "Mluvte pomaleji, prosím.",
+     "en": "Please speak more slowly.",
+     "chunk": false
+    },
+    {
+     "cz": "Jak se to píše?",
+     "en": "How do you write that?",
+     "chunk": false
+    },
+    {
+     "cz": "Mluvím trochu česky.",
+     "en": "I speak a little Czech.",
+     "chunk": false
+    },
+    {
+     "cz": "Co to znamená?",
+     "en": "What does that mean?",
+     "chunk": false
+    },
+    {
+     "cz": "Na shledanou! Dobrou noc!",
+     "en": "Goodbye! Good night!",
+     "chunk": false
+    }
+   ],
+   "speaking": "shadow all 12 sentences at 0.75× then 1×. Pronunciation lab: minimal pairs (dal/dál, byt/být, vina/víno), **ř** drill (*řeka, tři, třicet, Dvořák, řekl*), tongue twisters *Strč prst skrz krk* and *Třistatřicettři stříbrných stříkaček stříkalo přes třistatřicettři stříbrných střech*. Role-play: meet a neighbour in the lift, greet, ask how they are, say you are learning Czech.",
+   "writing": "type the 12 sentences with correct diacritics; write and spell your name; write the numbers 0-10 in words.",
+   "input": "the alphabet and numbers read slowly (app TTS at 0.75× and 1×); a 1-minute greeting dialogue.",
+   "realLife": "say *Dobrý den*, *Děkuju* and *Na shledanou* to three real people today.",
+   "examLink": "Speaking opening; Listening (numbers, letters).",
+   "weeklyTest": "read aloud 10 words; dictation of 10 words with diacritics; 10 greeting/response matches; 1 speaking recording (greet + introduce yourself).",
+   "plan": null,
+   "notes": [],
+   "mock": null
+  },
+  {
+   "week": 2,
+   "phase": "Sound and survival",
+   "title": "Introductions, být, numbers to 100",
+   "canDo": "say who you are, where you're from, your age and phone number; ask the same; count to 100.",
+   "patternLab": [
+    "**být (to be):** jsem · jsi · je · jsme · jste · jsou. Negative: nejsem · nejsi · není · nejsme · nejste · nejsou.",
+    "**Verb endings are the pronoun**: *-m* = I, *-š* = you, *-me* = we, *-te* = you (pl/formal). So Czech usually drops *já, ty, my, vy*: *Jsem Aman.* Say the pronoun only for emphasis: *JÁ jsem Aman.*",
+    "**ty vs vy:** *ty* = friends, family, kids, peers; *vy* = strangers, officials, older people, plural. Start with *vy* if unsure.",
+    "**Yes/no questions** use the same words, rising intonation: *Jste z Indie?*",
+    "**Question words:** kdo, co, odkud, kde, kolik, jak.",
+    "**Nationalities** have masculine and feminine forms: Ind / Indka · Čech / Češka · Slovák / Slovenka · Němec / Němka · Američan / Američanka · Angličan / Angličanka · Rus / Ruska · Ukrajinec / Ukrajinka · Polák / Polka.",
+    "Country after **z** (from) ★: z Indie, z Česka, z Německa."
+   ],
+   "vocabA": [
+    {
+     "cz": "já",
+     "en": "I"
+    },
+    {
+     "cz": "ty",
+     "en": "you (informal)"
+    },
+    {
+     "cz": "on",
+     "en": "he"
+    },
+    {
+     "cz": "ona",
+     "en": "she"
+    },
+    {
+     "cz": "my",
+     "en": "we"
+    },
+    {
+     "cz": "vy",
+     "en": "you (formal / plural)"
+    },
+    {
+     "cz": "oni",
+     "en": "they"
+    },
+    {
+     "cz": "kdo",
+     "en": "who"
+    },
+    {
+     "cz": "co",
+     "en": "what"
+    },
+    {
+     "cz": "kde",
+     "en": "where"
+    },
+    {
+     "cz": "odkud",
+     "en": "where from"
+    },
+    {
+     "cz": "kolik",
+     "en": "how much / how many"
+    },
+    {
+     "cz": "jak",
+     "en": "how"
+    },
+    {
+     "cz": "jmenovat se",
+     "en": "to be called"
+    },
+    {
+     "cz": "být",
+     "en": "to be"
+    },
+    {
+     "cz": "pan",
+     "en": "Mr"
+    },
+    {
+     "cz": "paní",
+     "en": "Mrs"
+    },
+    {
+     "cz": "student / studentka",
+     "en": "student (m / f)"
+    },
+    {
+     "cz": "učitel / učitelka",
+     "en": "teacher (m / f)"
+    },
+    {
+     "cz": "kamarád / kamarádka",
+     "en": "friend (m / f)"
+    },
+    {
+     "cz": "Čech / Češka",
+     "en": "Czech man / Czech woman"
+    },
+    {
+     "cz": "Ind / Indka",
+     "en": "Indian man / Indian woman"
+    },
+    {
+     "cz": "Česko / Česká republika",
+     "en": "Czechia / the Czech Republic"
+    },
+    {
+     "cz": "Indie",
+     "en": "India"
+    },
+    {
+     "cz": "Slovensko",
+     "en": "Slovakia"
+    },
+    {
+     "cz": "Německo",
+     "en": "Germany"
+    },
+    {
+     "cz": "Rusko",
+     "en": "Russia"
+    },
+    {
+     "cz": "Ukrajina",
+     "en": "Ukraine"
+    },
+    {
+     "cz": "Polsko",
+     "en": "Poland"
+    },
+    {
+     "cz": "USA",
+     "en": "USA"
+    },
+    {
+     "cz": "Anglie",
+     "en": "England"
+    }
+   ],
+   "vocabB": [
+    {
+     "cz": "jméno",
+     "en": "first name"
+    },
+    {
+     "cz": "příjmení",
+     "en": "surname"
+    },
+    {
+     "cz": "datum narození",
+     "en": "date of birth"
+    },
+    {
+     "cz": "národnost",
+     "en": "nationality"
+    },
+    {
+     "cz": "adresa",
+     "en": "address"
+    },
+    {
+     "cz": "telefon",
+     "en": "telephone"
+    },
+    {
+     "cz": "číslo",
+     "en": "number"
+    },
+    {
+     "cz": "telefonní číslo",
+     "en": "phone number"
+    },
+    {
+     "cz": "e-mail",
+     "en": "e-mail"
+    },
+    {
+     "cz": "pas",
+     "en": "passport"
+    },
+    {
+     "cz": "stát",
+     "en": "country"
+    },
+    {
+     "cz": "město",
+     "en": "city"
+    },
+    {
+     "cz": "Praha",
+     "en": "Prague"
+    },
+    {
+     "cz": "Brno",
+     "en": "Brno"
+    },
+    {
+     "cz": "Ostrava",
+     "en": "Ostrava"
+    },
+    {
+     "cz": "Plzeň",
+     "en": "Pilsen"
+    },
+    {
+     "cz": "práce",
+     "en": "work"
+    },
+    {
+     "cz": "formulář",
+     "en": "form"
+    },
+    {
+     "cz": "podpis",
+     "en": "signature"
+    },
+    {
+     "cz": "jedenáct",
+     "en": "11"
+    },
+    {
+     "cz": "dvanáct",
+     "en": "12"
+    },
+    {
+     "cz": "třináct",
+     "en": "13"
+    },
+    {
+     "cz": "čtrnáct",
+     "en": "14"
+    },
+    {
+     "cz": "patnáct",
+     "en": "15"
+    },
+    {
+     "cz": "šestnáct",
+     "en": "16"
+    },
+    {
+     "cz": "sedmnáct",
+     "en": "17"
+    },
+    {
+     "cz": "osmnáct",
+     "en": "18"
+    },
+    {
+     "cz": "devatenáct",
+     "en": "19"
+    },
+    {
+     "cz": "dvacet",
+     "en": "20"
+    },
+    {
+     "cz": "dvacet jedna",
+     "en": "21"
+    },
+    {
+     "cz": "třicet",
+     "en": "30"
+    },
+    {
+     "cz": "čtyřicet",
+     "en": "40"
+    },
+    {
+     "cz": "padesát",
+     "en": "50"
+    },
+    {
+     "cz": "šedesát",
+     "en": "60"
+    },
+    {
+     "cz": "sedmdesát",
+     "en": "70"
+    },
+    {
+     "cz": "osmdesát",
+     "en": "80"
+    },
+    {
+     "cz": "devadesát",
+     "en": "90"
+    },
+    {
+     "cz": "sto",
+     "en": "100"
+    }
+   ],
+   "sentences": [
+    {
+     "cz": "Jsem Aman. Jsem z Indie.",
+     "en": "I'm Aman. I'm from India.",
+     "chunk": false
+    },
+    {
+     "cz": "Jak se jmenujete? / Jak se jmenuješ?",
+     "en": "What's your name? (formal / informal)",
+     "chunk": false
+    },
+    {
+     "cz": "Odkud jste?",
+     "en": "Where are you from?",
+     "chunk": false
+    },
+    {
+     "cz": "Jsem Ind. / Jsem Indka.",
+     "en": "I'm Indian (m / f).",
+     "chunk": false
+    },
+    {
+     "cz": "Kolik vám je let?",
+     "en": "How old are you?",
+     "chunk": false
+    },
+    {
+     "cz": "Je mi … let.",
+     "en": "I'm … years old. (say your real age)",
+     "chunk": true
+    },
+    {
+     "cz": "Bydlím v Praze.",
+     "en": "I live in Prague.",
+     "chunk": true
+    },
+    {
+     "cz": "Jaké je vaše telefonní číslo?",
+     "en": "What is your phone number?",
+     "chunk": false
+    },
+    {
+     "cz": "Moje číslo je sedm sedm sedm, jedna dva tři, čtyři pět šest.",
+     "en": "My number is 777 123 456.",
+     "chunk": false
+    },
+    {
+     "cz": "Nejsem student. Jsem …",
+     "en": "I'm not a student. I'm a …",
+     "chunk": false
+    },
+    {
+     "cz": "Jste z Česka? — Ne, nejsem.",
+     "en": "Are you from Czechia? — No, I'm not.",
+     "chunk": false
+    },
+    {
+     "cz": "Kdo je to? — To je pan Novák.",
+     "en": "Who is that? — That's Mr Novák.",
+     "chunk": false
+    }
+   ],
+   "speaking": "introduce yourself in 6-8 sentences (name, origin, age, city, job, phone number). Role-play: registering at a gym/reception desk: spell your surname, give date of birth, phone, e-mail. Practise reading phone numbers in groups of three.",
+   "writing": "complete a registration form (jméno, příjmení, datum narození, národnost, adresa, telefon, e-mail) and write 5 sentences about yourself.",
+   "input": "short dialogues \"Meeting someone\"; numbers, ages and phone numbers dictation.",
+   "realLife": "say your phone number aloud in Czech to someone, or practise it in front of the mirror and record it.",
+   "examLink": "Speaking part 1 (personal information); Writing: forms; Listening: numbers.",
+   "weeklyTest": "numbers 0-100 (listening dictation ×6); conjugate *být* positive and negative; answer 5 personal questions aloud; fill a form.",
+   "plan": null,
+   "notes": [],
+   "mock": null
+  },
+  {
+   "week": 3,
+   "phase": "A1 core",
+   "title": "Things, gender, family, mít",
+   "canDo": "name objects and family members, say who someone is, say what you have.",
+   "patternLab": [
+    "**Three genders.** Guess by the ending: **-a → feminine** (žena, kniha, škola) · **-o → neuter** (auto, město, okno) · **-e → neuter or feminine** (moře n; židle, ulice f) · **consonant → usually masculine** (stůl, pes, bratr), a few feminine (noc, věc, kancelář).",
+    "**Masculine animate vs inanimate:** alive = animate (pán, pes, bratr); things = inanimate (stůl, dům). It matters from Week 6.",
+    "**Everything around the noun agrees in gender:** *ten nový stůl · ta nová kniha · to nové auto.* Possessives: *můj bratr · moje sestra · moje dítě.*",
+    "**Plural (recognise first):** masc animate -i / -ové (bratři, studenti) · masc inanimate -y / -e (stoly, počítače) · fem -y (ženy, knihy), -e stays (židle) · neuter -a (auta, města).",
+    "**mít (to have):** mám · máš · má · máme · máte · mají. Negative: nemám · nemáš · nemá · nemáme · nemáte · nemají.",
+    "Hook: ask \"what gender is this noun?\" once. Then pick the matching *ten/ta/to*, *můj/moje*, *nový/nová/nové*."
+   ],
+   "vocabA": [
+    {
+     "cz": "rodina",
+     "en": "family"
+    },
+    {
+     "cz": "máma / maminka",
+     "en": "mum / mummy"
+    },
+    {
+     "cz": "táta / tatínek",
+     "en": "dad / daddy"
+    },
+    {
+     "cz": "rodiče",
+     "en": "parents"
+    },
+    {
+     "cz": "bratr",
+     "en": "brother"
+    },
+    {
+     "cz": "sestra",
+     "en": "sister"
+    },
+    {
+     "cz": "syn",
+     "en": "son"
+    },
+    {
+     "cz": "dcera",
+     "en": "daughter"
+    },
+    {
+     "cz": "dítě",
+     "en": "child"
+    },
+    {
+     "cz": "děti",
+     "en": "children"
+    },
+    {
+     "cz": "manžel",
+     "en": "husband"
+    },
+    {
+     "cz": "manželka",
+     "en": "wife"
+    },
+    {
+     "cz": "partner",
+     "en": "partner (m)"
+    },
+    {
+     "cz": "partnerka",
+     "en": "partner (f)"
+    },
+    {
+     "cz": "babička",
+     "en": "grandmother"
+    },
+    {
+     "cz": "dědeček",
+     "en": "grandfather"
+    },
+    {
+     "cz": "teta",
+     "en": "aunt"
+    },
+    {
+     "cz": "strýc",
+     "en": "uncle"
+    },
+    {
+     "cz": "kamarád",
+     "en": "friend (m)"
+    },
+    {
+     "cz": "kamarádka",
+     "en": "friend (f)"
+    },
+    {
+     "cz": "kolega",
+     "en": "colleague (m)"
+    },
+    {
+     "cz": "kolegyně",
+     "en": "colleague (f)"
+    },
+    {
+     "cz": "muž",
+     "en": "man"
+    },
+    {
+     "cz": "žena",
+     "en": "woman"
+    },
+    {
+     "cz": "kluk",
+     "en": "boy, guy"
+    },
+    {
+     "cz": "holka",
+     "en": "girl"
+    },
+    {
+     "cz": "lidé",
+     "en": "people"
+    },
+    {
+     "cz": "přítel",
+     "en": "boyfriend / friend"
+    },
+    {
+     "cz": "přítelkyně",
+     "en": "girlfriend / friend (f)"
+    },
+    {
+     "cz": "soused",
+     "en": "neighbour (m)"
+    },
+    {
+     "cz": "sousedka",
+     "en": "neighbour (f)"
+    }
+   ],
+   "vocabB": [
+    {
+     "cz": "věc",
+     "en": "thing"
+    },
+    {
+     "cz": "stůl",
+     "en": "table"
+    },
+    {
+     "cz": "židle",
+     "en": "chair"
+    },
+    {
+     "cz": "okno",
+     "en": "window"
+    },
+    {
+     "cz": "dveře",
+     "en": "door (plural only)"
+    },
+    {
+     "cz": "postel",
+     "en": "bed"
+    },
+    {
+     "cz": "skříň",
+     "en": "wardrobe, cupboard"
+    },
+    {
+     "cz": "lampa",
+     "en": "lamp"
+    },
+    {
+     "cz": "gauč",
+     "en": "sofa"
+    },
+    {
+     "cz": "počítač",
+     "en": "computer"
+    },
+    {
+     "cz": "mobil",
+     "en": "mobile phone"
+    },
+    {
+     "cz": "telefon",
+     "en": "telephone"
+    },
+    {
+     "cz": "tužka",
+     "en": "pencil"
+    },
+    {
+     "cz": "propiska",
+     "en": "pen"
+    },
+    {
+     "cz": "sešit",
+     "en": "notebook"
+    },
+    {
+     "cz": "kniha",
+     "en": "book"
+    },
+    {
+     "cz": "taška",
+     "en": "bag"
+    },
+    {
+     "cz": "batoh",
+     "en": "backpack"
+    },
+    {
+     "cz": "klíč",
+     "en": "key"
+    },
+    {
+     "cz": "peněženka",
+     "en": "wallet"
+    },
+    {
+     "cz": "auto",
+     "en": "car"
+    },
+    {
+     "cz": "kolo",
+     "en": "bike"
+    },
+    {
+     "cz": "pes",
+     "en": "dog"
+    },
+    {
+     "cz": "kočka",
+     "en": "cat"
+    },
+    {
+     "cz": "dům",
+     "en": "house"
+    },
+    {
+     "cz": "byt",
+     "en": "flat"
+    },
+    {
+     "cz": "pokoj",
+     "en": "room"
+    },
+    {
+     "cz": "okno",
+     "en": "window"
+    },
+    {
+     "cz": "dveře",
+     "en": "door"
+    },
+    {
+     "cz": "hodinky",
+     "en": "watch"
+    },
+    {
+     "cz": "brýle",
+     "en": "glasses"
+    },
+    {
+     "cz": "tady",
+     "en": "here"
+    },
+    {
+     "cz": "tam",
+     "en": "there"
+    },
+    {
+     "cz": "to je",
+     "en": "this is"
+    },
+    {
+     "cz": "co je to?",
+     "en": "what is this?"
+    }
+   ],
+   "sentences": [
+    {
+     "cz": "To je můj bratr. To je moje sestra.",
+     "en": "This is my brother. This is my sister.",
+     "chunk": false
+    },
+    {
+     "cz": "Kdo je to? — To je moje maminka.",
+     "en": "Who is that? — That's my mum.",
+     "chunk": false
+    },
+    {
+     "cz": "Co je to? — To je stůl.",
+     "en": "What is this? — It's a table.",
+     "chunk": false
+    },
+    {
+     "cz": "Je to tvoje taška? — Ne, není.",
+     "en": "Is it your bag? — No, it isn't.",
+     "chunk": false
+    },
+    {
+     "cz": "Mám dva bratry a jednu sestru.",
+     "en": "I have two brothers and one sister.",
+     "chunk": true
+    },
+    {
+     "cz": "Nemám děti.",
+     "en": "I don't have children.",
+     "chunk": false
+    },
+    {
+     "cz": "Kolik máte dětí? — Mám dvě děti.",
+     "en": "How many children do you have? — I have two children.",
+     "chunk": true
+    },
+    {
+     "cz": "Moje rodina je velká.",
+     "en": "My family is big.",
+     "chunk": false
+    },
+    {
+     "cz": "Můj otec je učitel.",
+     "en": "My father is a teacher.",
+     "chunk": false
+    },
+    {
+     "cz": "Mám malý byt a velkou kočku.",
+     "en": "I have a small flat and a big cat.",
+     "chunk": true
+    },
+    {
+     "cz": "To je ten klíč? — Ano, to je ten klíč.",
+     "en": "Is that the key? — Yes.",
+     "chunk": false
+    },
+    {
+     "cz": "Kde je moje peněženka?",
+     "en": "Where is my wallet?",
+     "chunk": false
+    }
+   ],
+   "speaking": "describe your family (or an imaginary family of five) in 6-8 sentences. Picture description: 3 pictures of rooms with objects (\"Na obrázku je …\", \"Vidím …\"). Role-play: meet a neighbour's family.",
+   "writing": "\"Moje rodina\": 5-6 sentences.",
+   "input": "a short text \"Rodina Novákových\" + comprehension questions.",
+   "realLife": "put Czech sticky labels on 10 things at home with the correct *ten/ta/to* (\"ta židle, to okno, ten stůl\").",
+   "examLink": "Speaking picture description; Reading: simple texts.",
+   "weeklyTest": "gender sort (20 nouns → m/f/n); gap-fill ten/ta/to and můj/moje; mít conjugation; 6 family sentences aloud.",
+   "plan": null,
+   "notes": [],
+   "mock": null
+  },
+  {
+   "week": 4,
+   "phase": "A1 core",
+   "title": "Present tense, daily routine, time",
+   "canDo": "say what you do every day; tell the time; use frequency words.",
+   "patternLab": [
+    "Three verb families. Learn one table each, then every new verb slots in.",
+    "**-ám / -áš (dělat):** dělám · děláš · dělá · děláme · děláte · dělají",
+    "**-ím / -íš (mluvit):** mluvím · mluvíš · mluví · mluvíme · mluvíte · mluví",
+    "**-u / -eš (psát, pracovat):** píšu · píšeš · píše · píšeme · píšete · píšou · and pracuju · pracuješ · pracuje · pracujeme · pracujete · pracujou (formal: pracuji … pracují)",
+    "**Must-know irregulars:** jít (go on foot): jdu · jdeš · jde · jdeme · jdete · jdou · jet (go by vehicle): jedu · jedeš · jede · jedeme · jedete · jedou · číst: čtu · čteš · čte · čteme · čtete · čtou · jíst: jím · jíš · jí · jíme · jíte · jedí · pít: piju · piješ · pije · pijeme · pijete · pijou · spát: spím · spíš · spí · spíme · spíte · spí · vědět: vím · víš · ví · víme · víte · vědí",
+    "**Reflexive verbs:** *učit se, jmenovat se, vstávat* (vstávám, no *se*, that's \"get up\"); *se* sits in slot 2: *Ráno se učím česky.*",
+    "**Time:** Kolik je hodin? Je jedna hodina. Jsou dvě hodiny. Je pět hodin. **Je půl osmé = 7:30** (half *towards* eight). Čtvrt na tři = 2:15. Tři čtvrtě na tři = 2:45. At a time: v sedm hodin.",
+    "**Frequency:** vždy · často · někdy · málokdy · nikdy · každý den. **Double negative is normal:** *Nikdy nejím maso.*"
+   ],
+   "vocabA": [
+    {
+     "cz": "dělat",
+     "en": "to do, to make"
+    },
+    {
+     "cz": "pracovat",
+     "en": "to work"
+    },
+    {
+     "cz": "studovat",
+     "en": "to study"
+    },
+    {
+     "cz": "učit se",
+     "en": "to learn"
+    },
+    {
+     "cz": "mluvit",
+     "en": "to speak"
+    },
+    {
+     "cz": "bydlet",
+     "en": "to live (reside)"
+    },
+    {
+     "cz": "rozumět",
+     "en": "to understand"
+    },
+    {
+     "cz": "číst",
+     "en": "to read"
+    },
+    {
+     "cz": "psát",
+     "en": "to write"
+    },
+    {
+     "cz": "poslouchat",
+     "en": "to listen"
+    },
+    {
+     "cz": "dívat se",
+     "en": "to watch, to look"
+    },
+    {
+     "cz": "vařit",
+     "en": "to cook"
+    },
+    {
+     "cz": "jíst",
+     "en": "to eat"
+    },
+    {
+     "cz": "pít",
+     "en": "to drink"
+    },
+    {
+     "cz": "spát",
+     "en": "to sleep"
+    },
+    {
+     "cz": "vstávat",
+     "en": "to get up"
+    },
+    {
+     "cz": "chodit",
+     "en": "to go (on foot, regularly)"
+    },
+    {
+     "cz": "jezdit",
+     "en": "to go (by vehicle, regularly)"
+    },
+    {
+     "cz": "hrát",
+     "en": "to play"
+    },
+    {
+     "cz": "cvičit",
+     "en": "to exercise"
+    },
+    {
+     "cz": "nakupovat",
+     "en": "to shop"
+    },
+    {
+     "cz": "čekat",
+     "en": "to wait"
+    },
+    {
+     "cz": "hledat",
+     "en": "to look for"
+    },
+    {
+     "cz": "znát",
+     "en": "to know (a person, a place)"
+    },
+    {
+     "cz": "vědět",
+     "en": "to know (a fact)"
+    },
+    {
+     "cz": "mít rád",
+     "en": "to like"
+    },
+    {
+     "cz": "jít",
+     "en": "to go (on foot)"
+    },
+    {
+     "cz": "jet",
+     "en": "to go (by vehicle)"
+    },
+    {
+     "cz": "umývat se",
+     "en": "to wash (yourself)"
+    },
+    {
+     "cz": "sprchovat se",
+     "en": "to shower"
+    }
+   ],
+   "vocabB": [
+    {
+     "cz": "ráno",
+     "en": "morning"
+    },
+    {
+     "cz": "dopoledne",
+     "en": "late morning (before noon)"
+    },
+    {
+     "cz": "poledne",
+     "en": "noon"
+    },
+    {
+     "cz": "odpoledne",
+     "en": "afternoon"
+    },
+    {
+     "cz": "večer",
+     "en": "evening"
+    },
+    {
+     "cz": "v noci",
+     "en": "at night"
+    },
+    {
+     "cz": "hodina",
+     "en": "hour"
+    },
+    {
+     "cz": "minuta",
+     "en": "minute"
+    },
+    {
+     "cz": "den",
+     "en": "day"
+    },
+    {
+     "cz": "týden",
+     "en": "week"
+    },
+    {
+     "cz": "měsíc",
+     "en": "month"
+    },
+    {
+     "cz": "rok",
+     "en": "year"
+    },
+    {
+     "cz": "dnes",
+     "en": "today"
+    },
+    {
+     "cz": "včera",
+     "en": "yesterday"
+    },
+    {
+     "cz": "zítra",
+     "en": "tomorrow"
+    },
+    {
+     "cz": "teď",
+     "en": "now"
+    },
+    {
+     "cz": "potom",
+     "en": "then, afterwards"
+    },
+    {
+     "cz": "pak",
+     "en": "then"
+    },
+    {
+     "cz": "nejdřív",
+     "en": "first"
+    },
+    {
+     "cz": "nakonec",
+     "en": "finally, in the end"
+    },
+    {
+     "cz": "každý den",
+     "en": "every day"
+    },
+    {
+     "cz": "vždy",
+     "en": "always"
+    },
+    {
+     "cz": "často",
+     "en": "often"
+    },
+    {
+     "cz": "někdy",
+     "en": "sometimes"
+    },
+    {
+     "cz": "nikdy",
+     "en": "never"
+    },
+    {
+     "cz": "pondělí",
+     "en": "Monday"
+    },
+    {
+     "cz": "úterý",
+     "en": "Tuesday"
+    },
+    {
+     "cz": "středa",
+     "en": "Wednesday"
+    },
+    {
+     "cz": "čtvrtek",
+     "en": "Thursday"
+    },
+    {
+     "cz": "pátek",
+     "en": "Friday"
+    },
+    {
+     "cz": "sobota",
+     "en": "Saturday"
+    },
+    {
+     "cz": "neděle",
+     "en": "Sunday"
+    },
+    {
+     "cz": "víkend",
+     "en": "weekend"
+    },
+    {
+     "cz": "snídaně",
+     "en": "breakfast"
+    },
+    {
+     "cz": "oběd",
+     "en": "lunch"
+    },
+    {
+     "cz": "večeře",
+     "en": "dinner"
+    }
+   ],
+   "sentences": [
+    {
+     "cz": "Vstávám v sedm hodin.",
+     "en": "I get up at seven.",
+     "chunk": false
+    },
+    {
+     "cz": "Ráno piju kávu a jím snídani.",
+     "en": "In the morning I drink coffee and eat breakfast.",
+     "chunk": true
+    },
+    {
+     "cz": "Pracuju od devíti do pěti.",
+     "en": "I work from nine to five.",
+     "chunk": true
+    },
+    {
+     "cz": "Kolik je hodin? — Je půl osmé.",
+     "en": "What time is it? — Half past seven.",
+     "chunk": false
+    },
+    {
+     "cz": "Večer se dívám na seriál.",
+     "en": "In the evening I watch a series.",
+     "chunk": true
+    },
+    {
+     "cz": "Studuju češtinu každý den.",
+     "en": "I study Czech every day.",
+     "chunk": true
+    },
+    {
+     "cz": "Mluvíš česky? — Trochu.",
+     "en": "Do you speak Czech? — A little.",
+     "chunk": false
+    },
+    {
+     "cz": "Nikdy nejím maso.",
+     "en": "I never eat meat.",
+     "chunk": false
+    },
+    {
+     "cz": "V sobotu nepracuju.",
+     "en": "I don't work on Saturday.",
+     "chunk": true
+    },
+    {
+     "cz": "Chodím do práce pěšky.",
+     "en": "I walk to work.",
+     "chunk": true
+    },
+    {
+     "cz": "Co děláš večer?",
+     "en": "What do you do in the evening?",
+     "chunk": false
+    },
+    {
+     "cz": "Kdy vstáváš? — Vstávám brzy.",
+     "en": "When do you get up? — Early.",
+     "chunk": false
+    }
+   ],
+   "speaking": "describe a normal day in 8 sentences with times. Role-play: ask a neighbour about their routine. Time drill: the app shows a clock, you say the time.",
+   "writing": "WhatsApp message to a friend about your day (6 sentences).",
+   "input": "a text \"Jeden den v životě\" + timetable reading (bus times).",
+   "realLife": "tell the time out loud in Czech every hour for a day (set an alarm).",
+   "examLink": "Reading timetables; Listening times; Speaking daily life.",
+   "weeklyTest": "conjugate 6 verbs (2 per family); 10 clock times (say + hear); 5 frequency sentences; speak a 60-second day description.",
+   "plan": null,
+   "notes": [],
+   "mock": null
+  },
+  {
+   "week": 5,
+   "phase": "A1 core",
+   "title": "Chtít, food, café, prices",
+   "canDo": "order food and drinks, ask the price, pay.",
+   "patternLab": [
+    "**chtít:** chci · chceš · chce · chceme · chcete · chtějí.",
+    "**Polite ordering chunks ★:** *Dal bych si … / Dala bych si … · Dám si … · Chtěl bych … / Chtěla bych … · Prosím vás, … · Máte …?*",
+    "**Numbers 100-1000:** 100 sto · 200 dvě stě · 300 tři sta · 400 čtyři sta · 500 pět set · 1000 tisíc · 2000 dva tisíce.",
+    "**Money:** koruna (1) · koruny (2-4) · korun (5+). *Kolik to stojí? — To stojí sto dvacet korun.* Prices: *Platím kartou / hotově.*",
+    "**Hook:** \"Dám si / Chtěl bych + the thing\" works for everything: coffee, ticket, appointment, flat."
+   ],
+   "vocabA": [
+    {
+     "cz": "voda",
+     "en": "water"
+    },
+    {
+     "cz": "káva",
+     "en": "coffee"
+    },
+    {
+     "cz": "čaj",
+     "en": "tea"
+    },
+    {
+     "cz": "mléko",
+     "en": "milk"
+    },
+    {
+     "cz": "pivo",
+     "en": "beer"
+    },
+    {
+     "cz": "víno",
+     "en": "wine"
+    },
+    {
+     "cz": "džus",
+     "en": "juice"
+    },
+    {
+     "cz": "limonáda",
+     "en": "lemonade, soft drink"
+    },
+    {
+     "cz": "chléb",
+     "en": "bread"
+    },
+    {
+     "cz": "rohlík",
+     "en": "bread roll"
+    },
+    {
+     "cz": "sýr",
+     "en": "cheese"
+    },
+    {
+     "cz": "šunka",
+     "en": "ham"
+    },
+    {
+     "cz": "máslo",
+     "en": "butter"
+    },
+    {
+     "cz": "vejce",
+     "en": "egg"
+    },
+    {
+     "cz": "maso",
+     "en": "meat"
+    },
+    {
+     "cz": "kuře",
+     "en": "chicken"
+    },
+    {
+     "cz": "ryba",
+     "en": "fish"
+    },
+    {
+     "cz": "rýže",
+     "en": "rice"
+    },
+    {
+     "cz": "těstoviny",
+     "en": "pasta"
+    },
+    {
+     "cz": "brambory",
+     "en": "potatoes"
+    },
+    {
+     "cz": "polévka",
+     "en": "soup"
+    },
+    {
+     "cz": "salát",
+     "en": "salad"
+    },
+    {
+     "cz": "zelenina",
+     "en": "vegetables"
+    },
+    {
+     "cz": "ovoce",
+     "en": "fruit"
+    },
+    {
+     "cz": "jablko",
+     "en": "apple"
+    },
+    {
+     "cz": "banán",
+     "en": "banana"
+    },
+    {
+     "cz": "dort",
+     "en": "cake"
+    },
+    {
+     "cz": "zmrzlina",
+     "en": "ice cream"
+    },
+    {
+     "cz": "cukr",
+     "en": "sugar"
+    },
+    {
+     "cz": "sůl",
+     "en": "salt"
+    },
+    {
+     "cz": "snídaně",
+     "en": "breakfast"
+    },
+    {
+     "cz": "oběd",
+     "en": "lunch"
+    },
+    {
+     "cz": "večeře",
+     "en": "dinner"
+    },
+    {
+     "cz": "knedlíky",
+     "en": "dumplings"
+    },
+    {
+     "cz": "řízek",
+     "en": "schnitzel"
+    },
+    {
+     "cz": "guláš",
+     "en": "goulash"
+    },
+    {
+     "cz": "koláč",
+     "en": "pastry, small cake"
+    },
+    {
+     "cz": "vegetariánský",
+     "en": "vegetarian"
+    },
+    {
+     "cz": "bez masa",
+     "en": "without meat"
+    }
+   ],
+   "vocabB": [
+    {
+     "cz": "kavárna",
+     "en": "café"
+    },
+    {
+     "cz": "restaurace",
+     "en": "restaurant"
+    },
+    {
+     "cz": "hospoda",
+     "en": "pub"
+    },
+    {
+     "cz": "jídelní lístek",
+     "en": "menu"
+    },
+    {
+     "cz": "číšník / číšnice",
+     "en": "waiter / waitress"
+    },
+    {
+     "cz": "stůl pro dva",
+     "en": "table for two"
+    },
+    {
+     "cz": "rezervace",
+     "en": "reservation"
+    },
+    {
+     "cz": "objednat",
+     "en": "order"
+    },
+    {
+     "cz": "účet",
+     "en": "bill"
+    },
+    {
+     "cz": "spropitné",
+     "en": "tip"
+    },
+    {
+     "cz": "platit",
+     "en": "to pay"
+    },
+    {
+     "cz": "hotově",
+     "en": "cash"
+    },
+    {
+     "cz": "kartou",
+     "en": "card"
+    },
+    {
+     "cz": "drobné",
+     "en": "change"
+    },
+    {
+     "cz": "sleva",
+     "en": "discount"
+    },
+    {
+     "cz": "účtenka",
+     "en": "receipt"
+    },
+    {
+     "cz": "obchod",
+     "en": "shop"
+    },
+    {
+     "cz": "pokladna",
+     "en": "checkout"
+    },
+    {
+     "cz": "levný",
+     "en": "cheap"
+    },
+    {
+     "cz": "drahý",
+     "en": "expensive"
+    },
+    {
+     "cz": "zadarmo",
+     "en": "free"
+    },
+    {
+     "cz": "stát",
+     "en": "cost"
+    },
+    {
+     "cz": "malý / velký",
+     "en": "small / big"
+    },
+    {
+     "cz": "ještě jednou",
+     "en": "another"
+    },
+    {
+     "cz": "dobrou chuť",
+     "en": "enjoy"
+    }
+   ],
+   "sentences": [
+    {
+     "cz": "Dal bych si kávu a vodu, prosím.",
+     "en": "I'd like a coffee and a water, please.",
+     "chunk": true
+    },
+    {
+     "cz": "Chtěla bych stůl pro dva.",
+     "en": "I'd like a table for two.",
+     "chunk": true
+    },
+    {
+     "cz": "Máte vegetariánské jídlo?",
+     "en": "Do you have vegetarian food?",
+     "chunk": false
+    },
+    {
+     "cz": "Kolik to stojí? — To stojí sto dvacet korun.",
+     "en": "How much is it? — 120 crowns.",
+     "chunk": false
+    },
+    {
+     "cz": "Můžu platit kartou? — Ano, můžete.",
+     "en": "Can I pay by card? — Yes, you can.",
+     "chunk": false
+    },
+    {
+     "cz": "Účet, prosím.",
+     "en": "The bill, please.",
+     "chunk": false
+    },
+    {
+     "cz": "Dobrou chuť!",
+     "en": "Enjoy your meal!",
+     "chunk": false
+    },
+    {
+     "cz": "Chci kávu s mlékem.",
+     "en": "I want coffee with milk.",
+     "chunk": true
+    },
+    {
+     "cz": "Jedna káva, dvě piva, tři rohlíky.",
+     "en": "One coffee, two beers, three rolls.",
+     "chunk": false
+    },
+    {
+     "cz": "Nejím maso.",
+     "en": "I don't eat meat.",
+     "chunk": false
+    },
+    {
+     "cz": "To je drahé.",
+     "en": "That's expensive.",
+     "chunk": false
+    },
+    {
+     "cz": "Je to dobré.",
+     "en": "It's good.",
+     "chunk": false
+    }
+   ],
+   "speaking": "café role-play ×3 variants (normal order; wrong order, you correct it politely; ask for recommendation and price). Restaurant: table, order, bill.",
+   "writing": "a short order message to a bakery; fill a mini menu form.",
+   "input": "a real-style menu with prices (read), a waiter dialogue (listen).",
+   "realLife": "order your next coffee entirely in Czech, pay in Czech.",
+   "examLink": "Speaking situational; Listening prices; Reading menus.",
+   "weeklyTest": "price dictation ×6; order lines ×5; 20 food words; speak one café dialogue.",
+   "plan": null,
+   "notes": [],
+   "mock": null
+  },
+  {
+   "week": 6,
+   "phase": "A1 core",
+   "title": "Accusative I (nouns)",
+   "canDo": "say what you have, want, need, buy, see, know with correct noun endings.",
+   "patternLab": [
+    "**Accusative = the thing the verb hits** (*koho? co?*): *Vidím kávu.*",
+    "**Only two groups change in the singular:**",
+    "  1. **Feminine -a → -u:** káva → kávu, kniha → knihu, práce → práci (fem -e → -i), noc → noc (consonant fem unchanged).",
+    "  2. **Living masculine adds -a / -e:** bratr → bratra, kluk → kluka, student → studenta, učitel → učitele, lékař → lékaře, pes → psa.",
+    "**Everything else = nominative:** masculine things (stůl, byt, řízek), neuter (auto, maso, město).",
+    "**Pronouns:** mě · tě · ho (him/it) · ji (her) · nás · vás · je (them).",
+    "**Prepositions + accusative:** na (onto/to a place/for a purpose: *nabíječka na telefon*) · pro (for) · přes (across, through) · za (in exchange for / behind with movement) · o (about, *prosit o*, *starat se o*).",
+    "**Hook:** ask *co? / koho?* about the object. If it is a feminine -a word, change to -u; if it is a living man/animal, add -a."
+   ],
+   "vocabA": [
+    {
+     "cz": "koupit / kupovat",
+     "en": "to buy"
+    },
+    {
+     "cz": "prodávat",
+     "en": "to sell"
+    },
+    {
+     "cz": "potřebovat",
+     "en": "to need"
+    },
+    {
+     "cz": "hledat",
+     "en": "to look for"
+    },
+    {
+     "cz": "najít",
+     "en": "to find"
+    },
+    {
+     "cz": "vzít",
+     "en": "to take"
+    },
+    {
+     "cz": "dát",
+     "en": "to give"
+    },
+    {
+     "cz": "dostat",
+     "en": "to get, to receive"
+    },
+    {
+     "cz": "vidět",
+     "en": "to see"
+    },
+    {
+     "cz": "slyšet",
+     "en": "to hear"
+    },
+    {
+     "cz": "znát",
+     "en": "to know (a person, a place)"
+    },
+    {
+     "cz": "mít rád",
+     "en": "to like"
+    },
+    {
+     "cz": "milovat",
+     "en": "to love"
+    },
+    {
+     "cz": "čekat na",
+     "en": "to wait for"
+    },
+    {
+     "cz": "nosit",
+     "en": "to wear, to carry"
+    },
+    {
+     "cz": "vracet",
+     "en": "to return (give back)"
+    },
+    {
+     "cz": "zkusit",
+     "en": "to try"
+    },
+    {
+     "cz": "vybrat",
+     "en": "choose"
+    },
+    {
+     "cz": "zaplatit",
+     "en": "pay"
+    },
+    {
+     "cz": "půjčit",
+     "en": "to lend, to borrow"
+    }
+   ],
+   "vocabB": [
+    {
+     "cz": "oblečení",
+     "en": "clothes"
+    },
+    {
+     "cz": "košile",
+     "en": "shirt"
+    },
+    {
+     "cz": "tričko",
+     "en": "T-shirt"
+    },
+    {
+     "cz": "kalhoty",
+     "en": "trousers"
+    },
+    {
+     "cz": "džíny",
+     "en": "jeans"
+    },
+    {
+     "cz": "sukně",
+     "en": "skirt"
+    },
+    {
+     "cz": "šaty",
+     "en": "dress"
+    },
+    {
+     "cz": "bunda",
+     "en": "jacket"
+    },
+    {
+     "cz": "kabát",
+     "en": "coat"
+    },
+    {
+     "cz": "boty",
+     "en": "shoes"
+    },
+    {
+     "cz": "ponožky",
+     "en": "socks"
+    },
+    {
+     "cz": "čepice",
+     "en": "cap, hat"
+    },
+    {
+     "cz": "šála",
+     "en": "scarf"
+    },
+    {
+     "cz": "rukavice",
+     "en": "gloves"
+    },
+    {
+     "cz": "taška",
+     "en": "bag"
+    },
+    {
+     "cz": "batoh",
+     "en": "backpack"
+    },
+    {
+     "cz": "brýle",
+     "en": "glasses"
+    },
+    {
+     "cz": "hodinky",
+     "en": "watch"
+    },
+    {
+     "cz": "mobil",
+     "en": "mobile phone"
+    },
+    {
+     "cz": "nabíječka",
+     "en": "charger"
+    },
+    {
+     "cz": "sluchátka",
+     "en": "headphones"
+    },
+    {
+     "cz": "notebook",
+     "en": "laptop"
+    },
+    {
+     "cz": "dárek",
+     "en": "gift"
+    },
+    {
+     "cz": "velikost",
+     "en": "size"
+    },
+    {
+     "cz": "barva",
+     "en": "colour"
+    },
+    {
+     "cz": "zkoušet",
+     "en": "try on"
+    },
+    {
+     "cz": "sedí",
+     "en": "fits"
+    }
+   ],
+   "sentences": [
+    {
+     "cz": "Mám novou práci.",
+     "en": "I have a new job.",
+     "chunk": true
+    },
+    {
+     "cz": "Potřebuju novou bundu.",
+     "en": "I need a new jacket.",
+     "chunk": false
+    },
+    {
+     "cz": "Kupuju dárek pro kamaráda.",
+     "en": "I'm buying a gift for a friend.",
+     "chunk": false
+    },
+    {
+     "cz": "Hledám kavárnu.",
+     "en": "I'm looking for a café.",
+     "chunk": false
+    },
+    {
+     "cz": "Vidím tě. / Vidím ji.",
+     "en": "I see you. / I see her.",
+     "chunk": false
+    },
+    {
+     "cz": "Znám tu paní.",
+     "en": "I know that lady.",
+     "chunk": false
+    },
+    {
+     "cz": "Mám rád kávu. / Mám ráda čaj.",
+     "en": "I like coffee. / I like tea.",
+     "chunk": false
+    },
+    {
+     "cz": "Čekám na autobus.",
+     "en": "I'm waiting for the bus.",
+     "chunk": false
+    },
+    {
+     "cz": "Čtu knihu a piju čaj.",
+     "en": "I'm reading a book and drinking tea.",
+     "chunk": false
+    },
+    {
+     "cz": "Dám si polévku a řízek.",
+     "en": "I'll have soup and schnitzel.",
+     "chunk": false
+    },
+    {
+     "cz": "Potřebuju nabíječku na telefon.",
+     "en": "I need a phone charger.",
+     "chunk": false
+    },
+    {
+     "cz": "Jdu na poštu.",
+     "en": "I'm going to the post office.",
+     "chunk": true
+    }
+   ],
+   "speaking": "clothes shopping role-play (size, colour, try on, price). Describe what you're wearing in 5 sentences.",
+   "writing": "a shopping list + message \"Potřebuju koupit …\" (6 sentences).",
+   "input": "shop ads and signs (read), a shop dialogue (listen).",
+   "realLife": "do one small purchase in Czech and ask one question.",
+   "examLink": "Reading ads/signs; Speaking situational; Writing short messages.",
+   "weeklyTest": "20 gap-fills (change noun to accusative); 5 pronoun sentences; 5 prepositions (na/pro/přes); speak a shop dialogue.",
+   "plan": null,
+   "notes": [],
+   "mock": null
+  },
+  {
+   "week": 7,
+   "phase": "A1 core",
+   "title": "Accusative II (adjectives, days, hobbies, kam?)",
+   "canDo": "describe things with adjectives, talk about your free time and weekend plans.",
+   "patternLab": [
+    "**Adjectives in accusative** (hard type nový): masc **animate -ého** (nového bratra) · masc **inanimate -ý** (nový stůl) · fem **-ou** (novou knihu) · neuter **-é** (nové auto). Soft type (moderní): same form except masc animate -ího.",
+    "**ten/ta/to in accusative:** masc animate **toho** · masc inanimate **ten** · fem **tu** · neuter **to**.",
+    "**Days of the week with \"v/ve\" (accusative) ★:** v pondělí · v úterý · ve středu · ve čtvrtek · v pátek · v sobotu · v neděli.",
+    "**rád / ráda + verb:** *Rád čtu. Ráda vařím.* (-á for women.)",
+    "**Hook:** adjective = copy the noun's ending. Find the noun's gender first."
+   ],
+   "vocabA": [
+    {
+     "cz": "koníček",
+     "en": "hobby"
+    },
+    {
+     "cz": "volný čas",
+     "en": "free time"
+    },
+    {
+     "cz": "sport",
+     "en": "sport"
+    },
+    {
+     "cz": "fotbal",
+     "en": "football"
+    },
+    {
+     "cz": "tenis",
+     "en": "tennis"
+    },
+    {
+     "cz": "plavání",
+     "en": "swimming"
+    },
+    {
+     "cz": "běhat",
+     "en": "to run, to jog"
+    },
+    {
+     "cz": "jezdit na kole",
+     "en": "to ride a bike"
+    },
+    {
+     "cz": "cvičit",
+     "en": "to exercise"
+    },
+    {
+     "cz": "turistika",
+     "en": "hiking"
+    },
+    {
+     "cz": "hudba",
+     "en": "music"
+    },
+    {
+     "cz": "film",
+     "en": "film"
+    },
+    {
+     "cz": "kino",
+     "en": "cinema"
+    },
+    {
+     "cz": "divadlo",
+     "en": "theatre"
+    },
+    {
+     "cz": "koncert",
+     "en": "concert"
+    },
+    {
+     "cz": "hrát na kytaru",
+     "en": "to play the guitar"
+    },
+    {
+     "cz": "hrát hry",
+     "en": "to play games"
+    },
+    {
+     "cz": "číst",
+     "en": "to read"
+    },
+    {
+     "cz": "kreslit",
+     "en": "to draw"
+    },
+    {
+     "cz": "malovat",
+     "en": "to paint"
+    },
+    {
+     "cz": "fotografovat",
+     "en": "to take photos"
+    },
+    {
+     "cz": "vařit",
+     "en": "to cook"
+    },
+    {
+     "cz": "zahrada",
+     "en": "garden"
+    },
+    {
+     "cz": "procházka",
+     "en": "walk"
+    },
+    {
+     "cz": "výlet",
+     "en": "trip"
+    },
+    {
+     "cz": "cestovat",
+     "en": "to travel"
+    },
+    {
+     "cz": "příroda",
+     "en": "nature"
+    }
+   ],
+   "vocabB": [
+    {
+     "cz": "nový",
+     "en": "new"
+    },
+    {
+     "cz": "starý",
+     "en": "old"
+    },
+    {
+     "cz": "velký",
+     "en": "big"
+    },
+    {
+     "cz": "malý",
+     "en": "small"
+    },
+    {
+     "cz": "dobrý",
+     "en": "good"
+    },
+    {
+     "cz": "špatný",
+     "en": "bad"
+    },
+    {
+     "cz": "levný",
+     "en": "cheap"
+    },
+    {
+     "cz": "drahý",
+     "en": "expensive"
+    },
+    {
+     "cz": "zajímavý",
+     "en": "interesting"
+    },
+    {
+     "cz": "nudný",
+     "en": "boring"
+    },
+    {
+     "cz": "hezký",
+     "en": "nice, pretty"
+    },
+    {
+     "cz": "krásný",
+     "en": "beautiful"
+    },
+    {
+     "cz": "těžký",
+     "en": "heavy, difficult"
+    },
+    {
+     "cz": "lehký",
+     "en": "light, easy"
+    },
+    {
+     "cz": "rychlý",
+     "en": "fast"
+    },
+    {
+     "cz": "pomalý",
+     "en": "slow"
+    },
+    {
+     "cz": "teplý",
+     "en": "warm"
+    },
+    {
+     "cz": "studený",
+     "en": "cold"
+    },
+    {
+     "cz": "červený",
+     "en": "red"
+    },
+    {
+     "cz": "modrý",
+     "en": "blue"
+    },
+    {
+     "cz": "zelený",
+     "en": "green"
+    },
+    {
+     "cz": "žlutý",
+     "en": "yellow"
+    },
+    {
+     "cz": "černý",
+     "en": "black"
+    },
+    {
+     "cz": "bílý",
+     "en": "white"
+    },
+    {
+     "cz": "hnědý",
+     "en": "brown"
+    },
+    {
+     "cz": "šedý",
+     "en": "grey"
+    },
+    {
+     "cz": "oranžový",
+     "en": "orange"
+    },
+    {
+     "cz": "růžový",
+     "en": "pink"
+    }
+   ],
+   "sentences": [
+    {
+     "cz": "Mám rád dobrou hudbu.",
+     "en": "I like good music.",
+     "chunk": false
+    },
+    {
+     "cz": "Čtu zajímavou knihu.",
+     "en": "I'm reading an interesting book.",
+     "chunk": false
+    },
+    {
+     "cz": "Ráda cestuju a fotografuju přírodu.",
+     "en": "I like to travel and photograph nature.",
+     "chunk": false
+    },
+    {
+     "cz": "Ve středu cvičím a v sobotu chodím na výlet.",
+     "en": "On Wednesday I exercise and on Saturday I go on a trip.",
+     "chunk": true
+    },
+    {
+     "cz": "Co děláš ve volném čase?",
+     "en": "What do you do in your free time?",
+     "chunk": true
+    },
+    {
+     "cz": "V sobotu jdu do kina.",
+     "en": "On Saturday I'm going to the cinema.",
+     "chunk": true
+    },
+    {
+     "cz": "Jedu na víkend do Brna.",
+     "en": "I'm going to Brno for the weekend.",
+     "chunk": true
+    },
+    {
+     "cz": "Hraju hry a poslouchám hudbu.",
+     "en": "I play games and listen to music.",
+     "chunk": false
+    },
+    {
+     "cz": "Mám velký červený batoh.",
+     "en": "I have a big red backpack.",
+     "chunk": false
+    },
+    {
+     "cz": "Znám toho pána.",
+     "en": "I know that gentleman.",
+     "chunk": false
+    },
+    {
+     "cz": "Líbí se mi ten film.",
+     "en": "I like that film.",
+     "chunk": true
+    },
+    {
+     "cz": "Chceš jít na kávu?",
+     "en": "Do you want to go for a coffee?",
+     "chunk": false
+    }
+   ],
+   "speaking": "talk about hobbies and the weekend (8 sentences); invite a friend to do something (simple). Describe a picture of people doing activities.",
+   "writing": "message to a friend about the weekend + 3 questions.",
+   "input": "a text \"Co děláme o víkendu\" + a short podcast clip.",
+   "realLife": "tell a Czech person one hobby and ask theirs.",
+   "examLink": "Speaking free-time topic; Writing short message.",
+   "weeklyTest": "adjective gap-fills ×15; days with v/ve ×7; 5 hobby questions aloud.",
+   "plan": null,
+   "notes": [],
+   "mock": null
+  },
+  {
+   "week": 8,
+   "phase": "A1 core",
+   "title": "Locative: where? Places and the city",
+   "canDo": "say where things and people are, where you live and work.",
+   "patternLab": [
+    "**Locative = \"where? / about what?\"** and it **always comes after a preposition:** *v/ve* (in) · *na* (on/at) · *o* (about) · *po* (after/around) · *při*.",
+    "**Endings (singular):**",
+    "  - Masculine: **-ě / -e** (obchod → v obchodě, dům → v domě) or **-u** (park → v parku, les → v lese, klub → v klubu, na stole). Learn the common ones as chunks.",
+    "  - Feminine **-a → -ě / -e:** kavárna → v kavárně · škola → ve škole · Praha → v Praze · pošta → na poště · kniha → v knize · zastávka → na zastávce.",
+    "  - Feminine **-e / consonant → -i:** ulice → na ulici · kancelář → v kanceláři · židle → na židli.",
+    "  - Neuter **-o → -ě / -e:** město → ve městě · kolo → na kole; foreign words in -u (metro → v metru); **-e → -i:** moře → v moři; **-í** unchanged (nádraží → na nádraží).",
+    "**Adjectives:** -ém (v novém bytě) · -é (v nové škole).",
+    "**Pronouns:** o mně · o tobě · o něm · o ní · o nás · o vás · o nich.",
+    "**kde? vs kam?** *Kde jsi? — Jsem v obchodě / na poště.* · *Kam jdeš? — Jdu do obchodu / na poštu* ★ (do + genitive, na + accusative).",
+    "**Hook:** v/na + \"where\" = locative. Change the question to \"where to?\" and the case changes."
+   ],
+   "vocabA": [
+    {
+     "cz": "byt",
+     "en": "flat"
+    },
+    {
+     "cz": "dům",
+     "en": "house"
+    },
+    {
+     "cz": "pokoj",
+     "en": "room"
+    },
+    {
+     "cz": "kuchyň",
+     "en": "kitchen"
+    },
+    {
+     "cz": "koupelna",
+     "en": "bathroom"
+    },
+    {
+     "cz": "ložnice",
+     "en": "bedroom"
+    },
+    {
+     "cz": "balkon",
+     "en": "balcony"
+    },
+    {
+     "cz": "zahrada",
+     "en": "garden"
+    },
+    {
+     "cz": "ulice",
+     "en": "street"
+    },
+    {
+     "cz": "náměstí",
+     "en": "square"
+    },
+    {
+     "cz": "centrum",
+     "en": "centre"
+    },
+    {
+     "cz": "park",
+     "en": "park"
+    },
+    {
+     "cz": "škola",
+     "en": "school"
+    },
+    {
+     "cz": "univerzita",
+     "en": "university"
+    },
+    {
+     "cz": "kancelář",
+     "en": "office"
+    },
+    {
+     "cz": "obchod",
+     "en": "shop"
+    },
+    {
+     "cz": "supermarket",
+     "en": "supermarket"
+    },
+    {
+     "cz": "lékárna",
+     "en": "pharmacy"
+    },
+    {
+     "cz": "pošta",
+     "en": "post office"
+    },
+    {
+     "cz": "banka",
+     "en": "bank"
+    },
+    {
+     "cz": "nemocnice",
+     "en": "hospital"
+    },
+    {
+     "cz": "ordinace",
+     "en": "doctor's surgery"
+    },
+    {
+     "cz": "restaurace",
+     "en": "restaurant"
+    },
+    {
+     "cz": "kavárna",
+     "en": "café"
+    },
+    {
+     "cz": "kino",
+     "en": "cinema"
+    },
+    {
+     "cz": "divadlo",
+     "en": "theatre"
+    },
+    {
+     "cz": "knihovna",
+     "en": "library"
+    },
+    {
+     "cz": "muzeum",
+     "en": "museum"
+    },
+    {
+     "cz": "hotel",
+     "en": "hotel"
+    },
+    {
+     "cz": "nádraží",
+     "en": "railway station"
+    },
+    {
+     "cz": "letiště",
+     "en": "airport"
+    },
+    {
+     "cz": "zastávka",
+     "en": "stop (bus / tram)"
+    },
+    {
+     "cz": "most",
+     "en": "bridge"
+    },
+    {
+     "cz": "hřiště",
+     "en": "playground, sports field"
+    },
+    {
+     "cz": "bazén",
+     "en": "swimming pool"
+    },
+    {
+     "cz": "posilovna",
+     "en": "gym"
+    },
+    {
+     "cz": "trh",
+     "en": "market"
+    },
+    {
+     "cz": "patro",
+     "en": "floor"
+    }
+   ],
+   "vocabB": [
+    {
+     "cz": "doma",
+     "en": "at home"
+    },
+    {
+     "cz": "domů",
+     "en": "(going) home"
+    },
+    {
+     "cz": "v práci",
+     "en": "at work"
+    },
+    {
+     "cz": "ve škole",
+     "en": "at school"
+    },
+    {
+     "cz": "tady",
+     "en": "here"
+    },
+    {
+     "cz": "tam",
+     "en": "there"
+    },
+    {
+     "cz": "všude",
+     "en": "everywhere"
+    },
+    {
+     "cz": "nikde",
+     "en": "nowhere"
+    },
+    {
+     "cz": "někde",
+     "en": "somewhere"
+    },
+    {
+     "cz": "blízko",
+     "en": "near"
+    },
+    {
+     "cz": "daleko",
+     "en": "far"
+    },
+    {
+     "cz": "nejbližší",
+     "en": "the nearest"
+    },
+    {
+     "cz": "první",
+     "en": "first"
+    },
+    {
+     "cz": "druhé",
+     "en": "second"
+    },
+    {
+     "cz": "třetí",
+     "en": "third (floors: v prvním / druhém / třetím patře = on the 1st / 2nd / 3rd floor)"
+    },
+    {
+     "cz": "centrum",
+     "en": "centre"
+    },
+    {
+     "cz": "okraj",
+     "en": "edge, outskirts"
+    },
+    {
+     "cz": "čtvrť",
+     "en": "neighbourhood, district"
+    },
+    {
+     "cz": "mluvit o + loc",
+     "en": "to talk about (+ locative)"
+    },
+    {
+     "cz": "bydlet v + loc",
+     "en": "to live in (+ locative)"
+    },
+    {
+     "cz": "pracovat v + loc",
+     "en": "to work in (+ locative)"
+    }
+   ],
+   "sentences": [
+    {
+     "cz": "Bydlím v Praze v malém bytě.",
+     "en": "I live in Prague in a small flat.",
+     "chunk": true
+    },
+    {
+     "cz": "Pracuju v centru.",
+     "en": "I work in the centre.",
+     "chunk": false
+    },
+    {
+     "cz": "Kancelář je ve druhém patře.",
+     "en": "The office is on the second floor.",
+     "chunk": true
+    },
+    {
+     "cz": "Kde je nejbližší lékárna?",
+     "en": "Where's the nearest pharmacy?",
+     "chunk": true
+    },
+    {
+     "cz": "Jsem doma. Jsem v práci. Jsem ve škole.",
+     "en": "I'm at home. I'm at work. I'm at school.",
+     "chunk": false
+    },
+    {
+     "cz": "Jdu do práce. Jdu domů.",
+     "en": "I'm going to work. I'm going home.",
+     "chunk": true
+    },
+    {
+     "cz": "V pokoji je stůl a dvě židle.",
+     "en": "In the room there's a table and two chairs.",
+     "chunk": false
+    },
+    {
+     "cz": "Mluvíme o práci.",
+     "en": "We're talking about work.",
+     "chunk": false
+    },
+    {
+     "cz": "Čtu o Praze.",
+     "en": "I'm reading about Prague.",
+     "chunk": false
+    },
+    {
+     "cz": "Mluvíš o mně?",
+     "en": "Are you talking about me?",
+     "chunk": false
+    },
+    {
+     "cz": "Kde jsi? — Jsem na zastávce.",
+     "en": "Where are you? — At the stop.",
+     "chunk": false
+    },
+    {
+     "cz": "Bydlím tady dva roky.",
+     "en": "I've lived here for two years.",
+     "chunk": false
+    }
+   ],
+   "speaking": "describe your home and neighbourhood (10 sentences). Phone role-play: \"Kde jsi?\" \"Jsem na … před …\".",
+   "writing": "write a flat description for a rental ad (6-8 sentences).",
+   "input": "a text about a city district + a map task (listen and place items).",
+   "realLife": "name 10 places on your walk in Czech.",
+   "examLink": "Reading maps/signs; Speaking describing a place.",
+   "weeklyTest": "change 20 nouns to locative; kde/kam sort ×10; 5 sentences with o + locative; speak a home description.",
+   "plan": null,
+   "notes": [],
+   "mock": null
+  },
+  {
+   "week": 9,
+   "phase": "A1 core",
+   "title": "Directions and transport",
+   "canDo": "ask for and give directions, buy a ticket, understand timetable information and delays.",
+   "patternLab": [
+    "**Polite instructions (imperative, vy-form) as chunks ★:** jděte · jeďte · odbočte · pokračujte · počkejte · řekněte · otevřete · zavřete · vystupujte.",
+    "**Direction words:** rovně straight · doleva · doprava · na rohu · na křižovatce · naproti opposite · vedle next to · blízko · daleko · první / druhá odbočka.",
+    "**Movement prepositions:** **do** (into; + genitive) · **na** (to an open place or event; + accusative) · **k** (towards a person; + dative) · **z / od** (from; + genitive) · **přes** (across) · **kolem** (around/past). Learn these place chunks: *do obchodu, do parku, do města, do Prahy, do práce, do školy, do banky, na poštu, na nádraží, na letiště, na zastávku, k lékaři.* ★",
+    "**By vehicle (instrumental) ★:** jet autobusem, vlakem, tramvají, metrem, autem; jít pěšky.",
+    "**Hook:** \"inside → do, open space/event → na, person → k.\""
+   ],
+   "vocabA": [
+    {
+     "cz": "rovně",
+     "en": "straight on"
+    },
+    {
+     "cz": "doleva",
+     "en": "(to the) left"
+    },
+    {
+     "cz": "doprava",
+     "en": "(to the) right"
+    },
+    {
+     "cz": "na rohu",
+     "en": "on the corner"
+    },
+    {
+     "cz": "na křižovatce",
+     "en": "at the crossroads"
+    },
+    {
+     "cz": "naproti",
+     "en": "opposite"
+    },
+    {
+     "cz": "vedle",
+     "en": "next to"
+    },
+    {
+     "cz": "za rohem",
+     "en": "around the corner"
+    },
+    {
+     "cz": "semafor",
+     "en": "traffic lights"
+    },
+    {
+     "cz": "přechod",
+     "en": "pedestrian crossing"
+    },
+    {
+     "cz": "most",
+     "en": "bridge"
+    },
+    {
+     "cz": "zastavit",
+     "en": "to stop"
+    },
+    {
+     "cz": "pokračovat",
+     "en": "to continue"
+    },
+    {
+     "cz": "odbočit",
+     "en": "to turn (off)"
+    },
+    {
+     "cz": "přejít",
+     "en": "to cross (on foot)"
+    },
+    {
+     "cz": "pěšky",
+     "en": "on foot"
+    },
+    {
+     "cz": "minuta pěšky",
+     "en": "a minute's walk"
+    },
+    {
+     "cz": "cesta",
+     "en": "way"
+    },
+    {
+     "cz": "mapa",
+     "en": "map"
+    },
+    {
+     "cz": "adresa",
+     "en": "address"
+    }
+   ],
+   "vocabB": [
+    {
+     "cz": "autobus",
+     "en": "bus"
+    },
+    {
+     "cz": "tramvaj",
+     "en": "tram"
+    },
+    {
+     "cz": "metro",
+     "en": "underground, metro"
+    },
+    {
+     "cz": "vlak",
+     "en": "train"
+    },
+    {
+     "cz": "taxi",
+     "en": "taxi"
+    },
+    {
+     "cz": "auto",
+     "en": "car"
+    },
+    {
+     "cz": "kolo",
+     "en": "bike"
+    },
+    {
+     "cz": "letadlo",
+     "en": "plane"
+    },
+    {
+     "cz": "jízdenka",
+     "en": "ticket (transport)"
+    },
+    {
+     "cz": "lístek",
+     "en": "ticket"
+    },
+    {
+     "cz": "jízdní řád",
+     "en": "timetable"
+    },
+    {
+     "cz": "linka",
+     "en": "line (bus / tram)"
+    },
+    {
+     "cz": "spoj",
+     "en": "connection"
+    },
+    {
+     "cz": "nástupiště",
+     "en": "platform"
+    },
+    {
+     "cz": "odjezd",
+     "en": "departure"
+    },
+    {
+     "cz": "příjezd",
+     "en": "arrival"
+    },
+    {
+     "cz": "zpoždění",
+     "en": "delay"
+    },
+    {
+     "cz": "přestoupit",
+     "en": "to change (trains, buses)"
+    },
+    {
+     "cz": "přímý",
+     "en": "direct"
+    },
+    {
+     "cz": "jednosměrná / zpáteční",
+     "en": "one-way / return (ticket)"
+    },
+    {
+     "cz": "cena",
+     "en": "price"
+    },
+    {
+     "cz": "řidič",
+     "en": "driver"
+    },
+    {
+     "cz": "revizor",
+     "en": "ticket inspector"
+    },
+    {
+     "cz": "pokuta",
+     "en": "fine"
+    },
+    {
+     "cz": "vystoupit",
+     "en": "to get off"
+    },
+    {
+     "cz": "nastoupit",
+     "en": "to get on"
+    },
+    {
+     "cz": "další",
+     "en": "next"
+    },
+    {
+     "cz": "poslední",
+     "en": "last"
+    }
+   ],
+   "sentences": [
+    {
+     "cz": "Promiňte, kde je nádraží?",
+     "en": "Excuse me, where's the station?",
+     "chunk": false
+    },
+    {
+     "cz": "Jak se dostanu na nádraží?",
+     "en": "How do I get to the station?",
+     "chunk": true
+    },
+    {
+     "cz": "Jděte rovně a pak doleva.",
+     "en": "Go straight and then left.",
+     "chunk": true
+    },
+    {
+     "cz": "Je to blízko. Je to pět minut pěšky.",
+     "en": "It's close. Five minutes on foot.",
+     "chunk": false
+    },
+    {
+     "cz": "Jedu do Brna vlakem.",
+     "en": "I'm going to Brno by train.",
+     "chunk": true
+    },
+    {
+     "cz": "Jednu jízdenku do Plzně, prosím.",
+     "en": "One ticket to Plzeň, please.",
+     "chunk": true
+    },
+    {
+     "cz": "Kdy jede další autobus?",
+     "en": "When is the next bus?",
+     "chunk": false
+    },
+    {
+     "cz": "Z kterého nástupiště jede vlak do Prahy?",
+     "en": "From which platform does the train to Prague go?",
+     "chunk": true
+    },
+    {
+     "cz": "Vlak má zpoždění deset minut.",
+     "en": "The train is ten minutes late.",
+     "chunk": false
+    },
+    {
+     "cz": "Musím přestoupit? — Ne, jede přímo.",
+     "en": "Do I have to change? — No, it goes direct.",
+     "chunk": false
+    },
+    {
+     "cz": "Vystupuju na další zastávce.",
+     "en": "I'm getting off at the next stop.",
+     "chunk": true
+    },
+    {
+     "cz": "Kolik stojí jízdenka?",
+     "en": "How much is a ticket?",
+     "chunk": false
+    }
+   ],
+   "speaking": "ask for directions to 3 places with a map; ticket-desk role-play; \"I'm late\" phone call.",
+   "writing": "write directions to your home for a friend (6 sentences).",
+   "input": "timetable and announcement listening (\"Vlak do Prahy odjede z nástupiště dva\").",
+   "realLife": "ask for directions or buy a ticket in Czech.",
+   "examLink": "Listening announcements; Reading timetables; Speaking everyday situations.",
+   "weeklyTest": "place chunks do/na/k ×15; 5 direction instructions (follow a map); timetable reading ×5.",
+   "plan": null,
+   "notes": [],
+   "mock": null
+  },
+  {
+   "week": 10,
+   "phase": "A1 core",
+   "title": "Modal verbs, negation, questions, word order, appointments",
+   "canDo": "say can/must/want, ask any question, make and change an appointment, put the little words in the right place.",
+   "patternLab": [
+    "**moct:** můžu · můžeš · může · můžeme · můžete · můžou. **muset:** musím · musíš · musí · musíme · musíte · musí. **chtít** (Week 5). **umět** (can, know how): umím… · **smět** (be allowed). **mít** (should: *měl bych*).",
+    "**Negatives:** nemůžu (I can't) · **nemusím** (I don't have to) · **nesmím** (I must not).",
+    "**Double negatives are normal:** Nikdo tu není. Nic nevím. Nikam nejdu. Nikdy nemám čas.",
+    "**Question words:** kdo · co · kdy · kde · kam · odkud · proč · jak · jaký · který · kolik · s kým.",
+    "**Word order, little words in slot 2:** the little words (jsem, jsi, by, se, si, mi, ti, ho, ji) sit after the first stressed unit. Order inside the group: **jsem / by → se / si → mi / ti → ho / ji.** *Dnes jsem se učil. Můžete mi to říct? Chci se objednat.*",
+    "**Appointments ★:** *Chtěl bych se objednat na úterý. · Hodí se vám středa v deset? · To mi vyhovuje. · Bohužel nemůžu. · Dá se to změnit / zrušit?*"
+   ],
+   "vocabA": [
+    {
+     "cz": "moct",
+     "en": "can, to be able to"
+    },
+    {
+     "cz": "muset",
+     "en": "must, to have to"
+    },
+    {
+     "cz": "chtít",
+     "en": "to want"
+    },
+    {
+     "cz": "umět",
+     "en": "can, to know how to"
+    },
+    {
+     "cz": "smět",
+     "en": "may, to be allowed to"
+    },
+    {
+     "cz": "potřebovat",
+     "en": "to need"
+    },
+    {
+     "cz": "zkusit",
+     "en": "to try"
+    },
+    {
+     "cz": "pomoct",
+     "en": "to help"
+    },
+    {
+     "cz": "objednat se",
+     "en": "to make an appointment"
+    },
+    {
+     "cz": "schůzka",
+     "en": "meeting, appointment"
+    },
+    {
+     "cz": "termín",
+     "en": "date, appointment slot"
+    },
+    {
+     "cz": "čas",
+     "en": "time"
+    },
+    {
+     "cz": "volný",
+     "en": "free"
+    },
+    {
+     "cz": "obsazený",
+     "en": "taken, busy"
+    },
+    {
+     "cz": "hodit se",
+     "en": "to suit, to be convenient"
+    },
+    {
+     "cz": "vyhovovat",
+     "en": "to suit"
+    },
+    {
+     "cz": "změnit",
+     "en": "to change"
+    },
+    {
+     "cz": "zrušit",
+     "en": "to cancel"
+    },
+    {
+     "cz": "potvrdit",
+     "en": "to confirm"
+    },
+    {
+     "cz": "přijít",
+     "en": "to come"
+    },
+    {
+     "cz": "zavolat",
+     "en": "to call (phone)"
+    },
+    {
+     "cz": "napsat",
+     "en": "to write"
+    },
+    {
+     "cz": "zeptat se",
+     "en": "to ask"
+    },
+    {
+     "cz": "odpovědět",
+     "en": "to answer"
+    },
+    {
+     "cz": "počkat",
+     "en": "to wait"
+    },
+    {
+     "cz": "pozdě",
+     "en": "late"
+    },
+    {
+     "cz": "brzy",
+     "en": "early, soon"
+    },
+    {
+     "cz": "včas",
+     "en": "on time"
+    },
+    {
+     "cz": "hned",
+     "en": "immediately"
+    },
+    {
+     "cz": "později",
+     "en": "later"
+    },
+    {
+     "cz": "proč",
+     "en": "why"
+    },
+    {
+     "cz": "protože",
+     "en": "because"
+    },
+    {
+     "cz": "kdy",
+     "en": "when"
+    },
+    {
+     "cz": "samozřejmě",
+     "en": "of course"
+    },
+    {
+     "cz": "bohužel",
+     "en": "unfortunately"
+    },
+    {
+     "cz": "určitě",
+     "en": "certainly, definitely"
+    }
+   ],
+   "vocabB": [],
+   "sentences": [
+    {
+     "cz": "Můžu se zeptat?",
+     "en": "May I ask?",
+     "chunk": false
+    },
+    {
+     "cz": "Musím jít k lékaři.",
+     "en": "I have to go to the doctor.",
+     "chunk": true
+    },
+    {
+     "cz": "Nemusíš spěchat.",
+     "en": "You don't have to hurry.",
+     "chunk": false
+    },
+    {
+     "cz": "Nikdo tu není. / Nic nevím. / Nikam nejdu.",
+     "en": "Nobody's here. / I know nothing. / I'm not going anywhere.",
+     "chunk": false
+    },
+    {
+     "cz": "Chtěl bych se objednat na úterý.",
+     "en": "I'd like to make an appointment for Tuesday.",
+     "chunk": true
+    },
+    {
+     "cz": "Hodí se vám středa v deset hodin?",
+     "en": "Does Wednesday at ten suit you?",
+     "chunk": true
+    },
+    {
+     "cz": "Bohužel v tu dobu nemůžu.",
+     "en": "Unfortunately I can't at that time.",
+     "chunk": true
+    },
+    {
+     "cz": "Můžete mi to říct pomalu?",
+     "en": "Can you tell me that slowly?",
+     "chunk": false
+    },
+    {
+     "cz": "Proč nemůžeš přijít? — Protože musím pracovat.",
+     "en": "Why can't you come? — Because I have to work.",
+     "chunk": false
+    },
+    {
+     "cz": "Dá se to zrušit? / Chci to změnit.",
+     "en": "Can it be cancelled? / I want to change it.",
+     "chunk": false
+    },
+    {
+     "cz": "Omlouvám se, přijdu pozdě.",
+     "en": "Sorry, I'll be late.",
+     "chunk": false
+    },
+    {
+     "cz": "Kde se můžu objednat?",
+     "en": "Where can I make an appointment?",
+     "chunk": false
+    }
+   ],
+   "speaking": "appointment role-play ×3 (make, change, cancel). Ask 10 different questions about a picture.",
+   "writing": "SMS / WhatsApp to confirm, cancel or change an appointment.",
+   "input": "voicemail messages (listen), a clinic's opening-hours notice (read).",
+   "realLife": "ask one real question in Czech beginning with \"Můžu se zeptat?\".",
+   "examLink": "Speaking dialogues; Writing short messages; Listening phone messages.",
+   "weeklyTest": "modal conjugation ×6; negation transformations ×10; clitic order ×8; appointment dialogue (speak).",
+   "plan": null,
+   "notes": [],
+   "mock": null
+  },
+  {
+   "week": 11,
+   "phase": "A1 core",
+   "title": "A1 consolidation + Mock 1 (baseline)",
+   "canDo": "use A1 Czech in survival situations; know exactly where you are weak.",
+   "patternLab": [],
+   "vocabA": [],
+   "vocabB": [],
+   "sentences": [],
+   "speaking": "",
+   "writing": "",
+   "input": "",
+   "realLife": "a 2-minute conversation with a Czech speaker (shop, neighbour, tutor). Record it with permission and review.",
+   "examLink": "",
+   "weeklyTest": "Mock 1 *is* the test.",
+   "plan": [
+    {
+     "day": "Mon",
+     "plan": "Error-log repair: the app builds a 45-min drill from your 30 most frequent errors. Retest the weakest 2 weekly tests."
+    },
+    {
+     "day": "Tue",
+     "plan": "Integrated survival tasks: café + ticket + appointment + shop (4 timed dialogues)."
+    },
+    {
+     "day": "Wed",
+     "plan": "Reading + Listening of **Mock 1** (official Practice Test or Sample Test 1, new format). Time yourself."
+    },
+    {
+     "day": "Thu",
+     "plan": "Writing + Speaking of **Mock 1** (AI examiner simulates the speaking test; write to the writing tasks)."
+    },
+    {
+     "day": "Fri",
+     "plan": "Scoring, breakdown, and decision. Plan weeks 12-14 focus."
+    }
+   ],
+   "notes": [
+    {
+     "title": "Mock 1 targets (baseline, not pass/fail)",
+     "text": "Reading ≥ 55%, Listening ≥ 50%, Writing ≥ 45%, Speaking ≥ 50%. If any part is under 40%, take the extra repair loop (2 days) before Week 12."
+    }
+   ],
+   "mock": {
+    "title": "Mock 1 targets (baseline, not pass/fail)",
+    "text": "Reading ≥ 55%, Listening ≥ 50%, Writing ≥ 45%, Speaking ≥ 50%. If any part is under 40%, take the extra repair loop (2 days) before Week 12."
+   }
+  },
+  {
+   "week": 12,
+   "phase": "A2 grammar and life",
+   "title": "Past tense I",
+   "canDo": "say what you did yesterday and last weekend.",
+   "patternLab": [
+    "**Past = -l form + *jsem / jsi / jsme / jste*.** Take the infinitive, cut **-t**, add **-l**: dělat → *dělal*; mluvit → *mluvil*; pracovat → *pracoval*; bydlet → *bydlel*.",
+    "**Gender and number:** masc **-l** · fem **-la** · neuter **-lo** · plural **-li**.",
+    "**Auxiliary:** 1st/2nd person need it: *dělal jsem, dělal jsi, dělali jsme, dělali jste.* **3rd person does not:** *on dělal, ona dělala, oni dělali.* The auxiliary sits in slot 2: *Včera jsem byl doma.*",
+    "**Polite *vy* + one person:** *Byl jste tam?* (m) / *Byla jste tam?* (f), singular meaning, plural ending when addressing several people.",
+    "**Negative:** *nebyl jsem, nedělal jsem.*",
+    "**Irregular -l forms (must know):** být → byl · mít → měl · jít → šel / šla / šlo / šli · jet → jel · jíst → jedl · pít → pil · číst → četl · psát → psal · chtít → chtěl · moct → mohl · vědět → věděl · říct → řekl · vzít → vzal · přijít → přišel · vidět → viděl · dát → dal · spát → spal.",
+    "**Hook:** infinitive − t + l/la/lo/li; add *jsem/jsi/jsme/jste* in slot 2."
+   ],
+   "vocabA": [
+    {
+     "cz": "včera",
+     "en": "yesterday"
+    },
+    {
+     "cz": "předevčírem",
+     "en": "the day before yesterday"
+    },
+    {
+     "cz": "minulý týden",
+     "en": "last week"
+    },
+    {
+     "cz": "minulý měsíc",
+     "en": "last month"
+    },
+    {
+     "cz": "minulý rok",
+     "en": "last year"
+    },
+    {
+     "cz": "před týdnem",
+     "en": "a week ago (★ chunk)"
+    },
+    {
+     "cz": "před dvěma lety",
+     "en": "two years ago (★ chunk)"
+    },
+    {
+     "cz": "už",
+     "en": "already"
+    },
+    {
+     "cz": "ještě ne",
+     "en": "not yet"
+    },
+    {
+     "cz": "právě",
+     "en": "just"
+    },
+    {
+     "cz": "dlouho",
+     "en": "for a long time"
+    },
+    {
+     "cz": "poprvé",
+     "en": "for the first time"
+    },
+    {
+     "cz": "naposledy",
+     "en": "for the last time"
+    },
+    {
+     "cz": "nejdřív",
+     "en": "first"
+    },
+    {
+     "cz": "potom",
+     "en": "then, afterwards"
+    },
+    {
+     "cz": "pak",
+     "en": "then"
+    },
+    {
+     "cz": "nakonec",
+     "en": "finally, in the end"
+    },
+    {
+     "cz": "celý den",
+     "en": "all day"
+    }
+   ],
+   "vocabB": [
+    {
+     "cz": "začít",
+     "en": "to start"
+    },
+    {
+     "cz": "skončit",
+     "en": "to finish, to end"
+    },
+    {
+     "cz": "stát se",
+     "en": "to happen"
+    },
+    {
+     "cz": "potkat",
+     "en": "to meet"
+    },
+    {
+     "cz": "navštívit",
+     "en": "to visit"
+    },
+    {
+     "cz": "cestovat",
+     "en": "to travel"
+    },
+    {
+     "cz": "vrátit se",
+     "en": "to come back"
+    },
+    {
+     "cz": "zapomenout",
+     "en": "to forget"
+    },
+    {
+     "cz": "ztratit",
+     "en": "to lose"
+    },
+    {
+     "cz": "najít",
+     "en": "to find"
+    },
+    {
+     "cz": "poslat",
+     "en": "to send"
+    },
+    {
+     "cz": "dostat",
+     "en": "to get, to receive"
+    },
+    {
+     "cz": "uvařit",
+     "en": "to cook (finish cooking)"
+    },
+    {
+     "cz": "umýt",
+     "en": "to wash"
+    },
+    {
+     "cz": "uklidit",
+     "en": "to tidy up"
+    },
+    {
+     "cz": "nakoupit",
+     "en": "to do the shopping"
+    },
+    {
+     "cz": "zavolat",
+     "en": "to call (phone)"
+    },
+    {
+     "cz": "napsat",
+     "en": "to write"
+    },
+    {
+     "cz": "odpočívat",
+     "en": "to rest"
+    },
+    {
+     "cz": "stihnout",
+     "en": "make it in time"
+    }
+   ],
+   "sentences": [
+    {
+     "cz": "Včera jsem byl v práci. / Včera jsem byla doma.",
+     "en": "Yesterday I was at work (m) / at home (f).",
+     "chunk": false
+    },
+    {
+     "cz": "Co jsi dělal o víkendu? — Byl jsem na výletu.",
+     "en": "What did you do at the weekend? — I was on a trip.",
+     "chunk": true
+    },
+    {
+     "cz": "Minulý týden jsme jeli do Brna.",
+     "en": "Last week we went to Brno.",
+     "chunk": false
+    },
+    {
+     "cz": "Nakoupila jsem a pak jsem uvařila večeři.",
+     "en": "I did the shopping and then cooked dinner.",
+     "chunk": false
+    },
+    {
+     "cz": "Nevěděl jsem to.",
+     "en": "I didn't know that.",
+     "chunk": false
+    },
+    {
+     "cz": "Kde jsi byla? Čekal jsem na tebe.",
+     "en": "Where were you? I waited for you.",
+     "chunk": false
+    },
+    {
+     "cz": "Už jsi jedl? — Ano, už jsem jedl. / Ne, ještě ne.",
+     "en": "Have you eaten? — Yes, I have. / No, not yet.",
+     "chunk": false
+    },
+    {
+     "cz": "Ztratil jsem klíče.",
+     "en": "I lost my keys.",
+     "chunk": false
+    },
+    {
+     "cz": "Viděl jsem ho včera.",
+     "en": "I saw him yesterday.",
+     "chunk": false
+    },
+    {
+     "cz": "Mluvili jsme dlouho.",
+     "en": "We talked for a long time.",
+     "chunk": false
+    },
+    {
+     "cz": "Šel jsem domů pěšky.",
+     "en": "I walked home.",
+     "chunk": false
+    },
+    {
+     "cz": "Dostal jsem e-mail od šéfa.",
+     "en": "I got an e-mail from my boss.",
+     "chunk": true
+    }
+   ],
+   "speaking": "tell about yesterday (8 sentences); a friend asks about your weekend (role-play).",
+   "writing": "diary entry (8 sentences) about yesterday.",
+   "input": "a text \"Můj víkend\" + a voice-message story.",
+   "realLife": "tell someone in Czech what you did yesterday.",
+   "examLink": "Speaking narration; Writing short text.",
+   "weeklyTest": "past-tense transformations ×20 (include 8 irregular); 5 questions answered aloud; a 6-sentence diary.",
+   "plan": null,
+   "notes": [],
+   "mock": null
+  },
+  {
+   "week": 13,
+   "phase": "A2 grammar and life",
+   "title": "Past tense II, holidays, aspect starter",
+   "canDo": "tell a short story, talk about a holiday, understand completed vs ongoing actions.",
+   "patternLab": [
+    "**Aspect pairs.** Most verbs come in two: **imperfective** (ongoing/repeated: *dělat, psát, číst*) and **perfective** (finished with a result: *udělat, napsat, přečíst*).",
+    "  - *Psal jsem e-mail celé odpoledne.* (process) vs *Napsal jsem e-mail.* (done).",
+    "**Key pairs:** dělat/udělat · psát/napsat · číst/přečíst · jíst/sníst · pít/vypít · vařit/uvařit · kupovat/koupit · dávat/dát · brát/vzít · přicházet/přijít · odcházet/odejít · vracet se/vrátit se · volat/zavolat",
+    "**Perfective present = future:** *napíšu* = I'll write (Week 14).",
+    "**Storytelling:** nejdřív · potom · pak · nakonec · když · a proto · ale · protože.",
+    "**Weather in past:** *pršelo, sněžilo, svítilo slunce, foukal vítr, bylo teplo / zima.*"
+   ],
+   "vocabA": [
+    {
+     "cz": "dovolená",
+     "en": "holiday"
+    },
+    {
+     "cz": "hotel",
+     "en": "hotel"
+    },
+    {
+     "cz": "pláž",
+     "en": "beach"
+    },
+    {
+     "cz": "hory",
+     "en": "mountains"
+    },
+    {
+     "cz": "moře",
+     "en": "sea"
+    },
+    {
+     "cz": "jezero",
+     "en": "lake"
+    },
+    {
+     "cz": "výlet",
+     "en": "trip"
+    },
+    {
+     "cz": "letenka",
+     "en": "plane ticket"
+    },
+    {
+     "cz": "cestovní pas",
+     "en": "passport"
+    },
+    {
+     "cz": "kufr",
+     "en": "suitcase"
+    },
+    {
+     "cz": "počasí",
+     "en": "weather"
+    },
+    {
+     "cz": "slunce",
+     "en": "sun"
+    },
+    {
+     "cz": "déšť",
+     "en": "rain"
+    },
+    {
+     "cz": "sníh",
+     "en": "snow"
+    },
+    {
+     "cz": "vítr",
+     "en": "wind"
+    },
+    {
+     "cz": "teplo",
+     "en": "warm (weather)"
+    },
+    {
+     "cz": "zima",
+     "en": "cold / winter"
+    },
+    {
+     "cz": "horko",
+     "en": "hot (weather)"
+    },
+    {
+     "cz": "mraky",
+     "en": "clouds"
+    },
+    {
+     "cz": "jaro",
+     "en": "spring"
+    },
+    {
+     "cz": "léto",
+     "en": "summer"
+    },
+    {
+     "cz": "podzim",
+     "en": "autumn"
+    },
+    {
+     "cz": "zima",
+     "en": "winter"
+    },
+    {
+     "cz": "fotka",
+     "en": "photo"
+    },
+    {
+     "cz": "pohlednice",
+     "en": "postcard"
+    },
+    {
+     "cz": "zážitek",
+     "en": "experience"
+    },
+    {
+     "cz": "zůstat",
+     "en": "to stay"
+    },
+    {
+     "cz": "odjet",
+     "en": "to leave (by vehicle)"
+    },
+    {
+     "cz": "přijet",
+     "en": "to arrive (by vehicle)"
+    },
+    {
+     "cz": "odletět",
+     "en": "to fly away, to depart (plane)"
+    },
+    {
+     "cz": "vrátit",
+     "en": "to return (give back)"
+    }
+   ],
+   "vocabB": [],
+   "sentences": [
+    {
+     "cz": "Napsal jsem e-mail. / Psal jsem e-mail celé odpoledne.",
+     "en": "I wrote an e-mail. / I was writing an e-mail all afternoon.",
+     "chunk": false
+    },
+    {
+     "cz": "Přečetla jsem celou knihu.",
+     "en": "I read the whole book.",
+     "chunk": false
+    },
+    {
+     "cz": "Když jsem přišel domů, uvařil jsem večeři.",
+     "en": "When I got home, I cooked dinner.",
+     "chunk": false
+    },
+    {
+     "cz": "O víkendu jsme byli v horách.",
+     "en": "At the weekend we were in the mountains.",
+     "chunk": true
+    },
+    {
+     "cz": "Pršelo, a proto jsme zůstali doma.",
+     "en": "It rained, so we stayed home.",
+     "chunk": false
+    },
+    {
+     "cz": "Bylo hezky a svítilo slunce.",
+     "en": "It was nice and the sun was shining.",
+     "chunk": false
+    },
+    {
+     "cz": "Kde jste byli na dovolené? — Byli jsme u moře.",
+     "en": "Where were you on holiday? — We were by the sea.",
+     "chunk": true
+    },
+    {
+     "cz": "Líbilo se mi tam.",
+     "en": "I liked it there.",
+     "chunk": true
+    },
+    {
+     "cz": "Koupil jsem si letenku.",
+     "en": "I bought myself a plane ticket.",
+     "chunk": true
+    },
+    {
+     "cz": "Zapomněl jsem doma pas.",
+     "en": "I forgot my passport at home.",
+     "chunk": true
+    },
+    {
+     "cz": "Už jsi to udělal?",
+     "en": "Have you already done it?",
+     "chunk": false
+    },
+    {
+     "cz": "Nic jsem nepochopil.",
+     "en": "I didn't understand anything.",
+     "chunk": false
+    }
+   ],
+   "speaking": "tell the story of a trip or a weekend, 12 sentences, using nejdřív / potom / nakonec. Role-play: describe a problem on holiday (lost passport).",
+   "writing": "postcard / message about a trip (8 sentences).",
+   "input": "a travel blog text + a weather forecast listening.",
+   "realLife": "write a short Czech message to a friend about your last trip.",
+   "examLink": "Speaking narration; Writing narration.",
+   "weeklyTest": "aspect pairs ×10; past-tense gap-fill ×15; tell a 10-sentence story aloud.",
+   "plan": null,
+   "notes": [],
+   "mock": null
+  },
+  {
+   "week": 14,
+   "phase": "A2 grammar and life",
+   "title": "Future, plans, invitations, calendar",
+   "canDo": "talk about plans, invite and accept/decline, say dates.",
+   "patternLab": [
+    "**Imperfective future:** **budu · budeš · bude · budeme · budete · budou + infinitive.** *Budu pracovat. Budeme se učit.* Negative: *nebudu.*",
+    "**Perfective present = future:** *zavolám, napíšu, přijdu, pojedu, koupím.* *Zítra ti zavolám.*",
+    "**Plans & future time words:** zítra · pozítří · příští týden / měsíc / rok · o víkendu · za týden ★ (in a week) · za hodinu · brzy · později.",
+    "**Ordinal numbers:** první · druhý · třetí · čtvrtý · pátý · šestý · sedmý · osmý · devátý · desátý · jedenáctý · dvanáctý · … · dvacátý · dvacátý první.",
+    "**Date ★:** *Dnes je úterý, 27. října.* Months in the genitive after a day number: ledna · února · března · dubna · května · června · července · srpna · září · října · listopadu · prosince.",
+    "**Invitations:** *Chceš jít do kina? · Půjdeme na kávu? · Mohli bychom se sejít. · Rád přijdu. · Bohužel nemůžu, už něco mám.*"
+   ],
+   "vocabA": [
+    {
+     "cz": "sejít se",
+     "en": "to meet up"
+    },
+    {
+     "cz": "pozvat",
+     "en": "to invite"
+    },
+    {
+     "cz": "pozvání",
+     "en": "invitation"
+    },
+    {
+     "cz": "oslava",
+     "en": "celebration, party"
+    },
+    {
+     "cz": "narozeniny",
+     "en": "birthday"
+    },
+    {
+     "cz": "svatba",
+     "en": "wedding"
+    },
+    {
+     "cz": "svátek",
+     "en": "name day, holiday"
+    },
+    {
+     "cz": "dárek",
+     "en": "present, gift"
+    },
+    {
+     "cz": "vzít s sebou",
+     "en": "to take along"
+    },
+    {
+     "cz": "kalendář",
+     "en": "calendar"
+    },
+    {
+     "cz": "datum",
+     "en": "date"
+    },
+    {
+     "cz": "poznamenat",
+     "en": "to note down"
+    },
+    {
+     "cz": "plány",
+     "en": "plans"
+    },
+    {
+     "cz": "počasí",
+     "en": "weather"
+    },
+    {
+     "cz": "stupňů",
+     "en": "degrees"
+    },
+    {
+     "cz": "leden",
+     "en": "January"
+    },
+    {
+     "cz": "únor",
+     "en": "February"
+    },
+    {
+     "cz": "březen",
+     "en": "March"
+    },
+    {
+     "cz": "duben",
+     "en": "April"
+    },
+    {
+     "cz": "květen",
+     "en": "May"
+    },
+    {
+     "cz": "červen",
+     "en": "June"
+    },
+    {
+     "cz": "červenec",
+     "en": "July"
+    },
+    {
+     "cz": "srpen",
+     "en": "August"
+    },
+    {
+     "cz": "září",
+     "en": "September"
+    },
+    {
+     "cz": "říjen",
+     "en": "October"
+    },
+    {
+     "cz": "listopad",
+     "en": "November"
+    },
+    {
+     "cz": "prosinec",
+     "en": "December"
+    },
+    {
+     "cz": "jaro",
+     "en": "spring"
+    },
+    {
+     "cz": "léto",
+     "en": "summer"
+    },
+    {
+     "cz": "podzim",
+     "en": "autumn"
+    },
+    {
+     "cz": "zima",
+     "en": "cold / winter"
+    },
+    {
+     "cz": "pozítří",
+     "en": "the day after tomorrow"
+    },
+    {
+     "cz": "příští",
+     "en": "next"
+    },
+    {
+     "cz": "minulý",
+     "en": "last, previous"
+    },
+    {
+     "cz": "tento",
+     "en": "this"
+    },
+    {
+     "cz": "tenhle",
+     "en": "this (one)"
+    },
+    {
+     "cz": "za týden",
+     "en": "in a week"
+    },
+    {
+     "cz": "v létě",
+     "en": "in summer"
+    },
+    {
+     "cz": "v zimě",
+     "en": "in winter"
+    }
+   ],
+   "vocabB": [],
+   "sentences": [
+    {
+     "cz": "Zítra budu pracovat až do pěti.",
+     "en": "Tomorrow I'll work until five.",
+     "chunk": true
+    },
+    {
+     "cz": "Co budeš dělat v sobotu? — V sobotu budu doma.",
+     "en": "What will you do on Saturday? — I'll be at home.",
+     "chunk": false
+    },
+    {
+     "cz": "Chceš jít v pátek do kina? — Rád.",
+     "en": "Want to go to the cinema on Friday? — Gladly.",
+     "chunk": false
+    },
+    {
+     "cz": "Bohužel nemůžu, už něco mám.",
+     "en": "Unfortunately I can't, I already have something.",
+     "chunk": false
+    },
+    {
+     "cz": "Zavolám ti zítra.",
+     "en": "I'll call you tomorrow.",
+     "chunk": false
+    },
+    {
+     "cz": "Příští týden pojedu do Brna.",
+     "en": "Next week I'll go to Brno.",
+     "chunk": false
+    },
+    {
+     "cz": "Mohli bychom se sejít v sedm.",
+     "en": "We could meet at seven.",
+     "chunk": true
+    },
+    {
+     "cz": "Dnes je úterý, 27. října.",
+     "en": "Today is Tuesday, 27 October.",
+     "chunk": true
+    },
+    {
+     "cz": "Narozeniny mám 12. května.",
+     "en": "My birthday is 12 May.",
+     "chunk": true
+    },
+    {
+     "cz": "Bude pršet. Zítra bude dvacet stupňů.",
+     "en": "It will rain. Tomorrow it will be 20 degrees.",
+     "chunk": false
+    },
+    {
+     "cz": "Přijdu včas.",
+     "en": "I'll be on time.",
+     "chunk": false
+    },
+    {
+     "cz": "Za týden mám zkoušku.",
+     "en": "In a week I have the exam.",
+     "chunk": true
+    }
+   ],
+   "speaking": "invite a friend and arrange a time (×3: accept, decline, propose alternative). Talk about your plans for next month.",
+   "writing": "a birthday invitation message + a reply accepting.",
+   "input": "a calendar page (read), an invitation voicemail (listen).",
+   "realLife": "make one plan in Czech with a real person.",
+   "examLink": "Writing invitation/reply; Speaking plans.",
+   "weeklyTest": "future transformations ×15; dates dictation ×6; plan dialogue aloud.",
+   "plan": null,
+   "notes": [],
+   "mock": null
+  },
+  {
+   "week": 15,
+   "phase": "A2 grammar and life",
+   "title": "Genitive I (quantities, shopping, \"I don't have\")",
+   "canDo": "use quantities, say you don't have something, say \"of / from / without / until\".",
+   "patternLab": [
+    "**Genitive = \"of / some of / none of / from / until\"** (*koho? čeho?*).",
+    "**Singular endings:** masc inanimate **-u / -a** (do obchodu, do parku, z domu, bez cukru · do města is neuter) · masc animate **-a** (bratra, učitele) · fem **-a → -y** (ženy, knihy, pošty) · fem **-e → -e**, consonant fem **-e / -i** (židle, kanceláře, noci) · neuter **-o → -a** (města, kola) · neuter **-e → -e** (moře) · **-í** stays (nádraží).",
+    "**Uses:**",
+    "  1. **Negated existence:** *Nemám čas. Není tu nikdo.*",
+    "  2. **Quantities:** hodně · málo · trochu · dost · víc · kilo · litr · láhev · sklenice · šálek · kus · plátek · balení · pár · půl.",
+    "  3. **Numbers 5+:** pět korun, deset lidí (2-4: nominative plural: dvě koruny).",
+    "  4. **Prepositions:** do · z/ze · od · bez · u · vedle · kolem · podle · během · kromě.",
+    "  5. **Possession:** *kniha mého bratra.*",
+    "**Pronouns:** mě · tebe · ho · jí · nás · vás · jich. After prepositions: *od tebe, bez vás, u nás.*",
+    "**Hook:** if you can say \"some of\", \"not any\", \"from\", \"without\", \"until\" → genitive."
+   ],
+   "vocabA": [
+    {
+     "cz": "kilo",
+     "en": "kilo"
+    },
+    {
+     "cz": "půl kila",
+     "en": "half a kilo"
+    },
+    {
+     "cz": "deset deka",
+     "en": "100 grams (10 dkg)"
+    },
+    {
+     "cz": "litr",
+     "en": "litre"
+    },
+    {
+     "cz": "půl litru",
+     "en": "half a litre"
+    },
+    {
+     "cz": "láhev",
+     "en": "bottle"
+    },
+    {
+     "cz": "sklenice",
+     "en": "glass, jar"
+    },
+    {
+     "cz": "šálek",
+     "en": "cup"
+    },
+    {
+     "cz": "balení",
+     "en": "pack, package"
+    },
+    {
+     "cz": "kus",
+     "en": "piece"
+    },
+    {
+     "cz": "krabice",
+     "en": "box"
+    },
+    {
+     "cz": "plátek",
+     "en": "slice"
+    },
+    {
+     "cz": "pár",
+     "en": "a few, a couple, pair"
+    },
+    {
+     "cz": "hodně",
+     "en": "a lot"
+    },
+    {
+     "cz": "málo",
+     "en": "little, few"
+    },
+    {
+     "cz": "trochu",
+     "en": "a little"
+    },
+    {
+     "cz": "dost",
+     "en": "enough"
+    },
+    {
+     "cz": "víc",
+     "en": "more"
+    },
+    {
+     "cz": "méně",
+     "en": "less"
+    },
+    {
+     "cz": "všechno",
+     "en": "everything"
+    },
+    {
+     "cz": "nic",
+     "en": "nothing"
+    },
+    {
+     "cz": "něco",
+     "en": "something"
+    },
+    {
+     "cz": "půl",
+     "en": "half"
+    },
+    {
+     "cz": "čtvrt",
+     "en": "quarter"
+    }
+   ],
+   "vocabB": [
+    {
+     "cz": "pekárna",
+     "en": "bakery"
+    },
+    {
+     "cz": "řeznictví",
+     "en": "butcher's"
+    },
+    {
+     "cz": "obchod s potravinami",
+     "en": "grocery shop"
+    },
+    {
+     "cz": "trh",
+     "en": "market"
+    },
+    {
+     "cz": "prodavač / prodavačka",
+     "en": "shop assistant (m / f)"
+    },
+    {
+     "cz": "košík",
+     "en": "basket"
+    },
+    {
+     "cz": "pytlík",
+     "en": "bag"
+    },
+    {
+     "cz": "váha",
+     "en": "scales, weight"
+    },
+    {
+     "cz": "akce",
+     "en": "special offer"
+    },
+    {
+     "cz": "slevy",
+     "en": "discounts, sales"
+    },
+    {
+     "cz": "cena",
+     "en": "price"
+    },
+    {
+     "cz": "vyprodáno",
+     "en": "sold out"
+    },
+    {
+     "cz": "zboží",
+     "en": "goods"
+    },
+    {
+     "cz": "čerstvý",
+     "en": "fresh"
+    },
+    {
+     "cz": "mražený",
+     "en": "frozen"
+    },
+    {
+     "cz": "zeleninový",
+     "en": "vegetable (adj.)"
+    },
+    {
+     "cz": "ovocný",
+     "en": "fruit (adj.)"
+    },
+    {
+     "cz": "sladký",
+     "en": "sweet"
+    },
+    {
+     "cz": "slaný",
+     "en": "salty"
+    },
+    {
+     "cz": "pálivý",
+     "en": "spicy (hot)"
+    }
+   ],
+   "sentences": [
+    {
+     "cz": "Nemám čas. Nemám peníze.",
+     "en": "I have no time. I have no money.",
+     "chunk": false
+    },
+    {
+     "cz": "Dám si pět rohlíků a litr mléka.",
+     "en": "I'll have five rolls and a litre of milk.",
+     "chunk": false
+    },
+    {
+     "cz": "Prosím vás, deset deka sýra.",
+     "en": "Please, 100 g of cheese.",
+     "chunk": false
+    },
+    {
+     "cz": "Kolik je to? — To je dvě stě padesát korun.",
+     "en": "How much is it? — 250 crowns.",
+     "chunk": false
+    },
+    {
+     "cz": "Potřebuju láhev vody a kus chleba.",
+     "en": "I need a bottle of water and a piece of bread.",
+     "chunk": false
+    },
+    {
+     "cz": "Je tu hodně lidí. / Je tu málo místa.",
+     "en": "There are many people. / There's little room.",
+     "chunk": false
+    },
+    {
+     "cz": "Pracuju od osmi do čtyř.",
+     "en": "I work from eight to four.",
+     "chunk": false
+    },
+    {
+     "cz": "Jsem z Indie. Dárek je od kamaráda.",
+     "en": "I'm from India. The gift is from a friend.",
+     "chunk": false
+    },
+    {
+     "cz": "Bydlím vedle pošty.",
+     "en": "I live next to the post office.",
+     "chunk": false
+    },
+    {
+     "cz": "Nemáte drobné?",
+     "en": "Do you have any change?",
+     "chunk": false
+    },
+    {
+     "cz": "Bez cukru, prosím.",
+     "en": "Without sugar, please.",
+     "chunk": false
+    },
+    {
+     "cz": "Dvě koruny, pět korun, dvacet korun.",
+     "en": "2 crowns, 5 crowns, 20 crowns.",
+     "chunk": false
+    }
+   ],
+   "speaking": "market/bakery role-play with quantities; compare prices of two shops.",
+   "writing": "a shopping message with quantities for a flatmate (7 sentences).",
+   "input": "supermarket flyer (read), a market dialogue (listen).",
+   "realLife": "buy something by weight in Czech (deka, kilo).",
+   "examLink": "Reading ads; Listening prices; Speaking shopping.",
+   "weeklyTest": "genitive gap-fills ×20; quantity expressions ×10; \"nemám\" sentences ×5; shopping dialogue aloud.",
+   "plan": null,
+   "notes": [],
+   "mock": null
+  },
+  {
+   "week": 16,
+   "phase": "A2 grammar and life",
+   "title": "Genitive II + health",
+   "canDo": "describe symptoms, see a doctor, use the pharmacy, call for help.",
+   "patternLab": [
+    "**More genitive prepositions in use:** *u lékaře (at the doctor's) · od včerejška · do pátku · od … do … · bez receptu · vedle · kolem · během dne.*",
+    "**Symptoms:** *Bolí mě hlava / zub / záda / břicho / v krku.* (*Bolí mě* is a fixed pattern: pain **hurts me**.) *Mám horečku · kašel · rýmu · teplotu.* *Jsem nemocný / nemocná.*",
+    "**Doctor chunks ★:** *Co vás trápí? · Kdy to začalo? · Jak dlouho? · Máte alergii na léky? · Zhluboka dýchejte. · Dostanete recept. · Léky užívejte třikrát denně po jídle.*",
+    "**Emergency numbers:** **112** general emergency · **155** ambulance · **158** police · **150** fire. *Zavolejte sanitku!*",
+    "**Insurance:** *Mám pojištění. Mám kartu pojištěnce.*"
+   ],
+   "vocabA": [
+    {
+     "cz": "hlava",
+     "en": "head"
+    },
+    {
+     "cz": "oko",
+     "en": "eye"
+    },
+    {
+     "cz": "ucho",
+     "en": "ear"
+    },
+    {
+     "cz": "nos",
+     "en": "nose"
+    },
+    {
+     "cz": "ústa",
+     "en": "mouth"
+    },
+    {
+     "cz": "zub",
+     "en": "tooth"
+    },
+    {
+     "cz": "krk",
+     "en": "neck, throat"
+    },
+    {
+     "cz": "záda",
+     "en": "back"
+    },
+    {
+     "cz": "břicho",
+     "en": "stomach, belly"
+    },
+    {
+     "cz": "ruka",
+     "en": "hand, arm"
+    },
+    {
+     "cz": "noha",
+     "en": "leg, foot"
+    },
+    {
+     "cz": "srdce",
+     "en": "heart"
+    },
+    {
+     "cz": "plíce",
+     "en": "lungs"
+    },
+    {
+     "cz": "kůže",
+     "en": "skin"
+    },
+    {
+     "cz": "bolest",
+     "en": "pain"
+    },
+    {
+     "cz": "horečka",
+     "en": "fever"
+    },
+    {
+     "cz": "teplota",
+     "en": "temperature"
+    },
+    {
+     "cz": "kašel",
+     "en": "cough"
+    },
+    {
+     "cz": "rýma",
+     "en": "cold (runny nose)"
+    },
+    {
+     "cz": "chřipka",
+     "en": "flu"
+    },
+    {
+     "cz": "alergie",
+     "en": "allergy"
+    },
+    {
+     "cz": "nemocný",
+     "en": "ill, sick"
+    },
+    {
+     "cz": "zdravý",
+     "en": "healthy"
+    },
+    {
+     "cz": "lékař / doktor",
+     "en": "doctor"
+    },
+    {
+     "cz": "lékárna",
+     "en": "pharmacy"
+    },
+    {
+     "cz": "ordinace",
+     "en": "doctor's surgery"
+    },
+    {
+     "cz": "pohotovost",
+     "en": "emergency room"
+    },
+    {
+     "cz": "sanitka",
+     "en": "ambulance"
+    },
+    {
+     "cz": "nemocnice",
+     "en": "hospital"
+    },
+    {
+     "cz": "recept",
+     "en": "prescription, recipe"
+    },
+    {
+     "cz": "lék",
+     "en": "medicine"
+    },
+    {
+     "cz": "prášek",
+     "en": "pill"
+    },
+    {
+     "cz": "kapky",
+     "en": "drops"
+    },
+    {
+     "cz": "tablety",
+     "en": "tablets"
+    },
+    {
+     "cz": "antibiotika",
+     "en": "antibiotics"
+    },
+    {
+     "cz": "pojištění",
+     "en": "insurance"
+    },
+    {
+     "cz": "pojišťovna",
+     "en": "insurance company"
+    },
+    {
+     "cz": "objednaný",
+     "en": "booked (with an appointment)"
+    },
+    {
+     "cz": "vyšetření",
+     "en": "examination"
+    },
+    {
+     "cz": "krevní tlak",
+     "en": "blood pressure"
+    },
+    {
+     "cz": "injekce",
+     "en": "injection"
+    },
+    {
+     "cz": "zhluboka",
+     "en": "deeply"
+    },
+    {
+     "cz": "odpočívat",
+     "en": "to rest"
+    },
+    {
+     "cz": "lehnout si",
+     "en": "to lie down"
+    }
+   ],
+   "vocabB": [],
+   "sentences": [
+    {
+     "cz": "Bolí mě hlava. / Bolí mě v krku. / Bolí mě záda.",
+     "en": "I have a headache. / sore throat. / back pain.",
+     "chunk": false
+    },
+    {
+     "cz": "Mám horečku a kašel.",
+     "en": "I have a fever and a cough.",
+     "chunk": false
+    },
+    {
+     "cz": "Jsem nemocný / nemocná.",
+     "en": "I'm ill.",
+     "chunk": false
+    },
+    {
+     "cz": "Potřebuju k lékaři.",
+     "en": "I need to see a doctor.",
+     "chunk": true
+    },
+    {
+     "cz": "Jsem objednaný na čtvrtou hodinu.",
+     "en": "I have an appointment at four.",
+     "chunk": true
+    },
+    {
+     "cz": "Kolikrát denně mám brát ten lék? — Třikrát denně po jídle.",
+     "en": "How often a day should I take the medicine? — Three times a day after meals.",
+     "chunk": true
+    },
+    {
+     "cz": "Kde je nejbližší lékárna?",
+     "en": "Where's the nearest pharmacy?",
+     "chunk": false
+    },
+    {
+     "cz": "Zavolejte sanitku!",
+     "en": "Call an ambulance!",
+     "chunk": false
+    },
+    {
+     "cz": "Mám alergii na penicilin.",
+     "en": "I'm allergic to penicillin.",
+     "chunk": true
+    },
+    {
+     "cz": "Od včerejška mám teplotu.",
+     "en": "Since yesterday I've had a temperature.",
+     "chunk": true
+    },
+    {
+     "cz": "Co vás trápí?",
+     "en": "What's bothering you?",
+     "chunk": false
+    },
+    {
+     "cz": "Máte to bez receptu?",
+     "en": "Do you have it without a prescription?",
+     "chunk": false
+    }
+   ],
+   "speaking": "doctor role-play (describe symptoms, answer questions); pharmacy role-play; calling 155 (short, clear).",
+   "writing": "message to your employer / school saying you are ill and when you'll return.",
+   "input": "a doctor-patient dialogue (listen), a medicine leaflet excerpt (read).",
+   "realLife": "read one Czech medicine or food label and say what it means.",
+   "examLink": "Speaking public services; Writing short formal message; Reading information leaflets.",
+   "weeklyTest": "body-part labelling ×15; \"Bolí mě\" ×8; doctor dialogue (speak); formal message (write).",
+   "plan": null,
+   "notes": [],
+   "mock": null
+  },
+  {
+   "week": 17,
+   "phase": "A2 grammar and life",
+   "title": "Dative",
+   "canDo": "ask for help, give/tell/show/send to someone, express likes and feelings.",
+   "patternLab": [
+    "**Dative = \"to / for someone\"** (*komu? čemu?*).",
+    "**Singular endings:** masc **-u** (or **-ovi** for people: bratrovi, doktorovi) · neuter **-u** (městu) · fem **-a → -ě / -e** (ženě, sestře, kamarádce) · fem **-e / consonant → -i** (židli, noci).",
+    "**Pronouns:** **mi / mně · ti / tobě · mu / jemu · jí · nám · vám · jim.** Short forms go in slot 2 (*Můžete mi pomoct?*), long forms after prepositions (*ke mně, k tobě*).",
+    "**Uses:**",
+    "  1. **Giving/telling/sending:** dát, říct, poslat, koupit, ukázat, vysvětlit, půjčit.",
+    "  2. **Helping/thanking/calling:** pomoct, děkovat, zavolat.",
+    "  3. **Liking/feelings:** líbit se, chutnat, patřit, chybět, hodit se.",
+    "  4. **\"Je mi …\":** *Je mi zima / horko / dobře / špatně / třicet let.*",
+    "  5. **Prepositions:** **k / ke** (to a person: *k lékaři, ke kamarádovi*), **kvůli**, **díky**, **proti**, **naproti**.",
+    "**Hook:** give/say/send/help = add *to whom* in dative; feelings = \"to me is cold\"."
+   ],
+   "vocabA": [
+    {
+     "cz": "dát",
+     "en": "to give"
+    },
+    {
+     "cz": "říct",
+     "en": "to say, to tell"
+    },
+    {
+     "cz": "poslat",
+     "en": "to send"
+    },
+    {
+     "cz": "ukázat",
+     "en": "to show"
+    },
+    {
+     "cz": "vysvětlit",
+     "en": "to explain"
+    },
+    {
+     "cz": "půjčit",
+     "en": "to lend, to borrow"
+    },
+    {
+     "cz": "pomoct",
+     "en": "to help"
+    },
+    {
+     "cz": "děkovat",
+     "en": "to thank"
+    },
+    {
+     "cz": "zavolat",
+     "en": "to call (phone)"
+    },
+    {
+     "cz": "patřit",
+     "en": "to belong"
+    },
+    {
+     "cz": "chutnat",
+     "en": "to taste (good)"
+    },
+    {
+     "cz": "líbit se",
+     "en": "to like (be pleasing to)"
+    },
+    {
+     "cz": "chybět",
+     "en": "to be missing, to miss"
+    },
+    {
+     "cz": "hodit se",
+     "en": "to suit, to be convenient"
+    },
+    {
+     "cz": "vyhovovat",
+     "en": "to suit"
+    },
+    {
+     "cz": "věřit",
+     "en": "to believe"
+    },
+    {
+     "cz": "radit",
+     "en": "to advise"
+    },
+    {
+     "cz": "gratulovat",
+     "en": "to congratulate"
+    },
+    {
+     "cz": "blahopřát",
+     "en": "to congratulate"
+    },
+    {
+     "cz": "přát",
+     "en": "to wish"
+    },
+    {
+     "cz": "domov",
+     "en": "home"
+    },
+    {
+     "cz": "fotka",
+     "en": "photo"
+    },
+    {
+     "cz": "zpráva",
+     "en": "message, news"
+    },
+    {
+     "cz": "otázka",
+     "en": "question"
+    },
+    {
+     "cz": "nápad",
+     "en": "idea"
+    },
+    {
+     "cz": "překvapení",
+     "en": "surprise"
+    },
+    {
+     "cz": "všechno nejlepší",
+     "en": "all the best (happy birthday)"
+    }
+   ],
+   "vocabB": [],
+   "sentences": [
+    {
+     "cz": "Můžete mi pomoct, prosím?",
+     "en": "Can you help me, please?",
+     "chunk": false
+    },
+    {
+     "cz": "Dejte mi, prosím, jednu kávu.",
+     "en": "Give me a coffee, please.",
+     "chunk": false
+    },
+    {
+     "cz": "Řekni mi to ještě jednou.",
+     "en": "Tell me that once more.",
+     "chunk": false
+    },
+    {
+     "cz": "Líbí se mi Praha.",
+     "en": "I like Prague.",
+     "chunk": true
+    },
+    {
+     "cz": "Chutná mi to. / Nechutná mi to.",
+     "en": "I like the taste. / I don't like the taste.",
+     "chunk": false
+    },
+    {
+     "cz": "Je mi zima. / Je mi horko. / Je mi špatně.",
+     "en": "I'm cold. / hot. / feeling sick.",
+     "chunk": false
+    },
+    {
+     "cz": "Děkuju ti moc. / Děkuju vám za pomoc.",
+     "en": "Thank you so much. / Thank you for your help.",
+     "chunk": true
+    },
+    {
+     "cz": "Ukázal jsem kamarádovi fotky.",
+     "en": "I showed my friend the photos.",
+     "chunk": false
+    },
+    {
+     "cz": "Půjčil jsem sestře knihu.",
+     "en": "I lent my sister a book.",
+     "chunk": false
+    },
+    {
+     "cz": "Co ti chybí? — Chybí mi domov.",
+     "en": "What do you miss? — I miss home.",
+     "chunk": false
+    },
+    {
+     "cz": "Všechno nejlepší k narozeninám!",
+     "en": "Happy birthday!",
+     "chunk": true
+    },
+    {
+     "cz": "Jdu k doktorovi. Jdu ke kamarádovi.",
+     "en": "I'm going to the doctor. I'm going to my friend's.",
+     "chunk": false
+    }
+   ],
+   "speaking": "asking for help in an office/shop; compliments and thanks; \"I like / I don't like\" about food and places.",
+   "writing": "thank-you message to a colleague + birthday greeting.",
+   "input": "a text with feelings and complaints; a call asking for help.",
+   "realLife": "ask someone \"Můžete mi pomoct?\" in a real situation.",
+   "examLink": "Speaking requests; Writing thanks/requests.",
+   "weeklyTest": "dative gap-fills ×20; pronoun forms ×8; \"Je mi …\" ×6; help-request role-play aloud.",
+   "plan": null,
+   "notes": [],
+   "mock": null
+  },
+  {
+   "week": 18,
+   "phase": "A2 grammar and life",
+   "title": "Instrumental, work and jobs",
+   "canDo": "say \"with\" and \"by means of\", talk about your job, introduce yourself professionally.",
+   "patternLab": [
+    "**Instrumental = \"with / by\"** (*kým? čím?*).",
+    "**Singular endings:** masc **-em** (kamarádem, stolem, učitelem) · fem **-a → -ou** (sestrou, kávou) · fem **-e / consonant → -í** (židlí, nocí) · neuter **-em** (autem, městem).",
+    "**Pronouns:** **mnou · tebou · jím · jí · námi · vámi · jimi.** After *s / se* ★: **se mnou · s tebou · s ním · s ní · s námi · s vámi · s nimi.**",
+    "**Uses:**",
+    "  1. **With (s / se):** *s kamarádem, s mlékem, s rodinou.*",
+    "  2. **Means (no preposition):** *jet autobusem, platit kartou, psát tužkou.*",
+    "  3. **Role/job:** *Chci být lékařem.* (In everyday speech *Jsem učitel* uses the nominative.) *Pracuju jako programátor.*",
+    "  4. **Position (kde?):** **před** (in front of) · **za** (behind) · **nad** (above) · **pod** (under) · **mezi** (between). With movement (kam?) *před / za / nad / pod / mezi* take the accusative.",
+    "  5. **Time:** *před týdnem, před hodinou.*",
+    "**Hook:** *with / by* = -em, -ou, -í; after *s* people take the instrumental."
+   ],
+   "vocabA": [
+    {
+     "cz": "práce",
+     "en": "work, job"
+    },
+    {
+     "cz": "zaměstnání",
+     "en": "employment, job"
+    },
+    {
+     "cz": "povolání",
+     "en": "profession"
+    },
+    {
+     "cz": "firma",
+     "en": "company, firm"
+    },
+    {
+     "cz": "studio",
+     "en": "studio"
+    },
+    {
+     "cz": "společnost",
+     "en": "company, society"
+    },
+    {
+     "cz": "kancelář",
+     "en": "office"
+    },
+    {
+     "cz": "šéf",
+     "en": "boss"
+    },
+    {
+     "cz": "kolega / kolegyně",
+     "en": "colleague (m / f)"
+    },
+    {
+     "cz": "zaměstnanec",
+     "en": "employee"
+    },
+    {
+     "cz": "zaměstnavatel",
+     "en": "employer"
+    },
+    {
+     "cz": "plat",
+     "en": "salary"
+    },
+    {
+     "cz": "pracovní doba",
+     "en": "working hours"
+    },
+    {
+     "cz": "smlouva",
+     "en": "contract"
+    },
+    {
+     "cz": "brigáda",
+     "en": "part-time / temporary job"
+    },
+    {
+     "cz": "pracovat jako",
+     "en": "to work as"
+    },
+    {
+     "cz": "programátor",
+     "en": "programmer"
+    },
+    {
+     "cz": "učitel",
+     "en": "teacher"
+    },
+    {
+     "cz": "lékař",
+     "en": "doctor"
+    },
+    {
+     "cz": "inženýr",
+     "en": "engineer"
+    },
+    {
+     "cz": "prodavač",
+     "en": "shop assistant"
+    },
+    {
+     "cz": "číšník",
+     "en": "waiter"
+    },
+    {
+     "cz": "řidič",
+     "en": "driver"
+    },
+    {
+     "cz": "umělec",
+     "en": "artist"
+    },
+    {
+     "cz": "grafik",
+     "en": "graphic designer"
+    },
+    {
+     "cz": "fotograf",
+     "en": "photographer"
+    },
+    {
+     "cz": "kuchař",
+     "en": "cook, chef"
+    },
+    {
+     "cz": "uklízeč",
+     "en": "cleaner"
+    },
+    {
+     "cz": "stavbař",
+     "en": "construction worker"
+    },
+    {
+     "cz": "student",
+     "en": "student"
+    },
+    {
+     "cz": "důchodce",
+     "en": "pensioner"
+    },
+    {
+     "cz": "plný úvazek",
+     "en": "full-time"
+    },
+    {
+     "cz": "částečný úvazek",
+     "en": "part-time"
+    },
+    {
+     "cz": "pohovor",
+     "en": "interview"
+    },
+    {
+     "cz": "životopis",
+     "en": "CV"
+    },
+    {
+     "cz": "žádost",
+     "en": "application"
+    },
+    {
+     "cz": "hledat práci",
+     "en": "to look for a job"
+    },
+    {
+     "cz": "zkušenost",
+     "en": "experience"
+    },
+    {
+     "cz": "umět",
+     "en": "can, to know how to"
+    },
+    {
+     "cz": "jazyk",
+     "en": "language"
+    }
+   ],
+   "vocabB": [],
+   "sentences": [
+    {
+     "cz": "Jedu do práce metrem.",
+     "en": "I go to work by metro.",
+     "chunk": false
+    },
+    {
+     "cz": "Platím kartou. Píšu tužkou.",
+     "en": "I pay by card. I write with a pencil.",
+     "chunk": false
+    },
+    {
+     "cz": "Jdu na kávu s kamarádem.",
+     "en": "I'm going for coffee with a friend.",
+     "chunk": true
+    },
+    {
+     "cz": "Bydlím s rodinou.",
+     "en": "I live with my family.",
+     "chunk": true
+    },
+    {
+     "cz": "Chci kávu s mlékem a bez cukru.",
+     "en": "I want coffee with milk and without sugar.",
+     "chunk": false
+    },
+    {
+     "cz": "Pracuju jako programátor / grafik.",
+     "en": "I work as a programmer / graphic artist.",
+     "chunk": false
+    },
+    {
+     "cz": "Chtěl bych být lékařem.",
+     "en": "I'd like to be a doctor.",
+     "chunk": false
+    },
+    {
+     "cz": "Jdeš se mnou? — Ano, jdu s tebou.",
+     "en": "Are you coming with me? — Yes, I'm coming with you.",
+     "chunk": true
+    },
+    {
+     "cz": "Setkání se šéfem je v pátek.",
+     "en": "The meeting with the boss is on Friday.",
+     "chunk": true
+    },
+    {
+     "cz": "Čekám před domem. Auto stojí za domem.",
+     "en": "I'm waiting in front of the house. The car is behind the house.",
+     "chunk": false
+    },
+    {
+     "cz": "Mezi obchodem a poštou je park.",
+     "en": "Between the shop and the post office is a park.",
+     "chunk": false
+    },
+    {
+     "cz": "Před týdnem jsem měl pohovor.",
+     "en": "A week ago I had an interview.",
+     "chunk": true
+    }
+   ],
+   "speaking": "basic job interview: *Kde pracujete? Jak dlouho? Co umíte? Jakými jazyky mluvíte? — Mluvím anglicky a trochu česky.* ★ Describe a typical working day.",
+   "writing": "CV paragraph (6 sentences) + application e-mail (4 sentences).",
+   "input": "job ad (read), a short interview (listen).",
+   "realLife": "tell a Czech person what you do for a living and what languages you speak.",
+   "examLink": "Speaking work topic; Writing formal e-mail; Reading ads.",
+   "weeklyTest": "instrumental gap-fills ×20; s / se + pronouns ×8; job Q&A aloud.",
+   "plan": null,
+   "notes": [],
+   "mock": null
+  },
+  {
+   "week": 19,
+   "phase": "A2 grammar and life",
+   "title": "Adjectives, possessives, home and describing",
+   "canDo": "describe people, things and a home; talk about renting a flat.",
+   "patternLab": [
+    "**Adjective nominative table:** hard (nový): **-ý / -á / -é** (pl masc animate **-í**, other plurals **-é / -á**) · soft (moderní): **-í** everywhere.",
+    "**Adjective case endings follow the noun:** repeat the singular tables you know: acc *-ého / -ý / -ou / -é*, loc *-ém / -é*, dat *-ému / -é*, instr *-ým / -ou*.",
+    "**Possessives:** můj / moje / moje · tvůj / tvoje · náš / naše · váš / vaše · **jeho · její · jejich** do not change · **svůj** = your own subject's: *Mám rád svou práci.* ★",
+    "**Demonstratives:** ten · ta · to · tento · tenhle · tamten.",
+    "**Question words:** *Jaký je …? Který …?*",
+    "**Hook:** nouns carry the gender; adjectives and possessives copy it."
+   ],
+   "vocabA": [
+    {
+     "cz": "byt",
+     "en": "flat"
+    },
+    {
+     "cz": "dům",
+     "en": "house"
+    },
+    {
+     "cz": "patro",
+     "en": "floor, storey"
+    },
+    {
+     "cz": "výtah",
+     "en": "lift"
+    },
+    {
+     "cz": "schody",
+     "en": "stairs"
+    },
+    {
+     "cz": "obývací pokoj",
+     "en": "living room"
+    },
+    {
+     "cz": "ložnice",
+     "en": "bedroom"
+    },
+    {
+     "cz": "kuchyň",
+     "en": "kitchen"
+    },
+    {
+     "cz": "koupelna",
+     "en": "bathroom"
+    },
+    {
+     "cz": "záchod",
+     "en": "toilet"
+    },
+    {
+     "cz": "balkon",
+     "en": "balcony"
+    },
+    {
+     "cz": "sklep",
+     "en": "cellar"
+    },
+    {
+     "cz": "garáž",
+     "en": "garage"
+    },
+    {
+     "cz": "nábytek",
+     "en": "furniture"
+    },
+    {
+     "cz": "gauč",
+     "en": "sofa"
+    },
+    {
+     "cz": "postel",
+     "en": "bed"
+    },
+    {
+     "cz": "skříň",
+     "en": "wardrobe, cupboard"
+    },
+    {
+     "cz": "lednička",
+     "en": "fridge"
+    },
+    {
+     "cz": "pračka",
+     "en": "washing machine"
+    },
+    {
+     "cz": "sporák",
+     "en": "cooker"
+    },
+    {
+     "cz": "trouba",
+     "en": "oven"
+    },
+    {
+     "cz": "myčka",
+     "en": "dishwasher"
+    },
+    {
+     "cz": "topení",
+     "en": "heating"
+    },
+    {
+     "cz": "okno",
+     "en": "window"
+    },
+    {
+     "cz": "dveře",
+     "en": "door"
+    },
+    {
+     "cz": "klíč",
+     "en": "key"
+    },
+    {
+     "cz": "zámek",
+     "en": "lock"
+    },
+    {
+     "cz": "nájem",
+     "en": "rent"
+    },
+    {
+     "cz": "kauce",
+     "en": "deposit"
+    },
+    {
+     "cz": "pronajímatel",
+     "en": "landlord"
+    },
+    {
+     "cz": "nájemník",
+     "en": "tenant"
+    },
+    {
+     "cz": "smlouva",
+     "en": "contract"
+    },
+    {
+     "cz": "služby",
+     "en": "services (utilities)"
+    },
+    {
+     "cz": "energie",
+     "en": "energy (bills)"
+    },
+    {
+     "cz": "zařízený",
+     "en": "furnished"
+    },
+    {
+     "cz": "nezařízený",
+     "en": "unfurnished"
+    },
+    {
+     "cz": "velikost",
+     "en": "size"
+    },
+    {
+     "cz": "metr čtvereční",
+     "en": "square metre"
+    },
+    {
+     "cz": "2+kk",
+     "en": "2 rooms + kitchenette"
+    },
+    {
+     "cz": "3+1",
+     "en": "3 rooms + separate kitchen"
+    },
+    {
+     "cz": "pronájem",
+     "en": "rental, lease"
+    },
+    {
+     "cz": "podnájem",
+     "en": "sublet"
+    }
+   ],
+   "vocabB": [
+    {
+     "cz": "vysoký",
+     "en": "tall, high"
+    },
+    {
+     "cz": "nízký",
+     "en": "low, short"
+    },
+    {
+     "cz": "malý",
+     "en": "small"
+    },
+    {
+     "cz": "velký",
+     "en": "big"
+    },
+    {
+     "cz": "štíhlý",
+     "en": "slim"
+    },
+    {
+     "cz": "silný",
+     "en": "strong, heavy-set"
+    },
+    {
+     "cz": "starý",
+     "en": "old"
+    },
+    {
+     "cz": "mladý",
+     "en": "young"
+    },
+    {
+     "cz": "hezký",
+     "en": "nice, pretty"
+    },
+    {
+     "cz": "milý",
+     "en": "kind, nice"
+    },
+    {
+     "cz": "příjemný",
+     "en": "pleasant"
+    },
+    {
+     "cz": "hodný",
+     "en": "kind, good (well-behaved)"
+    },
+    {
+     "cz": "veselý",
+     "en": "cheerful"
+    },
+    {
+     "cz": "tichý",
+     "en": "quiet"
+    },
+    {
+     "cz": "hlasitý",
+     "en": "loud"
+    },
+    {
+     "cz": "chytrý",
+     "en": "clever"
+    },
+    {
+     "cz": "líný",
+     "en": "lazy"
+    },
+    {
+     "cz": "pracovitý",
+     "en": "hard-working"
+    },
+    {
+     "cz": "unavený",
+     "en": "tired"
+    },
+    {
+     "cz": "šťastný",
+     "en": "happy"
+    },
+    {
+     "cz": "smutný",
+     "en": "sad"
+    },
+    {
+     "cz": "naštvaný",
+     "en": "angry, annoyed"
+    },
+    {
+     "cz": "nervózní",
+     "en": "nervous"
+    },
+    {
+     "cz": "spokojený",
+     "en": "satisfied"
+    },
+    {
+     "cz": "světlý",
+     "en": "bright"
+    },
+    {
+     "cz": "tmavý",
+     "en": "dark"
+    },
+    {
+     "cz": "útulný",
+     "en": "cosy"
+    },
+    {
+     "cz": "prostorný",
+     "en": "spacious"
+    }
+   ],
+   "sentences": [
+    {
+     "cz": "Hledám byt 2+kk v centru.",
+     "en": "I'm looking for a 2+kk flat in the centre.",
+     "chunk": true
+    },
+    {
+     "cz": "Kolik je nájem? — Nájem je dvacet pět tisíc korun měsíčně.",
+     "en": "What's the rent? — 25,000 crowns a month.",
+     "chunk": false
+    },
+    {
+     "cz": "Je byt zařízený? Je tam pračka?",
+     "en": "Is the flat furnished? Is there a washing machine?",
+     "chunk": false
+    },
+    {
+     "cz": "Kdy se můžu přijít podívat?",
+     "en": "When can I come to see it?",
+     "chunk": true
+    },
+    {
+     "cz": "Moje sestra je vysoká a štíhlá.",
+     "en": "My sister is tall and slim.",
+     "chunk": false
+    },
+    {
+     "cz": "Můj kolega je velmi milý a hodný.",
+     "en": "My colleague is very kind and nice.",
+     "chunk": false
+    },
+    {
+     "cz": "Nová práce je zajímavá, ale těžká.",
+     "en": "The new job is interesting but hard.",
+     "chunk": false
+    },
+    {
+     "cz": "Mám na sobě černou bundu a modré džíny.",
+     "en": "I'm wearing a black jacket and blue jeans.",
+     "chunk": true
+    },
+    {
+     "cz": "Naše kuchyň je malá, ale světlá.",
+     "en": "Our kitchen is small but bright.",
+     "chunk": false
+    },
+    {
+     "cz": "Jaký je tvůj byt? / Který byt se ti líbí?",
+     "en": "What is your flat like? / Which flat do you like?",
+     "chunk": false
+    },
+    {
+     "cz": "Mám rád svou práci.",
+     "en": "I like my job.",
+     "chunk": true
+    },
+    {
+     "cz": "Služby jsou v nájmu?",
+     "en": "Are utilities included in the rent?",
+     "chunk": true
+    }
+   ],
+   "speaking": "describe a person and your flat; phone enquiry about a rental (\"Dobrý den, volám ohledně bytu …\").",
+   "writing": "enquiry e-mail about a flat (7 sentences) + describe a person (6 sentences).",
+   "input": "a rental ad (read), an agent phone call (listen).",
+   "realLife": "read one real Czech flat ad and extract rent, size, deposit.",
+   "examLink": "Reading ads; Writing formal enquiry; Speaking description.",
+   "weeklyTest": "adjective agreement ×20; possessive gap-fills ×10; read an ad and answer 5 questions; speak a flat description.",
+   "plan": null,
+   "notes": [],
+   "mock": null
+  },
+  {
+   "week": 20,
+   "phase": "A2 grammar and life",
+   "title": "Connectors, reasons, comparison, polite register",
+   "canDo": "give reasons and opinions, compare, switch between formal and informal.",
+   "patternLab": [
+    "**Connectors:** a · ale · nebo · protože · proto · takže · když · že · jestli · než · až · aby ★ · taky / také · ještě · už. **Always a comma before a subordinate clause:** *Nevím, jestli přijdu.*",
+    "**Comparatives:** typical -ější / -ší, hard stem change: *levný → levnější, rychlý → rychlejší, drahý → dražší, starý → starší, vysoký → vyšší, hezký → hezčí.* Irregulars: **dobrý → lepší · špatný → horší · velký → větší · malý → menší · dlouhý → delší · krátký → kratší · mladý → mladší · těžký → těžší.** Superlative: **nej-**: *nejlepší, nejdražší.* Adverbs: lépe/líp, hůř, víc, méně.",
+    "**Comparing:** *než* (than) + nominative: *Praha je větší než Brno.* *Tak … jako …* (as … as).",
+    "**Conditional (polite requests):** **bych · bys · by · bychom · byste · by + -l form.** *Chtěl bych … · Mohl byste …? · Dala bych si … · Měl by to být …*",
+    "**Formal vs informal:** *Dobrý den · S pozdravem · Děkuji · Vážená paní …* vs *Ahoj · Měj se · Díky · Čau.* Use *vy* + plural verbs for strangers.",
+    "**Hook:** reason = *protože*, result = *proto/takže*, comparison = *než*, politeness = *byste / bych*."
+   ],
+   "vocabA": [
+    {
+     "cz": "protože",
+     "en": "because"
+    },
+    {
+     "cz": "proto",
+     "en": "therefore, that's why"
+    },
+    {
+     "cz": "takže",
+     "en": "so"
+    },
+    {
+     "cz": "ale",
+     "en": "but"
+    },
+    {
+     "cz": "nebo",
+     "en": "or"
+    },
+    {
+     "cz": "když",
+     "en": "when, if"
+    },
+    {
+     "cz": "že",
+     "en": "that"
+    },
+    {
+     "cz": "jestli",
+     "en": "if, whether"
+    },
+    {
+     "cz": "než",
+     "en": "than, before"
+    },
+    {
+     "cz": "až",
+     "en": "when (future), until"
+    },
+    {
+     "cz": "tak",
+     "en": "so, then"
+    },
+    {
+     "cz": "taky / také",
+     "en": "also, too"
+    },
+    {
+     "cz": "ještě",
+     "en": "still, yet, more"
+    },
+    {
+     "cz": "už",
+     "en": "already"
+    },
+    {
+     "cz": "jenom",
+     "en": "only"
+    },
+    {
+     "cz": "hlavně",
+     "en": "mainly"
+    },
+    {
+     "cz": "vlastně",
+     "en": "actually"
+    },
+    {
+     "cz": "asi",
+     "en": "probably, about"
+    },
+    {
+     "cz": "určitě",
+     "en": "certainly, definitely"
+    },
+    {
+     "cz": "možná",
+     "en": "maybe"
+    },
+    {
+     "cz": "samozřejmě",
+     "en": "of course"
+    },
+    {
+     "cz": "bohužel",
+     "en": "unfortunately"
+    },
+    {
+     "cz": "naštěstí",
+     "en": "fortunately"
+    },
+    {
+     "cz": "vždycky",
+     "en": "always"
+    },
+    {
+     "cz": "konečně",
+     "en": "finally, at last"
+    },
+    {
+     "cz": "přece",
+     "en": "after all, surely"
+    },
+    {
+     "cz": "názor",
+     "en": "opinion"
+    },
+    {
+     "cz": "podle mě",
+     "en": "in my opinion"
+    },
+    {
+     "cz": "myslím, že",
+     "en": "I think that"
+    },
+    {
+     "cz": "souhlasím",
+     "en": "I agree"
+    },
+    {
+     "cz": "nesouhlasím",
+     "en": "I disagree"
+    },
+    {
+     "cz": "rozdíl",
+     "en": "difference"
+    },
+    {
+     "cz": "stejný",
+     "en": "the same"
+    },
+    {
+     "cz": "jiný",
+     "en": "different, other"
+    },
+    {
+     "cz": "podobný",
+     "en": "similar"
+    },
+    {
+     "cz": "lepší",
+     "en": "better"
+    },
+    {
+     "cz": "horší",
+     "en": "worse"
+    },
+    {
+     "cz": "nejlepší",
+     "en": "the best"
+    },
+    {
+     "cz": "nejhorší",
+     "en": "the worst"
+    }
+   ],
+   "vocabB": [],
+   "sentences": [
+    {
+     "cz": "Učím se česky, protože chci žít v Česku.",
+     "en": "I'm learning Czech because I want to live in Czechia.",
+     "chunk": true
+    },
+    {
+     "cz": "Praha je větší než Brno, ale Brno je klidnější.",
+     "en": "Prague is bigger than Brno, but Brno is calmer.",
+     "chunk": false
+    },
+    {
+     "cz": "Tohle je nejlepší kavárna ve městě.",
+     "en": "This is the best café in town.",
+     "chunk": true
+    },
+    {
+     "cz": "Je to dražší, ale kvalitnější.",
+     "en": "It's more expensive but better quality.",
+     "chunk": false
+    },
+    {
+     "cz": "Nevím, jestli přijdu.",
+     "en": "I don't know if I'll come.",
+     "chunk": false
+    },
+    {
+     "cz": "Řekl mi, že přijde pozdě.",
+     "en": "He told me he'd be late.",
+     "chunk": false
+    },
+    {
+     "cz": "Když mám čas, chodím běhat.",
+     "en": "When I have time, I go running.",
+     "chunk": false
+    },
+    {
+     "cz": "Mohl byste mi, prosím, pomoct?",
+     "en": "Could you please help me?",
+     "chunk": false
+    },
+    {
+     "cz": "Mohla byste mluvit pomaleji?",
+     "en": "Could you speak more slowly?",
+     "chunk": false
+    },
+    {
+     "cz": "Chtěla bych vědět, kolik to stojí.",
+     "en": "I'd like to know how much it costs.",
+     "chunk": false
+    },
+    {
+     "cz": "Mluvím česky hůř než ty.",
+     "en": "I speak Czech worse than you.",
+     "chunk": false
+    },
+    {
+     "cz": "Podle mě je to dobrý nápad.",
+     "en": "In my opinion it's a good idea.",
+     "chunk": false
+    }
+   ],
+   "speaking": "give an opinion and a reason (60 seconds); compare two options (flats, cities, jobs); convert the same request from informal to formal.",
+   "writing": "an informal message and a formal e-mail to the same person about the same topic.",
+   "input": "opinion texts (read), a radio-style discussion (listen).",
+   "realLife": "write one formal e-mail in Czech to a real organisation (or a draft you could send).",
+   "examLink": "Writing formal/informal; Speaking justification.",
+   "weeklyTest": "comparatives ×15; connector choice ×10; formal rewriting ×6; 60-second opinion aloud.",
+   "plan": null,
+   "notes": [],
+   "mock": null
+  },
+  {
+   "week": 21,
+   "phase": "A2 grammar and life",
+   "title": "Real-life Czech: office, post, bank, phone, landlord, school",
+   "canDo": "handle the situations the exam and life actually test: offices, phone calls, post, bank, repairs, school.",
+   "patternLab": [
+    "**Polite instructions (vy-imperative):** *počkejte, vyplňte, podepište, ukažte mi, pošlete mi, zavolejte mi, dejte mi.*",
+    "**Plural recognition:** nom/acc plural endings (**-y / -i / -e / -a**) and genitive plural (**-ů / -í / zero**) in set phrases: *pět korun, hodně lidí, deset deka.*",
+    "**Phone chunks ★:** *Dobrý den, volám ohledně … · Můžu mluvit s panem …? · Je tam paní …? · Moment, předám vám. · Teď není k dispozici. · Zavolejte později. · Můžu nechat vzkaz? · Špatně vás slyším, můžete mluvit hlasitěji?*",
+    "**Office chunks ★:** *Chtěl bych podat žádost o … · Kde se vyplňuje tenhle formulář? · Mám tady objednání na půl desáté. · Potřebuju potvrzení, že … · Jaké dokumenty potřebuju?*",
+    "**Hook:** all real-life Czech is the same 20 chunks in different dress."
+   ],
+   "vocabA": [
+    {
+     "cz": "úřad",
+     "en": "office (authority)"
+    },
+    {
+     "cz": "cizinecká policie",
+     "en": "foreign police"
+    },
+    {
+     "cz": "ministerstvo vnitra",
+     "en": "Ministry of the Interior"
+    },
+    {
+     "cz": "žádost",
+     "en": "application, request"
+    },
+    {
+     "cz": "formulář",
+     "en": "form"
+    },
+    {
+     "cz": "vyplnit",
+     "en": "to fill in"
+    },
+    {
+     "cz": "podepsat",
+     "en": "to sign"
+    },
+    {
+     "cz": "podpis",
+     "en": "signature"
+    },
+    {
+     "cz": "razítko",
+     "en": "stamp"
+    },
+    {
+     "cz": "doklad",
+     "en": "document, ID"
+    },
+    {
+     "cz": "pas",
+     "en": "passport"
+    },
+    {
+     "cz": "povolení k pobytu",
+     "en": "residence permit"
+    },
+    {
+     "cz": "trvalý pobyt",
+     "en": "permanent residence"
+    },
+    {
+     "cz": "termín",
+     "en": "date, appointment slot"
+    },
+    {
+     "cz": "objednání",
+     "en": "booking, appointment"
+    },
+    {
+     "cz": "fronta",
+     "en": "queue"
+    },
+    {
+     "cz": "přepážka",
+     "en": "counter"
+    },
+    {
+     "cz": "potvrzení",
+     "en": "confirmation, certificate"
+    },
+    {
+     "cz": "kopie",
+     "en": "copy"
+    },
+    {
+     "cz": "originál",
+     "en": "original"
+    },
+    {
+     "cz": "ověřit",
+     "en": "to certify, to verify"
+    },
+    {
+     "cz": "poplatek",
+     "en": "fee"
+    },
+    {
+     "cz": "kolek",
+     "en": "revenue stamp"
+    },
+    {
+     "cz": "lhůta",
+     "en": "deadline, time limit"
+    },
+    {
+     "cz": "odpověď",
+     "en": "answer, reply"
+    },
+    {
+     "cz": "rozhodnutí",
+     "en": "decision"
+    },
+    {
+     "cz": "doručit",
+     "en": "to deliver"
+    },
+    {
+     "cz": "PSČ",
+     "en": "postcode"
+    },
+    {
+     "cz": "pošta",
+     "en": "post office"
+    },
+    {
+     "cz": "balík",
+     "en": "parcel"
+    },
+    {
+     "cz": "dopis",
+     "en": "letter"
+    },
+    {
+     "cz": "obálka",
+     "en": "envelope"
+    },
+    {
+     "cz": "známka",
+     "en": "stamp (postage), mark"
+    },
+    {
+     "cz": "doporučeně",
+     "en": "by registered mail"
+    },
+    {
+     "cz": "adresát",
+     "en": "addressee"
+    },
+    {
+     "cz": "odesílatel",
+     "en": "sender"
+    },
+    {
+     "cz": "zásilka",
+     "en": "consignment, parcel"
+    },
+    {
+     "cz": "vyzvednout",
+     "en": "to pick up, to collect"
+    },
+    {
+     "cz": "účet",
+     "en": "account, bill"
+    },
+    {
+     "cz": "karta",
+     "en": "card"
+    },
+    {
+     "cz": "platba",
+     "en": "payment"
+    },
+    {
+     "cz": "převod",
+     "en": "transfer"
+    },
+    {
+     "cz": "výpis",
+     "en": "statement"
+    },
+    {
+     "cz": "pobočka",
+     "en": "branch"
+    },
+    {
+     "cz": "bankomat",
+     "en": "cash machine, ATM"
+    },
+    {
+     "cz": "porucha",
+     "en": "fault, breakdown"
+    },
+    {
+     "cz": "nefunguje",
+     "en": "it doesn't work"
+    },
+    {
+     "cz": "rozbitý",
+     "en": "broken"
+    },
+    {
+     "cz": "opravit",
+     "en": "to repair"
+    },
+    {
+     "cz": "technik",
+     "en": "technician"
+    },
+    {
+     "cz": "servis",
+     "en": "service, repair shop"
+    },
+    {
+     "cz": "topení",
+     "en": "heating"
+    },
+    {
+     "cz": "voda",
+     "en": "water"
+    },
+    {
+     "cz": "elektřina",
+     "en": "electricity"
+    },
+    {
+     "cz": "plyn",
+     "en": "gas"
+    },
+    {
+     "cz": "internet",
+     "en": "internet"
+    },
+    {
+     "cz": "škola",
+     "en": "school"
+    },
+    {
+     "cz": "školka",
+     "en": "nursery school"
+    },
+    {
+     "cz": "třída",
+     "en": "class, classroom"
+    },
+    {
+     "cz": "učitel",
+     "en": "teacher"
+    },
+    {
+     "cz": "třídní schůzka",
+     "en": "parents' evening"
+    },
+    {
+     "cz": "omluvenka",
+     "en": "absence note"
+    },
+    {
+     "cz": "domácí úkol",
+     "en": "homework"
+    },
+    {
+     "cz": "zápis",
+     "en": "enrolment"
+    },
+    {
+     "cz": "obědy",
+     "en": "(school) lunches"
+    }
+   ],
+   "vocabB": [],
+   "sentences": [
+    {
+     "cz": "Dobrý den, chtěl bych podat žádost o trvalý pobyt.",
+     "en": "Hello, I'd like to submit an application for permanent residence.",
+     "chunk": true
+    },
+    {
+     "cz": "Prosím vás, kde se vyplňuje tenhle formulář?",
+     "en": "Excuse me, where do I fill in this form?",
+     "chunk": true
+    },
+    {
+     "cz": "Vyplňte prosím formulář a podepište ho.",
+     "en": "Please fill in the form and sign it.",
+     "chunk": true
+    },
+    {
+     "cz": "Mám tady objednání na půl desáté.",
+     "en": "I have an appointment here at 9:30.",
+     "chunk": true
+    },
+    {
+     "cz": "Dobrý den, volám ohledně bytu. Je ještě volný?",
+     "en": "Hello, I'm calling about the flat. Is it still available?",
+     "chunk": true
+    },
+    {
+     "cz": "Nefunguje nám topení. Můžete poslat technika?",
+     "en": "Our heating isn't working. Can you send a technician?",
+     "chunk": false
+    },
+    {
+     "cz": "Chtěl bych poslat balík do Indie.",
+     "en": "I'd like to send a parcel to India.",
+     "chunk": true
+    },
+    {
+     "cz": "Můžu otevřít účet? Co k tomu potřebuju?",
+     "en": "Can I open an account? What do I need for that?",
+     "chunk": true
+    },
+    {
+     "cz": "Omlouvám se, špatně vás slyším. Můžete mluvit hlasitěji?",
+     "en": "Sorry, I can't hear you well. Can you speak louder?",
+     "chunk": false
+    },
+    {
+     "cz": "Dítě je nemocné, nemůže přijít do školy.",
+     "en": "The child is ill, can't come to school.",
+     "chunk": false
+    },
+    {
+     "cz": "Potřebuju potvrzení, že tady pracuju.",
+     "en": "I need confirmation that I work here.",
+     "chunk": true
+    },
+    {
+     "cz": "Jaké dokumenty potřebuju?",
+     "en": "Which documents do I need?",
+     "chunk": false
+    }
+   ],
+   "speaking": "4 real-life role-plays (office, phone call to a landlord, post office, bank), each 3-4 minutes with an AI that plays a slightly impatient clerk.",
+   "writing": "formal e-mail to a landlord about a repair (8 sentences) + SMS to a school or colleague.",
+   "input": "official letter (read), phone-menu / voicemail (listen).",
+   "realLife": "make one real call or office visit in Czech this week (or rehearse and record it).",
+   "examLink": "the new Writing interaction tasks and Speaking everyday-life tasks.",
+   "weeklyTest": "four role-play scores; one formal e-mail rubric; 20 vocabulary items; form-filling.",
+   "plan": null,
+   "notes": [
+    {
+     "title": "",
+     "text": "Target thresholds for every mock from here: **Reading ≥ 80% · Listening ≥ 80% · Writing ≥ 70% · Speaking ≥ 75%.** The real pass mark is 60% (42/70 written, 24/40 speaking); the extra margin covers nerves and bad days."
+    }
+   ],
+   "mock": null
+  },
+  {
+   "week": 22,
+   "phase": "Exam sprint",
+   "title": "Mock 2 + repair",
+   "canDo": "",
+   "patternLab": [],
+   "vocabA": [],
+   "vocabB": [],
+   "sentences": [],
+   "speaking": "",
+   "writing": "",
+   "input": "",
+   "realLife": "have a 5-minute conversation with a Czech speaker or a tutor.",
+   "examLink": "",
+   "weeklyTest": "",
+   "plan": [
+    {
+     "day": "Mon",
+     "plan": "**Mock 2, Reading + Listening** (official interactive practice test or Sample Test 1, whichever you did not use for Mock 1). Real timings: Reading 40 min, Listening ~40 min."
+    },
+    {
+     "day": "Tue",
+     "plan": "Scoring and error analysis. The app lists each wrong item with the rule. Repair loop #1 (45 min) from the 30 most frequent errors."
+    },
+    {
+     "day": "Wed",
+     "plan": "Repair loop #2 on your two weakest grammar patterns + vocabulary gaps."
+    },
+    {
+     "day": "Thu",
+     "plan": "**Mock 2, Writing + Speaking** (AI examiner). Writing 25 min; speaking 15 min."
+    },
+    {
+     "day": "Fri",
+     "plan": "Score. Decision table below."
+    }
+   ],
+   "notes": [
+    {
+     "title": "Decision (Fri)",
+     "text": "\n- All four parts ≥ 70% (Writing ≥ 60%): continue as planned.\n- Any part < 60%: that skill gets **double time** in Week 23-24 (the app swaps one block per day).\n- Any part < 45%: insert a **repair week** (repeat the relevant weeks' Wed-Fri) before Week 23."
+    }
+   ],
+   "mock": {
+    "title": "Decision (Fri)",
+    "text": ""
+   }
+  },
+  {
+   "week": 23,
+   "phase": "Exam sprint",
+   "title": "Writing and Speaking mastery (new format)",
+   "canDo": "",
+   "patternLab": [],
+   "vocabA": [],
+   "vocabB": [],
+   "sentences": [],
+   "speaking": "",
+   "writing": "",
+   "input": "",
+   "realLife": "",
+   "examLink": "",
+   "weeklyTest": "2 timed Writing tasks + 2 timed Speaking tasks scored on the rubric. Target Writing ≥ 70%, Speaking ≥ 75%.",
+   "plan": [
+    {
+     "day": "Mon",
+     "plan": "**Speaking set A:** introduction and personal topics. Practice taking initiative: ask the examiner a question, add a reason with *protože*."
+    },
+    {
+     "day": "Tue",
+     "plan": "**Speaking set B:** picture and situation tasks (shopping, doctor, directions, office, work). 5 variants each."
+    },
+    {
+     "day": "Wed",
+     "plan": "**Writing task type 1:** interactive message/e-mail (reply to a message, make a request, give information). Learn a 4-step routine."
+    },
+    {
+     "day": "Thu",
+     "plan": "**Writing task type 2:** forms, short texts, descriptions. Check endings, verbs, spelling in a final 2-minute scan."
+    },
+    {
+     "day": "Fri",
+     "plan": "Full **Speaking (15 min) + Writing (25 min)** timed simulation. AI examiner scores with the rubric."
+    }
+   ],
+   "notes": [
+    {
+     "title": "Important",
+     "text": "the new format changed Writing (more interaction) and Speaking (more topics, more initiative from you, everyday vocabulary scored). The app must import and replicate the exact task types from the 2026 handbook and Sample Tests 1-2."
+    },
+    {
+     "title": "Writing routine (4 steps, 25 min)",
+     "text": "\n1. Read the task twice; underline every thing you must do (greet, ask, give reason, ask for reply…). *2 min*\n2. Write one sentence per bullet using chunks you know; add *protože* once. *17 min*\n3. Close politely: *Děkuji · S pozdravem · Těším se na odpověď.* *2 min*\n4. Scan: verb endings, case endings after prepositions, *ě/ř* spelling, diacritics. *4 min*"
+    },
+    {
+     "title": "Speaking toolkit (use these every time)",
+     "text": "\n- Start answers with 2-3 sentences, then add a reason: *Mám rád…, protože…*\n- Take initiative: *A vy? · A co vy? · Můžu se zeptat…?*\n- Buy time politely: *Moment, prosím. · To je dobrá otázka. · Rád bych řekl…*\n- Repair: *Promiňte, nerozumím. · Můžete to opakovat? · Mluvte pomaleji, prosím.*\n- Everyday topics to prepare (A2 vocabulary list): housing · health · school · work · transport · shopping · public services · free time · family · food · weather · holidays."
+    }
+   ],
+   "mock": null
+  },
+  {
+   "week": 24,
+   "phase": "Exam sprint",
+   "title": "Reading and Listening mastery",
+   "canDo": "",
+   "patternLab": [],
+   "vocabA": [],
+   "vocabB": [],
+   "sentences": [],
+   "speaking": "",
+   "writing": "",
+   "input": "",
+   "realLife": "",
+   "examLink": "",
+   "weeklyTest": "official-format Reading + Listening. Target ≥ 80% each.",
+   "plan": [
+    {
+     "day": "Mon",
+     "plan": "**Reading A:** signs, notices, timetables, ads. Find numbers, dates, times."
+    },
+    {
+     "day": "Tue",
+     "plan": "**Reading B:** short messages and e-mails; match and true/false."
+    },
+    {
+     "day": "Wed",
+     "plan": "**Reading C:** longer texts. Timed: 40 min for the whole paper."
+    },
+    {
+     "day": "Thu",
+     "plan": "**Listening:** announcements, dialogues, voicemail, phone messages. Read all questions before the audio starts; note numbers; check how many times the official recording plays (see the handbook)."
+    },
+    {
+     "day": "Fri",
+     "plan": "Timed **Reading (40 min) + Listening (~40 min)** mock."
+    }
+   ],
+   "notes": [
+    {
+     "title": "Reading tactics",
+     "text": "read the questions first · circle the key word in each · look for the same idea in different words · numbers and dates are the usual traps · don't stop on one unknown word · finish with 3 minutes for transfers to the answer sheet."
+    },
+    {
+     "title": "Listening tactics",
+     "text": "preview questions in the pause · write numbers as digits · note names · don't re-listen in your head, move on · answer every item."
+    },
+    {
+     "title": "Daily immersion (Sat or 10 min each day)",
+     "text": "a slow Czech radio or podcast piece with subtitles, a short news clip, an announcement from a real station."
+    }
+   ],
+   "mock": {
+    "title": "Plan",
+    "text": "Fri: Timed **Reading (40 min) + Listening (~40 min)** mock."
+   }
+  },
+  {
+   "week": 25,
+   "phase": "Exam sprint",
+   "title": "Full mocks + final repair",
+   "canDo": "",
+   "patternLab": [],
+   "vocabA": [],
+   "vocabB": [],
+   "sentences": [],
+   "speaking": "",
+   "writing": "",
+   "input": "",
+   "realLife": "do something you were avoiding in Czech (an official call, a real appointment).",
+   "examLink": "",
+   "weeklyTest": "",
+   "plan": [
+    {
+     "day": "Mon",
+     "plan": "**Mock 3, all four parts** (Sample Test 2, new format). Exact timings, one sitting with the breaks."
+    },
+    {
+     "day": "Tue",
+     "plan": "Scoring + targeted repair (45 min from error log)."
+    },
+    {
+     "day": "Wed",
+     "plan": "**Mock 4, all four parts** (AI-generated in the official style; mark it \"unofficial\")."
+    },
+    {
+     "day": "Thu",
+     "plan": "Repair + speaking confidence practice (2 scenario role-plays)."
+    },
+    {
+     "day": "Fri",
+     "plan": "Decision. **Gate = two consecutive full mocks that meet:** Reading ≥ 80%, Listening ≥ 80%, Writing ≥ 70%, Speaking ≥ 75%."
+    }
+   ],
+   "notes": [],
+   "mock": {
+    "title": "Plan",
+    "text": "Mon: **Mock 3, all four parts** (Sample Test 2, new format). Exact timings, one sitting with the breaks.\nWed: **Mock 4, all four parts** (AI-generated in the official style; mark it \"unofficial\").\nFri: Decision. **Gate = two consecutive full mocks that meet:** Reading ≥ 80%, Listening ≥ 80%, Writing ≥ 70%, Speaking ≥ 75%."
+   }
+  },
+  {
+   "week": 26,
+   "phase": "Exam sprint",
+   "title": "Final gate, exam logistics, Czech day",
+   "canDo": "",
+   "patternLab": [],
+   "vocabA": [],
+   "vocabB": [],
+   "sentences": [],
+   "speaking": "",
+   "writing": "",
+   "input": "",
+   "realLife": "",
+   "examLink": "",
+   "weeklyTest": "",
+   "plan": [
+    {
+     "day": "Mon",
+     "plan": "**Final mock** (if gate not yet met), or a speaking-only dress rehearsal."
+    },
+    {
+     "day": "Tue",
+     "plan": "Light review: error log top 20, the 30 most useful chunks, ř and numbers."
+    },
+    {
+     "day": "Wed",
+     "plan": "Speaking confidence: 3 role-plays with a tutor or the AI; no new material."
+    },
+    {
+     "day": "Thu",
+     "plan": "**Exam logistics:** passport ready (valid) · online registration done and your date assigned · application signed in person at the school · **payment of 3,200 CZK received by the school at least 8 days before the exam** · travel time · sleep."
+    },
+    {
+     "day": "Fri",
+     "plan": "**Czech day:** do everything possible in Czech. Then write the plan for what comes next (B1 roadmap below)."
+    }
+   ],
+   "notes": [
+    {
+     "title": "If the gate isn't met",
+     "text": "don't book yet. Repeat Weeks 22-25 (2-4 weeks), each time repairing only the failing skill. A calm retake of a failed practice is cheaper than a failed 3,200 CZK exam."
+    },
+    {
+     "title": "Booking tip",
+     "text": "register around **Week 16-18**; waiting for a date depends on the school's capacity. The official page lists dates through 2027. Pick a date at least 2 weeks after your planned gate week."
+    }
+   ],
+   "mock": {
+    "title": "If the gate isn't met",
+    "text": "don't book yet. Repeat Weeks 22-25 (2-4 weeks), each time repairing only the failing skill. A calm retake of a failed practice is cheaper than a failed 3,200 CZK exam."
+   }
+  }
+ ]
+}
