@@ -4,6 +4,7 @@ import { check, RULE_FOR_TAG, type Verdict } from '../lib/check'
 import { db, logError, type CardRow, type Profile } from '../lib/db'
 import { dueQueue, grade, Rating } from '../lib/srs'
 import { tts } from '../lib/tts'
+import { audioAfter, cue } from '../lib/feedback'
 import { CzechKeys } from '../components/CzechKeys'
 import { Diff } from '../components/Diff'
 
@@ -32,7 +33,8 @@ export function Review({ profile, onDone }: { profile: Profile; onDone?: () => v
     const verdict = check(answer, c.cz, c.cz.includes(' ') ? 'sentence' : 'vocab')
     await db.attempts.add({ itemId: c.id, kind: 'review', response: answer, correct: verdict.correct, tag: verdict.tag, wasNew: c.fsrs.state === State.New, ts: Date.now() })
     if (!verdict.correct) await logError(verdict.tag!, c.pattern)
-    setV(verdict)
+    setV(verdict); cue(verdict.correct)
+    if (audioAfter()) tts.speak(c.cz, profile.ttsRate)
   }
   async function rate(r: Grade) {
     await grade(c!, r)

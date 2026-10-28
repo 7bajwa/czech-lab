@@ -9,6 +9,7 @@
     "lint": "oxlint",
     "preview": "vite preview",
     "parse": "node scripts/parse-curriculum.mjs",
+    "audio-texts": "node scripts/audio-texts.mjs",
     "test": "node src/lib/selftest.ts",
     "phone": "vite --host",
     "serve": "vite build && vite preview --host"

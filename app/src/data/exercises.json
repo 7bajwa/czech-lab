@@ -1050,6 +1050,111 @@
   "en": "Thank you, I'll come on time."
  },
  {
+  "week": 11,
+  "type": "gap",
+  "prompt": "Teď jsem v ___. (práce)",
+  "cz": "práci",
+  "en": "I'm at work now."
+ },
+ {
+  "week": 11,
+  "type": "gap",
+  "prompt": "Jdu do ___. (obchod)",
+  "cz": "obchodu",
+  "en": "I'm going to the shop."
+ },
+ {
+  "week": 11,
+  "type": "gap",
+  "prompt": "Ráno piju ___. (káva)",
+  "cz": "kávu",
+  "en": "In the morning I drink coffee."
+ },
+ {
+  "week": 11,
+  "type": "gap",
+  "prompt": "___ mi pomoct, prosím? (moct, vy)",
+  "cz": "Můžete",
+  "en": "Can you help me, please?"
+ },
+ {
+  "week": 11,
+  "type": "gap",
+  "prompt": "Jedu do centra ___. (tramvaj)",
+  "cz": "tramvají",
+  "en": "I'm going to the centre by tram."
+ },
+ {
+  "week": 11,
+  "type": "transform",
+  "prompt": "Jsem ve škole. (→ Jdu …)",
+  "cz": "Jdu do školy.",
+  "en": "I'm going to school."
+ },
+ {
+  "week": 11,
+  "type": "transform",
+  "prompt": "V sobotu pracuju. (→ negative: nikdy)",
+  "cz": "V sobotu nikdy nepracuju. / Nikdy nepracuju v sobotu. / V sobotu nikdy nepracuji.",
+  "en": "I never work on Saturday."
+ },
+ {
+  "week": 11,
+  "type": "transform",
+  "prompt": "Chci kávu. (→ polite: dát si)",
+  "cz": "Dal bych si kávu. / Dala bych si kávu. / Dám si kávu.",
+  "en": "I'd like a coffee."
+ },
+ {
+  "week": 11,
+  "type": "dialogue",
+  "prompt": "Promiňte, jak se dostanu na nádraží?",
+  "cz": "Jděte rovně a pak doleva.",
+  "en": "Go straight on and then left."
+ },
+ {
+  "week": 11,
+  "type": "scene",
+  "prompt": "",
+  "cz": "Dobrý den, dal bych si kávu a rohlík. / Dobrý den, dala bych si kávu a rohlík.",
+  "en": "Hello, I'd like a coffee and a roll."
+ },
+ {
+  "week": 11,
+  "type": "scene",
+  "prompt": "",
+  "cz": "To je osmdesát pět korun.",
+  "en": "That's eighty-five crowns."
+ },
+ {
+  "week": 11,
+  "type": "scene",
+  "prompt": "",
+  "cz": "Můžu platit kartou? / Mohu platit kartou?",
+  "en": "Can I pay by card?"
+ },
+ {
+  "week": 11,
+  "type": "scene",
+  "prompt": "",
+  "cz": "Ano, samozřejmě.",
+  "en": "Yes, of course."
+ },
+ {
+  "week": 11,
+  "type": "scene",
+  "prompt": "",
+  "cz": "Promiňte, kde je tady pošta?",
+  "en": "Excuse me, where is the post office here?"
+ },
+ {
+  "week": 11,
+  "type": "scene",
+  "prompt": "",
+  "cz": "Pošta je naproti, vedle banky.",
+  "en": "The post office is opposite, next to the bank."
+ },
+ {
   "week": 12,
   "type": "gap",
   "prompt": "Včera ___ byl v práci.",
@@ -1524,6 +1629,20 @@
   "prompt": "Mám teplotu. (→ past: včera)",
   "cz": "Včera jsem měl teplotu. / Včera jsem měla teplotu.",
   "en": "Yesterday I had a temperature."
+ },
+ {
+  "week": 16,
+  "type": "gap",
+  "prompt": "Teď jsem u ___. (lékař)",
+  "cz": "lékaře",
+  "en": "I'm at the doctor's now."
+ },
+ {
+  "week": 16,
+  "type": "gap",
+  "prompt": "Ten lék berte do ___. (pátek)",
+  "cz": "pátku",
+  "en": "Take the medicine until Friday."
  },
  {
   "week": 16,
@@ -2098,5 +2217,530 @@
   "prompt": "",
   "cz": "Kdy dostanu rozhodnutí?",
   "en": "When will I get the decision?"
+ },
+ {
+  "week": 22,
+  "type": "gap",
+  "prompt": "Včera ___ byl u lékaře. (auxiliary, já)",
+  "cz": "jsem",
+  "en": "Yesterday I was at the doctor's."
+ },
+ {
+  "week": 22,
+  "type": "gap",
+  "prompt": "Zítra pojedu do ___. (Ostrava)",
+  "cz": "Ostravy",
+  "en": "Tomorrow I'll go to Ostrava."
+ },
+ {
+  "week": 22,
+  "type": "gap",
+  "prompt": "Mluvil jsem o tom se ___. (šéf)",
+  "cz": "šéfem",
+  "en": "I talked about it with the boss."
+ },
+ {
+  "week": 22,
+  "type": "gap",
+  "prompt": "Kup prosím dvě ___ mléka. (láhev)",
+  "cz": "láhve",
+  "en": "Please buy two bottles of milk."
+ },
+ {
+  "week": 22,
+  "type": "gap",
+  "prompt": "Už jsem ten úkol ___. (udělat)",
+  "cz": "udělal / udělala",
+  "en": "I've already done the task."
+ },
+ {
+  "week": 22,
+  "type": "transform",
+  "prompt": "Čekám na kamaráda. (→ past)",
+  "cz": "Čekal jsem na kamaráda. / Čekala jsem na kamaráda.",
+  "en": "I waited for my friend."
+ },
+ {
+  "week": 22,
+  "type": "transform",
+  "prompt": "Mám pět korun. (→ 3)",
+  "cz": "Mám tři koruny.",
+  "en": "I have three crowns."
+ },
+ {
+  "week": 22,
+  "type": "transform",
+  "prompt": "Bydlím v Praze. (→ Jedu do …)",
+  "cz": "Jedu do Prahy.",
+  "en": "I'm going to Prague."
+ },
+ {
+  "week": 22,
+  "type": "dialogue",
+  "prompt": "Co jste dělal včera večer?",
+  "cz": "Byl jsem doma a díval jsem se na film. / Byla jsem doma a dívala jsem se na film.",
+  "en": "I was at home and watched a film."
+ },
+ {
+  "week": 22,
+  "type": "scene",
+  "prompt": "",
+  "cz": "O víkendu jsem byl s rodinou v Brně. / O víkendu jsem byla s rodinou v Brně.",
+  "en": "At the weekend I was in Brno with my family."
+ },
+ {
+  "week": 22,
+  "type": "scene",
+  "prompt": "",
+  "cz": "Jeli jsme tam vlakem.",
+  "en": "We went there by train."
+ },
+ {
+  "week": 22,
+  "type": "scene",
+  "prompt": "",
+  "cz": "V sobotu jsme byli v muzeu.",
+  "en": "On Saturday we were at the museum."
+ },
+ {
+  "week": 22,
+  "type": "scene",
+  "prompt": "",
+  "cz": "V neděli pršelo, takže jsme zůstali v hotelu.",
+  "en": "On Sunday it rained, so we stayed in the hotel."
+ },
+ {
+  "week": 22,
+  "type": "scene",
+  "prompt": "",
+  "cz": "Domů jsme se vrátili v neděli večer.",
+  "en": "We came back home on Sunday evening."
+ },
+ {
+  "week": 22,
+  "type": "scene",
+  "prompt": "",
+  "cz": "Příští měsíc tam pojedeme znovu.",
+  "en": "Next month we'll go there again."
+ },
+ {
+  "week": 23,
+  "type": "gap",
+  "prompt": "___ paní Nováková, (Dear, formal)",
+  "cz": "Vážená",
+  "en": "Dear Mrs Novák,"
+ },
+ {
+  "week": 23,
+  "type": "gap",
+  "prompt": "Chtěl ___ se zeptat, jestli je byt volný. (já)",
+  "cz": "bych",
+  "en": "I'd like to ask whether the flat is available."
+ },
+ {
+  "week": 23,
+  "type": "gap",
+  "prompt": "Nemůžu přijít, ___ jsem nemocný. (because)",
+  "cz": "protože",
+  "en": "I can't come because I'm ill."
+ },
+ {
+  "week": 23,
+  "type": "gap",
+  "prompt": "Mohl ___ mi poslat formulář? (vy)",
+  "cz": "byste",
+  "en": "Could you send me the form?"
+ },
+ {
+  "week": 23,
+  "type": "gap",
+  "prompt": "Píšu vám ohledně ___. (byt)",
+  "cz": "bytu",
+  "en": "I'm writing to you about the flat."
+ },
+ {
+  "week": 23,
+  "type": "transform",
+  "prompt": "Ahoj Petře, (→ formal: pan Novák)",
+  "cz": "Dobrý den, pane Nováku, / Vážený pane Nováku,",
+  "en": "Dear Mr Novák,"
+ },
+ {
+  "week": 23,
+  "type": "transform",
+  "prompt": "Pošli mi to. (→ vy, polite)",
+  "cz": "Pošlete mi to, prosím. / Mohl byste mi to poslat? / Mohla byste mi to poslat?",
+  "en": "Please send it to me."
+ },
+ {
+  "week": 23,
+  "type": "transform",
+  "prompt": "Mám rád sport. (→ add a reason: je to zdravé)",
+  "cz": "Mám rád sport, protože je to zdravé. / Mám ráda sport, protože je to zdravé.",
+  "en": "I like sport because it's healthy."
+ },
+ {
+  "week": 23,
+  "type": "dialogue",
+  "prompt": "Co děláte ve volném čase?",
+  "cz": "Rád čtu a chodím na procházky. A vy? / Ráda čtu a chodím na procházky. A vy?",
+  "en": "I like reading and going for walks. And you?"
+ },
+ {
+  "week": 23,
+  "type": "scene",
+  "prompt": "",
+  "cz": "Vážený pane Nováku,",
+  "en": "Dear Mr Novák,"
+ },
+ {
+  "week": 23,
+  "type": "scene",
+  "prompt": "",
+  "cz": "píšu vám, protože nám nefunguje pračka.",
+  "en": "I'm writing to you because our washing machine isn't working."
+ },
+ {
+  "week": 23,
+  "type": "scene",
+  "prompt": "",
+  "cz": "Mohl byste poslat technika? / Mohla byste poslat technika?",
+  "en": "Could you send a technician?"
+ },
+ {
+  "week": 23,
+  "type": "scene",
+  "prompt": "",
+  "cz": "Doma jsem každý den od pěti hodin.",
+  "en": "I'm at home every day from five o'clock."
+ },
+ {
+  "week": 23,
+  "type": "scene",
+  "prompt": "",
+  "cz": "Děkuji a těším se na odpověď.",
+  "en": "Thank you, I look forward to your reply."
+ },
+ {
+  "week": 23,
+  "type": "scene",
+  "prompt": "",
+  "cz": "S pozdravem Aman",
+  "en": "Kind regards, Aman"
+ },
+ {
+  "week": 24,
+  "type": "gap",
+  "prompt": "Vlak do Prahy jede z třetího ___. (platform)",
+  "cz": "nástupiště",
+  "en": "The train to Prague leaves from platform three."
+ },
+ {
+  "week": 24,
+  "type": "gap",
+  "prompt": "Vlak má dvacet minut ___. (delay)",
+  "cz": "zpoždění",
+  "en": "The train is twenty minutes late."
+ },
+ {
+  "week": 24,
+  "type": "gap",
+  "prompt": "Lékárna je dnes ___. (closed)",
+  "cz": "zavřená",
+  "en": "The pharmacy is closed today."
+ },
+ {
+  "week": 24,
+  "type": "gap",
+  "prompt": "Obchod je otevřený od ___ do šesti. (8)",
+  "cz": "osmi",
+  "en": "The shop is open from eight to six."
+ },
+ {
+  "week": 24,
+  "type": "gap",
+  "prompt": "Kurz začíná ___ září. (1., ordinal)",
+  "cz": "prvního",
+  "en": "The course starts on the first of September."
+ },
+ {
+  "week": 24,
+  "type": "transform",
+  "prompt": "Je 7:30. (→ words with půl)",
+  "cz": "Je půl osmé.",
+  "en": "It's half past seven."
+ },
+ {
+  "week": 24,
+  "type": "transform",
+  "prompt": "Je 14:45. (→ words with tři čtvrtě)",
+  "cz": "Jsou tři čtvrtě na tři.",
+  "en": "It's a quarter to three."
+ },
+ {
+  "week": 24,
+  "type": "transform",
+  "prompt": "250 Kč (→ words)",
+  "cz": "dvě stě padesát korun",
+  "en": "two hundred and fifty crowns"
+ },
+ {
+  "week": 24,
+  "type": "dialogue",
+  "prompt": "Promiňte, kdy jede další autobus do centra?",
+  "cz": "Další autobus jede za deset minut.",
+  "en": "The next bus goes in ten minutes."
+ },
+ {
+  "week": 24,
+  "type": "scene",
+  "prompt": "",
+  "cz": "Vážení cestující,",
+  "en": "Dear passengers,"
+ },
+ {
+  "week": 24,
+  "type": "scene",
+  "prompt": "",
+  "cz": "vlak do Brna má zpoždění patnáct minut.",
+  "en": "the train to Brno is fifteen minutes late."
+ },
+ {
+  "week": 24,
+  "type": "scene",
+  "prompt": "",
+  "cz": "Vlak přijede na druhé nástupiště.",
+  "en": "The train will arrive at platform two."
+ },
+ {
+  "week": 24,
+  "type": "scene",
+  "prompt": "",
+  "cz": "Promiňte, odkud jede vlak do Brna?",
+  "en": "Excuse me, where does the train to Brno leave from?"
+ },
+ {
+  "week": 24,
+  "type": "scene",
+  "prompt": "",
+  "cz": "Z druhého nástupiště, ale má zpoždění.",
+  "en": "From platform two, but it's late."
+ },
+ {
+  "week": 24,
+  "type": "scene",
+  "prompt": "",
+  "cz": "Děkuju, počkám tady. / Děkuji, počkám tady.",
+  "en": "Thanks, I'll wait here."
+ },
+ {
+  "week": 25,
+  "type": "gap",
+  "prompt": "Ten byt je ___ než náš. (velký)",
+  "cz": "větší",
+  "en": "That flat is bigger than ours."
+ },
+ {
+  "week": 25,
+  "type": "gap",
+  "prompt": "Dal jsem ___ dárek. (sestra)",
+  "cz": "sestře",
+  "en": "I gave my sister a present."
+ },
+ {
+  "week": 25,
+  "type": "gap",
+  "prompt": "Kdybych měl víc času, ___ bych víc. (cestovat)",
+  "cz": "cestoval",
+  "en": "If I had more time, I'd travel more."
+ },
+ {
+  "week": 25,
+  "type": "gap",
+  "prompt": "V obchodě bylo hodně ___. (člověk)",
+  "cz": "lidí",
+  "en": "There were a lot of people in the shop."
+ },
+ {
+  "week": 25,
+  "type": "gap",
+  "prompt": "Pracuju ve ___ firmě. (velký)",
+  "cz": "velké",
+  "en": "I work in a big company."
+ },
+ {
+  "week": 25,
+  "type": "transform",
+  "prompt": "Jdu s Evou. (→ pronoun: ona)",
+  "cz": "Jdu s ní.",
+  "en": "I'm going with her."
+ },
+ {
+  "week": 25,
+  "type": "transform",
+  "prompt": "To je dobrá restaurace. (→ superlative, ve městě)",
+  "cz": "To je nejlepší restaurace ve městě.",
+  "en": "This is the best restaurant in town."
+ },
+ {
+  "week": 25,
+  "type": "transform",
+  "prompt": "Zítra píšu test. (→ perfective future: napsat)",
+  "cz": "Zítra napíšu test.",
+  "en": "Tomorrow I'll write the test."
+ },
+ {
+  "week": 25,
+  "type": "dialogue",
+  "prompt": "Proč se učíte česky?",
+  "cz": "Učím se česky, protože tady chci žít.",
+  "en": "I'm learning Czech because I want to live here."
+ },
+ {
+  "week": 25,
+  "type": "scene",
+  "prompt": "",
+  "cz": "Bydlím v Praze už tři roky.",
+  "en": "I've lived in Prague for three years."
+ },
+ {
+  "week": 25,
+  "type": "scene",
+  "prompt": "",
+  "cz": "Praha je krásná, ale je dražší než Brno.",
+  "en": "Prague is beautiful, but it's more expensive than Brno."
+ },
+ {
+  "week": 25,
+  "type": "scene",
+  "prompt": "",
+  "cz": "Myslím, že v Brně je život klidnější.",
+  "en": "I think life in Brno is calmer."
+ },
+ {
+  "week": 25,
+  "type": "scene",
+  "prompt": "",
+  "cz": "Kdybych mohl, bydlel bych blíž k přírodě. / Kdybych mohla, bydlela bych blíž k přírodě.",
+  "en": "If I could, I'd live closer to nature."
+ },
+ {
+  "week": 25,
+  "type": "scene",
+  "prompt": "",
+  "cz": "Ale v Praze mám práci a kamarády.",
+  "en": "But in Prague I have a job and friends."
+ },
+ {
+  "week": 25,
+  "type": "scene",
+  "prompt": "",
+  "cz": "Proto tady zatím zůstanu.",
+  "en": "That's why I'll stay here for now."
+ },
+ {
+  "week": 26,
+  "type": "gap",
+  "prompt": "Dobrý den, přišel jsem na ___. (zkouška)",
+  "cz": "zkoušku",
+  "en": "Hello, I've come for the exam."
+ },
+ {
+  "week": 26,
+  "type": "gap",
+  "prompt": "Zkouška začíná v devět ___. (hodina)",
+  "cz": "hodin",
+  "en": "The exam starts at nine o'clock."
+ },
+ {
+  "week": 26,
+  "type": "gap",
+  "prompt": "Promiňte, můžete to ___, prosím? (zopakovat)",
+  "cz": "zopakovat",
+  "en": "Sorry, can you repeat that, please?"
+ },
+ {
+  "week": 26,
+  "type": "gap",
+  "prompt": "Zaplatil jsem tři tisíce dvě stě ___. (koruna)",
+  "cz": "korun",
+  "en": "I paid three thousand two hundred crowns."
+ },
+ {
+  "week": 26,
+  "type": "gap",
+  "prompt": "Kde je ___ číslo dvě? (místnost)",
+  "cz": "místnost",
+  "en": "Where is room number two?"
+ },
+ {
+  "week": 26,
+  "type": "transform",
+  "prompt": "Jsem nervózní. (→ negative)",
+  "cz": "Nejsem nervózní.",
+  "en": "I'm not nervous."
+ },
+ {
+  "week": 26,
+  "type": "transform",
+  "prompt": "Učím se česky. (→ past, perfective: naučit se, + už)",
+  "cz": "Už jsem se naučil česky. / Už jsem se naučila česky.",
+  "en": "I've already learned Czech."
+ },
+ {
+  "week": 26,
+  "type": "transform",
+  "prompt": "Dnes mluvím česky. (→ future: budu, celý den)",
+  "cz": "Dnes budu celý den mluvit česky. / Celý den budu mluvit česky.",
+  "en": "Today I'll speak Czech all day."
+ },
+ {
+  "week": 26,
+  "type": "dialogue",
+  "prompt": "Představte se, prosím.",
+  "cz": "Jmenuju se Aman, jsem z Indie a bydlím v Praze. / Jmenuji se Aman, jsem z Indie a bydlím v Praze.",
+  "en": "My name is Aman, I'm from India and I live in Prague."
+ },
+ {
+  "week": 26,
+  "type": "scene",
+  "prompt": "",
+  "cz": "Dobrý den, posaďte se, prosím.",
+  "en": "Hello, sit down, please."
+ },
+ {
+  "week": 26,
+  "type": "scene",
+  "prompt": "",
+  "cz": "Dobrý den. Děkuju. / Dobrý den. Děkuji.",
+  "en": "Hello. Thank you."
+ },
+ {
+  "week": 26,
+  "type": "scene",
+  "prompt": "",
+  "cz": "Jak dlouho žijete v České republice?",
+  "en": "How long have you lived in the Czech Republic?"
+ },
+ {
+  "week": 26,
+  "type": "scene",
+  "prompt": "",
+  "cz": "Žiju tady pět let a pracuju v Praze. / Žiji tady pět let a pracuji v Praze.",
+  "en": "I've lived here for five years and I work in Prague."
+ },
+ {
+  "week": 26,
+  "type": "scene",
+  "prompt": "",
+  "cz": "Proč chcete trvalý pobyt?",
+  "en": "Why do you want permanent residence?"
+ },
+ {
+  "week": 26,
+  "type": "scene",
+  "prompt": "",
+  "cz": "Protože tady chci žít s rodinou.",
+  "en": "Because I want to live here with my family."
  }
 ]

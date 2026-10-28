@@ -1,11 +1,12 @@
 import { useEffect, useState } from 'react'
 import { State } from 'ts-fsrs'
 import { db, type ErrorRow, type Profile, type WeeklyTest } from '../lib/db'
-import { examStatus } from './Today'
+import { examStatus, type Go } from './Learn'
+import { patternName, weakest } from '../lib/weak'
 
 type Stats = { retention: number | null; reviews: number; cards: number; produced: number; recognised: number; errors: ErrorRow[]; tests: WeeklyTest[]; sessions: number; reports: number }
 
-export function Progress({ profile }: { profile: Profile }) {
+export function Progress({ profile, go }: { profile: Profile; go: Go }) {
   const [s, setS] = useState<Stats | null>(null)
   useEffect(() => {
     (async () => {
@@ -39,6 +40,11 @@ export function Progress({ profile }: { profile: Profile }) {
         <Stat label="Cards" value={s.cards} note={`${s.recognised} seen · ${s.produced} produced`} />
         <Stat label="Sessions done" value={s.sessions} />
         <Stat label="Reviews (30 d)" value={s.reviews} />
+      </div>
+      <div className="card">
+        <h2>Weakness radar</h2>
+        {weakest(s.errors).length ? <ol>{weakest(s.errors).map((w) => <li key={w.pattern}><b>{patternName(w.pattern)}</b> <span className="muted small">{w.count} errors</span></li>)}</ol> : <p className="muted">No weak spots yet.</p>}
+        {s.errors.length > 0 && <button className="primary" onClick={() => go('practice', 'repair')}>Repair my weak spots</button>}
       </div>
       <div className="card">
         <h2>Errors by tag</h2>

@@ -3,7 +3,7 @@ import type { ErrorTag } from './check'
 
 export type Verb = { verb: string; en: string; week: number; present: string[]; past: string; future: 'budu' | '-' | string[] }
 export type CasePhrase = { nom: string; en: string; gender: string; acc: string; gen: string; dat: string; loc: string; ins: string }
-export type Ladder = { title: string; steps: { cz: string; en: string; week: number; grammar: string }[] }
+export type Ladder = { title: string; category?: string; steps: { cz: string; en: string; week: number; grammar: string }[] }
 export type Practice = { verbs: Verb[]; cases: CasePhrase[]; pluralCases: CasePhrase[]; ladders: Ladder[] }
 export type Exercise = { week: number; type: 'gap' | 'transform' | 'dialogue' | 'scene'; prompt: string; cz: string; en: string }
 

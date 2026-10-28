@@ -7,6 +7,7 @@ import { tts } from '../lib/tts'
 import { DrillRunner, inlineMd, type Result } from '../components/DrillRunner'
 import { parseConjugations } from '../lib/conj'
 import { Exercises } from './Exercises'
+import { PlayAll } from '../components/PlayAll'
 
 export type WeekView = 'lab' | 'bank' | 'drill' | 'exercises'
 
@@ -33,7 +34,7 @@ export function WeekScreen({ profile, view, setView }: { profile: Profile; view:
   )
 }
 
-function PatternLab({ weekNo, profile, onDrill }: { weekNo: number; profile: Profile; onDrill: () => void }) {
+export function PatternLab({ weekNo, profile, onDrill }: { weekNo: number; profile: Profile; onDrill: () => void }) {
   const w = getWeek(weekNo)
   const [i, setI] = useState(0)
   const [mine, setMine] = useState('')
@@ -99,11 +100,11 @@ function keyPoints(bullet: string): string[] {
   return sentences.length ? sentences : [bullet]
 }
 
-function Bank({ weekNo, rate }: { weekNo: number; rate: number }) {
+export function Bank({ weekNo, rate }: { weekNo: number; rate: number }) {
   const items = weekItems(getWeek(weekNo))
   const groups = [['Sentence bank', items.filter((i) => i.kind === 'sentence')], ['Vocabulary A', items.filter((i) => i.kind === 'vocabA')], ['Vocabulary B', items.filter((i) => i.kind === 'vocabB')]] as const
   return <>{groups.map(([title, list]) => list.length > 0 && (
-    <div className="card" key={title}><h2>{title}</h2>
+    <div className="card" key={title}><div className="row between"><h2>{title}</h2><PlayAll lines={list.map((i) => i.cz)} rate={rate} /></div>
       <ul className="bank">{list.map((it) => (
         <li key={it.id}><button onClick={() => tts.speak(it.cz, rate * 0.75)} aria-label="Play slow">▶ .75</button><button onClick={() => tts.speak(it.cz, rate)} aria-label="Play">▶ 1</button>
           <span lang="cs"><b>{it.cz}</b>{it.chunk && <span title="chunk: learn whole, grammar later"> ★</span>}</span> <span className="muted">{it.en}</span></li>
@@ -112,7 +113,7 @@ function Bank({ weekNo, rate }: { weekNo: number; rate: number }) {
   ))}</>
 }
 
-function DrillSet({ weekNo, profile }: { weekNo: number; profile: Profile }) {
+export function DrillSet({ weekNo, profile }: { weekNo: number; profile: Profile }) {
   const day = weekNo < profile.currentWeek ? 4 : profile.currentDay
   const [results, setResults] = useState<Result[] | null>(null)
   const [drills, setDrills] = useState(() => buildDrills(getWeek(weekNo), day))

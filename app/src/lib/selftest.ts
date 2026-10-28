@@ -43,7 +43,7 @@ console.log('games.ts ok')
 
 const exercises: Exercise[] = JSON.parse(readFileSync(new URL('../data/exercises.json', import.meta.url), 'utf8'))
 const exWeeks = [...new Set(exercises.map((e) => e.week))]
-assert.deepEqual(exWeeks, [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21])
+assert.deepEqual(exWeeks, Array.from({ length: 26 }, (_, i) => i + 1))
 for (const w of exWeeks) {
   const list = exercises.filter((e) => e.week === w)
   assert.ok(list.length >= 12, `week ${w} exercises`)
@@ -59,3 +59,30 @@ assert.equal(check('pracovala jsem doma', w12.find((q) => q.prompt.startsWith('P
 const scene = w1.filter((q) => q.hint!.startsWith('Scene'))
 assert.equal(scene[0].prompt, 'Hello. How are you?'); assert.equal(scene[5].hint, 'Scene line 6 · say it in Czech')
 console.log('exercises ok')
+
+// ---- extra content (phrasebook, frequency, word groups, role-play, grammar, exams) and the markdown renderer
+import { md } from './md.ts'
+import { patternName, weakest } from './weak.ts'
+const data = (f: string) => JSON.parse(readFileSync(new URL(`../data/${f}.json`, import.meta.url), 'utf8'))
+const freq = data('frequency'); assert.equal(freq.length, 5000); assert.ok(freq.every((f: { rank: number }, i: number) => f.rank === i + 1))
+assert.ok(data('wordgroups').length >= 20 && data('phrasebook').length >= 15 && data('wordbook').length > 500)
+const rps = data('roleplay'); assert.ok(rps.length >= 30 && rps.every((r: { lines: unknown[] }) => r.lines.length >= 6))
+const gr = data('grammar'); assert.ok(gr.length >= 20 && gr.every((t: { body: string; practice: { prompt: string }[] }) => t.body && t.practice.every((p) => p.prompt.includes('___'))))
+const ex = data('exam'); assert.ok(ex.mocks.length >= 3)
+for (const m of ex.mocks) for (const p of m.parts) {
+  assert.equal(p.tasks.reduce((a: number, t: { points: number }) => a + t.points, 0), { Reading: 25, Listening: 25, Writing: 20, Speaking: 40 }[p.name as string], `${m.title} ${p.name} points`)
+  for (const t of p.tasks) if (!['write', 'speak'].includes(t.type)) assert.ok(t.items.length && t.items.every((it: { answer: string }) => it.answer), `${m.title} ${p.name} task ${t.n} answers`)
+}
+assert.equal(md('**a** | b').includes('<strong>a</strong>'), true)
+assert.ok(md('| x | y |\n|---|---|\n| 1 | 2 |').includes('<td>1</td>'))
+assert.ok(md('- one\n- two').startsWith('<ul><li>one'))
+assert.equal(md('<script>'), '<p>&lt;script&gt;</p>')
+assert.equal(patternName('case-pl-gen'), 'Cases: genitive plural')
+assert.equal(weakest([{ tag: 'case', patternId: 'a', count: 2, lastSeen: Date.now() }, { tag: 'case', patternId: 'b', count: 9, lastSeen: Date.now() - 90 * 864e5 }])[0].pattern, 'a')
+console.log('extra content ok')
+
+import { audioKey, speechText } from './audiokey.ts'
+assert.equal(speechText('děkuju / děkuji'), 'děkuju, děkuji')
+assert.equal(audioKey('Dobrý den.'), audioKey('Dobrý den.'.normalize('NFD').normalize('NFC')))
+assert.notEqual(audioKey('byt'), audioKey('být'))
+console.log('audio keys ok')

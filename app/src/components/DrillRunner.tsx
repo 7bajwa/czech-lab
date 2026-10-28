@@ -4,6 +4,7 @@ import { db, logError } from '../lib/db'
 import type { Drill } from '../lib/drills'
 import { boost } from '../lib/srs'
 import { tts } from '../lib/tts'
+import { audioAfter, cue } from '../lib/feedback'
 import { CzechKeys } from './CzechKeys'
 import { Diff } from './Diff'
 
@@ -33,6 +34,7 @@ export function DrillRunner({ drills, mode, rate, onDone }: { drills: Drill[]; m
       await logError(v.tag!, d.pattern)
       if (d.item) await boost(d.item)
     }
+    if (mode !== 'test') { cue(v.correct); if (audioAfter()) tts.speak(v.expected, rate) }
     const next = [...results, { drill: d, response: answer, verdict: v }]
     setResults(next)
     if (mode === 'test') advance(next)

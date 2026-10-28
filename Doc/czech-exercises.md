@@ -209,6 +209,26 @@ Each week uses only the words and grammar of that week and the weeks before it.
 | scene |  | Ano, v úterý můžu. / Ano, v úterý mohu. | Yes, I can on Tuesday. | AI |
 | scene |  | Děkuju, přijdu včas. / Děkuji, přijdu včas. | Thank you, I'll come on time. | AI |
 
+## Week 11
+
+| Type | Prompt | Czech | English | Note |
+|---|---|---|---|---|
+| gap | Teď jsem v ___. (práce) | práci | I'm at work now. | AI |
+| gap | Jdu do ___. (obchod) | obchodu | I'm going to the shop. | AI |
+| gap | Ráno piju ___. (káva) | kávu | In the morning I drink coffee. | AI |
+| gap | ___ mi pomoct, prosím? (moct, vy) | Můžete | Can you help me, please? | AI |
+| gap | Jedu do centra ___. (tramvaj) | tramvají | I'm going to the centre by tram. | AI |
+| transform | Jsem ve škole. (→ Jdu …) | Jdu do školy. | I'm going to school. | AI |
+| transform | V sobotu pracuju. (→ negative: nikdy) | V sobotu nikdy nepracuju. / Nikdy nepracuju v sobotu. / V sobotu nikdy nepracuji. | I never work on Saturday. | AI |
+| transform | Chci kávu. (→ polite: dát si) | Dal bych si kávu. / Dala bych si kávu. / Dám si kávu. | I'd like a coffee. | AI |
+| dialogue | Promiňte, jak se dostanu na nádraží? | Jděte rovně a pak doleva. | Go straight on and then left. | AI |
+| scene |  | Dobrý den, dal bych si kávu a rohlík. / Dobrý den, dala bych si kávu a rohlík. | Hello, I'd like a coffee and a roll. | AI |
+| scene |  | To je osmdesát pět korun. | That's eighty-five crowns. | AI |
+| scene |  | Můžu platit kartou? / Mohu platit kartou? | Can I pay by card? | AI |
+| scene |  | Ano, samozřejmě. | Yes, of course. | AI |
+| scene |  | Promiňte, kde je tady pošta? | Excuse me, where is the post office here? | AI |
+| scene |  | Pošta je naproti, vedle banky. | The post office is opposite, next to the bank. | AI |
+
 ## Week 12
 
 | Type | Prompt | Czech | English | Note |
@@ -301,6 +321,8 @@ Each week uses only the words and grammar of that week and the weeks before it.
 | transform | Jsem nemocný. (→ ona) | Je nemocná. / Ona je nemocná. | She is ill. | AI |
 | transform | Bolí mě hlava. (→ záda) | Bolí mě záda. | My back hurts. | AI |
 | transform | Mám teplotu. (→ past: včera) | Včera jsem měl teplotu. / Včera jsem měla teplotu. | Yesterday I had a temperature. | AI |
+| gap | Teď jsem u ___. (lékař) | lékaře | I'm at the doctor's now. | AI |
+| gap | Ten lék berte do ___. (pátek) | pátku | Take the medicine until Friday. | AI |
 | dialogue | Co vás trápí? | Bolí mě v krku a mám rýmu. | I have a sore throat and a runny nose. | AI |
 | scene |  | Dobrý den, jsem objednaný na desátou hodinu. / Dobrý den, jsem objednaná na desátou hodinu. | Hello, I have an appointment at ten. | AI |
 | scene |  | Co vás trápí? | What's the trouble? | AI |
@@ -408,3 +430,103 @@ Each week uses only the words and grammar of that week and the weeks before it.
 | scene |  | Tady je pas a potvrzení o zaměstnání. | Here's my passport and a confirmation of employment. | AI |
 | scene |  | Ještě musíte zaplatit poplatek. | You still have to pay the fee. | AI |
 | scene |  | Kdy dostanu rozhodnutí? | When will I get the decision? | AI |
+
+## Week 22
+
+| Type | Prompt | Czech | English | Note |
+|---|---|---|---|---|
+| gap | Včera ___ byl u lékaře. (auxiliary, já) | jsem | Yesterday I was at the doctor's. | AI |
+| gap | Zítra pojedu do ___. (Ostrava) | Ostravy | Tomorrow I'll go to Ostrava. | AI |
+| gap | Mluvil jsem o tom se ___. (šéf) | šéfem | I talked about it with the boss. | AI |
+| gap | Kup prosím dvě ___ mléka. (láhev) | láhve | Please buy two bottles of milk. | AI |
+| gap | Už jsem ten úkol ___. (udělat) | udělal / udělala | I've already done the task. | AI |
+| transform | Čekám na kamaráda. (→ past) | Čekal jsem na kamaráda. / Čekala jsem na kamaráda. | I waited for my friend. | AI |
+| transform | Mám pět korun. (→ 3) | Mám tři koruny. | I have three crowns. | AI |
+| transform | Bydlím v Praze. (→ Jedu do …) | Jedu do Prahy. | I'm going to Prague. | AI |
+| dialogue | Co jste dělal včera večer? | Byl jsem doma a díval jsem se na film. / Byla jsem doma a dívala jsem se na film. | I was at home and watched a film. | AI |
+| scene |  | O víkendu jsem byl s rodinou v Brně. / O víkendu jsem byla s rodinou v Brně. | At the weekend I was in Brno with my family. | AI |
+| scene |  | Jeli jsme tam vlakem. | We went there by train. | AI |
+| scene |  | V sobotu jsme byli v muzeu. | On Saturday we were at the museum. | AI |
+| scene |  | V neděli pršelo, takže jsme zůstali v hotelu. | On Sunday it rained, so we stayed in the hotel. | AI |
+| scene |  | Domů jsme se vrátili v neděli večer. | We came back home on Sunday evening. | AI |
+| scene |  | Příští měsíc tam pojedeme znovu. | Next month we'll go there again. | AI |
+
+## Week 23
+
+| Type | Prompt | Czech | English | Note |
+|---|---|---|---|---|
+| gap | ___ paní Nováková, (Dear, formal) | Vážená | Dear Mrs Novák, | AI |
+| gap | Chtěl ___ se zeptat, jestli je byt volný. (já) | bych | I'd like to ask whether the flat is available. | AI |
+| gap | Nemůžu přijít, ___ jsem nemocný. (because) | protože | I can't come because I'm ill. | AI |
+| gap | Mohl ___ mi poslat formulář? (vy) | byste | Could you send me the form? | AI |
+| gap | Píšu vám ohledně ___. (byt) | bytu | I'm writing to you about the flat. | AI |
+| transform | Ahoj Petře, (→ formal: pan Novák) | Dobrý den, pane Nováku, / Vážený pane Nováku, | Dear Mr Novák, | AI |
+| transform | Pošli mi to. (→ vy, polite) | Pošlete mi to, prosím. / Mohl byste mi to poslat? / Mohla byste mi to poslat? | Please send it to me. | AI |
+| transform | Mám rád sport. (→ add a reason: je to zdravé) | Mám rád sport, protože je to zdravé. / Mám ráda sport, protože je to zdravé. | I like sport because it's healthy. | AI |
+| dialogue | Co děláte ve volném čase? | Rád čtu a chodím na procházky. A vy? / Ráda čtu a chodím na procházky. A vy? | I like reading and going for walks. And you? | AI |
+| scene |  | Vážený pane Nováku, | Dear Mr Novák, | AI |
+| scene |  | píšu vám, protože nám nefunguje pračka. | I'm writing to you because our washing machine isn't working. | AI |
+| scene |  | Mohl byste poslat technika? / Mohla byste poslat technika? | Could you send a technician? | AI |
+| scene |  | Doma jsem každý den od pěti hodin. | I'm at home every day from five o'clock. | AI |
+| scene |  | Děkuji a těším se na odpověď. | Thank you, I look forward to your reply. | AI |
+| scene |  | S pozdravem Aman | Kind regards, Aman | AI |
+
+## Week 24
+
+| Type | Prompt | Czech | English | Note |
+|---|---|---|---|---|
+| gap | Vlak do Prahy jede z třetího ___. (platform) | nástupiště | The train to Prague leaves from platform three. | AI |
+| gap | Vlak má dvacet minut ___. (delay) | zpoždění | The train is twenty minutes late. | AI |
+| gap | Lékárna je dnes ___. (closed) | zavřená | The pharmacy is closed today. | AI |
+| gap | Obchod je otevřený od ___ do šesti. (8) | osmi | The shop is open from eight to six. | AI |
+| gap | Kurz začíná ___ září. (1., ordinal) | prvního | The course starts on the first of September. | AI |
+| transform | Je 7:30. (→ words with půl) | Je půl osmé. | It's half past seven. | AI |
+| transform | Je 14:45. (→ words with tři čtvrtě) | Jsou tři čtvrtě na tři. | It's a quarter to three. | AI |
+| transform | 250 Kč (→ words) | dvě stě padesát korun | two hundred and fifty crowns | AI |
+| dialogue | Promiňte, kdy jede další autobus do centra? | Další autobus jede za deset minut. | The next bus goes in ten minutes. | AI |
+| scene |  | Vážení cestující, | Dear passengers, | AI |
+| scene |  | vlak do Brna má zpoždění patnáct minut. | the train to Brno is fifteen minutes late. | AI |
+| scene |  | Vlak přijede na druhé nástupiště. | The train will arrive at platform two. | AI |
+| scene |  | Promiňte, odkud jede vlak do Brna? | Excuse me, where does the train to Brno leave from? | AI |
+| scene |  | Z druhého nástupiště, ale má zpoždění. | From platform two, but it's late. | AI |
+| scene |  | Děkuju, počkám tady. / Děkuji, počkám tady. | Thanks, I'll wait here. | AI |
+
+## Week 25
+
+| Type | Prompt | Czech | English | Note |
+|---|---|---|---|---|
+| gap | Ten byt je ___ než náš. (velký) | větší | That flat is bigger than ours. | AI |
+| gap | Dal jsem ___ dárek. (sestra) | sestře | I gave my sister a present. | AI |
+| gap | Kdybych měl víc času, ___ bych víc. (cestovat) | cestoval | If I had more time, I'd travel more. | AI |
+| gap | V obchodě bylo hodně ___. (člověk) | lidí | There were a lot of people in the shop. | AI |
+| gap | Pracuju ve ___ firmě. (velký) | velké | I work in a big company. | AI |
+| transform | Jdu s Evou. (→ pronoun: ona) | Jdu s ní. | I'm going with her. | AI |
+| transform | To je dobrá restaurace. (→ superlative, ve městě) | To je nejlepší restaurace ve městě. | This is the best restaurant in town. | AI |
+| transform | Zítra píšu test. (→ perfective future: napsat) | Zítra napíšu test. | Tomorrow I'll write the test. | AI |
+| dialogue | Proč se učíte česky? | Učím se česky, protože tady chci žít. | I'm learning Czech because I want to live here. | AI |
+| scene |  | Bydlím v Praze už tři roky. | I've lived in Prague for three years. | AI |
+| scene |  | Praha je krásná, ale je dražší než Brno. | Prague is beautiful, but it's more expensive than Brno. | AI |
+| scene |  | Myslím, že v Brně je život klidnější. | I think life in Brno is calmer. | AI |
+| scene |  | Kdybych mohl, bydlel bych blíž k přírodě. / Kdybych mohla, bydlela bych blíž k přírodě. | If I could, I'd live closer to nature. | AI |
+| scene |  | Ale v Praze mám práci a kamarády. | But in Prague I have a job and friends. | AI |
+| scene |  | Proto tady zatím zůstanu. | That's why I'll stay here for now. | AI |
+
+## Week 26
+
+| Type | Prompt | Czech | English | Note |
+|---|---|---|---|---|
+| gap | Dobrý den, přišel jsem na ___. (zkouška) | zkoušku | Hello, I've come for the exam. | AI |
+| gap | Zkouška začíná v devět ___. (hodina) | hodin | The exam starts at nine o'clock. | AI |
+| gap | Promiňte, můžete to ___, prosím? (zopakovat) | zopakovat | Sorry, can you repeat that, please? | AI |
+| gap | Zaplatil jsem tři tisíce dvě stě ___. (koruna) | korun | I paid three thousand two hundred crowns. | AI |
+| gap | Kde je ___ číslo dvě? (místnost) | místnost | Where is room number two? | AI |
+| transform | Jsem nervózní. (→ negative) | Nejsem nervózní. | I'm not nervous. | AI |
+| transform | Učím se česky. (→ past, perfective: naučit se, + už) | Už jsem se naučil česky. / Už jsem se naučila česky. | I've already learned Czech. | AI |
+| transform | Dnes mluvím česky. (→ future: budu, celý den) | Dnes budu celý den mluvit česky. / Celý den budu mluvit česky. | Today I'll speak Czech all day. | AI |
+| dialogue | Představte se, prosím. | Jmenuju se Aman, jsem z Indie a bydlím v Praze. / Jmenuji se Aman, jsem z Indie a bydlím v Praze. | My name is Aman, I'm from India and I live in Prague. | AI |
+| scene |  | Dobrý den, posaďte se, prosím. | Hello, sit down, please. | AI |
+| scene |  | Dobrý den. Děkuju. / Dobrý den. Děkuji. | Hello. Thank you. | AI |
+| scene |  | Jak dlouho žijete v České republice? | How long have you lived in the Czech Republic? | AI |
+| scene |  | Žiju tady pět let a pracuju v Praze. / Žiji tady pět let a pracuji v Praze. | I've lived here for five years and I work in Prague. | AI |
+| scene |  | Proč chcete trvalý pobyt? | Why do you want permanent residence? | AI |
+| scene |  | Protože tady chci žít s rodinou. | Because I want to live here with my family. | AI |

@@ -1580,6 +1580,1738 @@
    ],
    "past": "vyzvedl",
    "future": "-"
+  },
+  {
+   "verb": "říkat",
+   "en": "to say, to tell",
+   "week": 6,
+   "present": [
+    "říkám",
+    "říkáš",
+    "říká",
+    "říkáme",
+    "říkáte",
+    "říkají"
+   ],
+   "past": "říkal",
+   "future": "budu"
+  },
+  {
+   "verb": "stát se",
+   "en": "to happen, to become",
+   "week": 13,
+   "present": [
+    "stanu se",
+    "staneš se",
+    "stane se",
+    "staneme se",
+    "stanete se",
+    "stanou se"
+   ],
+   "past": "stal se",
+   "future": "-"
+  },
+  {
+   "verb": "nechat",
+   "en": "to let, to leave",
+   "week": 13,
+   "present": [
+    "nechám",
+    "necháš",
+    "nechá",
+    "necháme",
+    "necháte",
+    "nechají"
+   ],
+   "past": "nechal",
+   "future": "-"
+  },
+  {
+   "verb": "vypadat",
+   "en": "to look (like), to seem",
+   "week": 19,
+   "present": [
+    "vypadám",
+    "vypadáš",
+    "vypadá",
+    "vypadáme",
+    "vypadáte",
+    "vypadají"
+   ],
+   "past": "vypadal",
+   "future": "budu"
+  },
+  {
+   "verb": "dávat",
+   "en": "to give, to put",
+   "week": 6,
+   "present": [
+    "dávám",
+    "dáváš",
+    "dává",
+    "dáváme",
+    "dáváte",
+    "dávají"
+   ],
+   "past": "dával",
+   "future": "budu"
+  },
+  {
+   "verb": "vést",
+   "en": "to lead",
+   "week": 20,
+   "present": [
+    "vedu",
+    "vedeš",
+    "vede",
+    "vedeme",
+    "vedete",
+    "vedou"
+   ],
+   "past": "vedl",
+   "future": "budu"
+  },
+  {
+   "verb": "patřit",
+   "en": "to belong",
+   "week": 19,
+   "present": [
+    "patřím",
+    "patříš",
+    "patří",
+    "patříme",
+    "patříte",
+    "patří"
+   ],
+   "past": "patřil",
+   "future": "budu"
+  },
+  {
+   "verb": "dojít",
+   "en": "to get to, to run out",
+   "week": 13,
+   "present": [
+    "dojdu",
+    "dojdeš",
+    "dojde",
+    "dojdeme",
+    "dojdete",
+    "dojdou"
+   ],
+   "past": "došel",
+   "future": "-"
+  },
+  {
+   "verb": "podívat se",
+   "en": "to have a look",
+   "week": 9,
+   "present": [
+    "podívám se",
+    "podíváš se",
+    "podívá se",
+    "podíváme se",
+    "podíváte se",
+    "podívají se"
+   ],
+   "past": "podíval se",
+   "future": "-"
+  },
+  {
+   "verb": "znamenat",
+   "en": "to mean",
+   "week": 10,
+   "present": [
+    "znamenám",
+    "znamenáš",
+    "znamená",
+    "znamenáme",
+    "znamenáte",
+    "znamenají"
+   ],
+   "past": "znamenal",
+   "future": "budu"
+  },
+  {
+   "verb": "dokázat",
+   "en": "to manage, to prove",
+   "week": 20,
+   "present": [
+    "dokážu",
+    "dokážeš",
+    "dokáže",
+    "dokážeme",
+    "dokážete",
+    "dokážou / dokáží"
+   ],
+   "past": "dokázal",
+   "future": "-"
+  },
+  {
+   "verb": "snažit se",
+   "en": "to try",
+   "week": 20,
+   "present": [
+    "snažím se",
+    "snažíš se",
+    "snaží se",
+    "snažíme se",
+    "snažíte se",
+    "snaží se"
+   ],
+   "past": "snažil se",
+   "future": "budu"
+  },
+  {
+   "verb": "získat",
+   "en": "to gain, to obtain",
+   "week": 20,
+   "present": [
+    "získám",
+    "získáš",
+    "získá",
+    "získáme",
+    "získáte",
+    "získají"
+   ],
+   "past": "získal",
+   "future": "-"
+  },
+  {
+   "verb": "sedět",
+   "en": "to sit",
+   "week": 8,
+   "present": [
+    "sedím",
+    "sedíš",
+    "sedí",
+    "sedíme",
+    "sedíte",
+    "sedí"
+   ],
+   "past": "seděl",
+   "future": "budu"
+  },
+  {
+   "verb": "uvést",
+   "en": "to state, to introduce",
+   "week": 23,
+   "present": [
+    "uvedu",
+    "uvedeš",
+    "uvede",
+    "uvedeme",
+    "uvedete",
+    "uvedou"
+   ],
+   "past": "uvedl",
+   "future": "-"
+  },
+  {
+   "verb": "stačit",
+   "en": "to be enough",
+   "week": 15,
+   "present": [
+    "stačím",
+    "stačíš",
+    "stačí",
+    "stačíme",
+    "stačíte",
+    "stačí"
+   ],
+   "past": "stačil",
+   "future": "budu"
+  },
+  {
+   "verb": "rozhodnout se",
+   "en": "to decide",
+   "week": 20,
+   "present": [
+    "rozhodnu se",
+    "rozhodneš se",
+    "rozhodne se",
+    "rozhodneme se",
+    "rozhodnete se",
+    "rozhodnou se"
+   ],
+   "past": "rozhodl se",
+   "future": "-"
+  },
+  {
+   "verb": "zdát se",
+   "en": "to seem, to dream",
+   "week": 20,
+   "present": [
+    "zdám se",
+    "zdáš se",
+    "zdá se",
+    "zdáme se",
+    "zdáte se",
+    "zdají se"
+   ],
+   "past": "zdál se",
+   "future": "budu"
+  },
+  {
+   "verb": "objevit",
+   "en": "to discover",
+   "week": 20,
+   "present": [
+    "objevím",
+    "objevíš",
+    "objeví",
+    "objevíme",
+    "objevíte",
+    "objeví"
+   ],
+   "past": "objevil",
+   "future": "-"
+  },
+  {
+   "verb": "existovat",
+   "en": "to exist",
+   "week": 20,
+   "present": [
+    "existuju / existuji",
+    "existuješ",
+    "existuje",
+    "existujeme",
+    "existujete",
+    "existujou / existují"
+   ],
+   "past": "existoval",
+   "future": "budu"
+  },
+  {
+   "verb": "zjistit",
+   "en": "to find out",
+   "week": 20,
+   "present": [
+    "zjistím",
+    "zjistíš",
+    "zjistí",
+    "zjistíme",
+    "zjistíte",
+    "zjistí"
+   ],
+   "past": "zjistil",
+   "future": "-"
+  },
+  {
+   "verb": "cítit se",
+   "en": "to feel",
+   "week": 16,
+   "present": [
+    "cítím se",
+    "cítíš se",
+    "cítí se",
+    "cítíme se",
+    "cítíte se",
+    "cítí se"
+   ],
+   "past": "cítil se",
+   "future": "budu"
+  },
+  {
+   "verb": "prosit",
+   "en": "to ask, to beg",
+   "week": 17,
+   "present": [
+    "prosím",
+    "prosíš",
+    "prosí",
+    "prosíme",
+    "prosíte",
+    "prosí"
+   ],
+   "past": "prosil",
+   "future": "budu"
+  },
+  {
+   "verb": "začínat",
+   "en": "to begin, to start",
+   "week": 12,
+   "present": [
+    "začínám",
+    "začínáš",
+    "začíná",
+    "začínáme",
+    "začínáte",
+    "začínají"
+   ],
+   "past": "začínal",
+   "future": "budu"
+  },
+  {
+   "verb": "vyjít",
+   "en": "to go out, to come out",
+   "week": 20,
+   "present": [
+    "vyjdu",
+    "vyjdeš",
+    "vyjde",
+    "vyjdeme",
+    "vyjdete",
+    "vyjdou"
+   ],
+   "past": "vyšel",
+   "future": "-"
+  },
+  {
+   "verb": "považovat",
+   "en": "to consider",
+   "week": 20,
+   "present": [
+    "považuju / považuji",
+    "považuješ",
+    "považuje",
+    "považujeme",
+    "považujete",
+    "považujou / považují"
+   ],
+   "past": "považoval",
+   "future": "budu"
+  },
+  {
+   "verb": "držet",
+   "en": "to hold",
+   "week": 20,
+   "present": [
+    "držím",
+    "držíš",
+    "drží",
+    "držíme",
+    "držíte",
+    "drží"
+   ],
+   "past": "držel",
+   "future": "budu"
+  },
+  {
+   "verb": "tvrdit",
+   "en": "to claim",
+   "week": 20,
+   "present": [
+    "tvrdím",
+    "tvrdíš",
+    "tvrdí",
+    "tvrdíme",
+    "tvrdíte",
+    "tvrdí"
+   ],
+   "past": "tvrdil",
+   "future": "budu"
+  },
+  {
+   "verb": "představovat si",
+   "en": "to imagine",
+   "week": 20,
+   "present": [
+    "představuju si / představuji si",
+    "představuješ si",
+    "představuje si",
+    "představujeme si",
+    "představujete si",
+    "představujou si / představují si"
+   ],
+   "past": "představoval si",
+   "future": "budu"
+  },
+  {
+   "verb": "koukat",
+   "en": "to look, to watch",
+   "week": 20,
+   "present": [
+    "koukám",
+    "koukáš",
+    "kouká",
+    "koukáme",
+    "koukáte",
+    "koukají"
+   ],
+   "past": "koukal",
+   "future": "budu"
+  },
+  {
+   "verb": "přinést",
+   "en": "to bring",
+   "week": 13,
+   "present": [
+    "přinesu",
+    "přineseš",
+    "přinese",
+    "přineseme",
+    "přinesete",
+    "přinesou"
+   ],
+   "past": "přinesl",
+   "future": "-"
+  },
+  {
+   "verb": "používat",
+   "en": "to use",
+   "week": 20,
+   "present": [
+    "používám",
+    "používáš",
+    "používá",
+    "používáme",
+    "používáte",
+    "používají"
+   ],
+   "past": "používal",
+   "future": "budu"
+  },
+  {
+   "verb": "pokračovat",
+   "en": "to continue",
+   "week": 20,
+   "present": [
+    "pokračuju / pokračuji",
+    "pokračuješ",
+    "pokračuje",
+    "pokračujeme",
+    "pokračujete",
+    "pokračujou / pokračují"
+   ],
+   "past": "pokračoval",
+   "future": "budu"
+  },
+  {
+   "verb": "trvat",
+   "en": "to last, to take (time)",
+   "week": 14,
+   "present": [
+    "trvám",
+    "trváš",
+    "trvá",
+    "trváme",
+    "trváte",
+    "trvají"
+   ],
+   "past": "trval",
+   "future": "budu"
+  },
+  {
+   "verb": "připravit",
+   "en": "to prepare",
+   "week": 14,
+   "present": [
+    "připravím",
+    "připravíš",
+    "připraví",
+    "připravíme",
+    "připravíte",
+    "připraví"
+   ],
+   "past": "připravil",
+   "future": "-"
+  },
+  {
+   "verb": "ležet",
+   "en": "to lie (be lying)",
+   "week": 16,
+   "present": [
+    "ležím",
+    "ležíš",
+    "leží",
+    "ležíme",
+    "ležíte",
+    "leží"
+   ],
+   "past": "ležel",
+   "future": "budu"
+  },
+  {
+   "verb": "bývat",
+   "en": "to be (usually)",
+   "week": 20,
+   "present": [
+    "bývám",
+    "býváš",
+    "bývá",
+    "býváme",
+    "býváte",
+    "bývají"
+   ],
+   "past": "býval",
+   "future": "budu"
+  },
+  {
+   "verb": "jednat",
+   "en": "to act, to negotiate",
+   "week": 23,
+   "present": [
+    "jednám",
+    "jednáš",
+    "jedná",
+    "jednáme",
+    "jednáte",
+    "jednají"
+   ],
+   "past": "jednal",
+   "future": "budu"
+  },
+  {
+   "verb": "ptát se",
+   "en": "to ask",
+   "week": 10,
+   "present": [
+    "ptám se",
+    "ptáš se",
+    "ptá se",
+    "ptáme se",
+    "ptáte se",
+    "ptají se"
+   ],
+   "past": "ptal se",
+   "future": "budu"
+  },
+  {
+   "verb": "postavit",
+   "en": "to build, to put",
+   "week": 20,
+   "present": [
+    "postavím",
+    "postavíš",
+    "postaví",
+    "postavíme",
+    "postavíte",
+    "postaví"
+   ],
+   "past": "postavil",
+   "future": "-"
+  },
+  {
+   "verb": "odejít",
+   "en": "to leave (on foot)",
+   "week": 13,
+   "present": [
+    "odejdu",
+    "odejdeš",
+    "odejde",
+    "odejdeme",
+    "odejdete",
+    "odejdou"
+   ],
+   "past": "odešel",
+   "future": "-"
+  },
+  {
+   "verb": "působit",
+   "en": "to affect, to act",
+   "week": 23,
+   "present": [
+    "působím",
+    "působíš",
+    "působí",
+    "působíme",
+    "působíte",
+    "působí"
+   ],
+   "past": "působil",
+   "future": "budu"
+  },
+  {
+   "verb": "dosáhnout",
+   "en": "to reach, to achieve",
+   "week": 23,
+   "present": [
+    "dosáhnu",
+    "dosáhneš",
+    "dosáhne",
+    "dosáhneme",
+    "dosáhnete",
+    "dosáhnou"
+   ],
+   "past": "dosáhl",
+   "future": "-"
+  },
+  {
+   "verb": "vytvořit",
+   "en": "to create",
+   "week": 20,
+   "present": [
+    "vytvořím",
+    "vytvoříš",
+    "vytvoří",
+    "vytvoříme",
+    "vytvoříte",
+    "vytvoří"
+   ],
+   "past": "vytvořil",
+   "future": "-"
+  },
+  {
+   "verb": "poznat",
+   "en": "to get to know, to recognize",
+   "week": 13,
+   "present": [
+    "poznám",
+    "poznáš",
+    "pozná",
+    "poznáme",
+    "poznáte",
+    "poznají"
+   ],
+   "past": "poznal",
+   "future": "-"
+  },
+  {
+   "verb": "bát se",
+   "en": "to be afraid",
+   "week": 16,
+   "present": [
+    "bojím se",
+    "bojíš se",
+    "bojí se",
+    "bojíme se",
+    "bojíte se",
+    "bojí se"
+   ],
+   "past": "bál se",
+   "future": "budu"
+  },
+  {
+   "verb": "dodat",
+   "en": "to add, to supply",
+   "week": 23,
+   "present": [
+    "dodám",
+    "dodáš",
+    "dodá",
+    "dodáme",
+    "dodáte",
+    "dodají"
+   ],
+   "past": "dodal",
+   "future": "-"
+  },
+  {
+   "verb": "chápat",
+   "en": "to understand",
+   "week": 10,
+   "present": [
+    "chápu",
+    "chápeš",
+    "chápe",
+    "chápeme",
+    "chápete",
+    "chápou"
+   ],
+   "past": "chápal",
+   "future": "budu"
+  },
+  {
+   "verb": "představit se",
+   "en": "to introduce oneself",
+   "week": 14,
+   "present": [
+    "představím se",
+    "představíš se",
+    "představí se",
+    "představíme se",
+    "představíte se",
+    "představí se"
+   ],
+   "past": "představil se",
+   "future": "-"
+  },
+  {
+   "verb": "zastavit",
+   "en": "to stop",
+   "week": 9,
+   "present": [
+    "zastavím",
+    "zastavíš",
+    "zastaví",
+    "zastavíme",
+    "zastavíte",
+    "zastaví"
+   ],
+   "past": "zastavil",
+   "future": "-"
+  },
+  {
+   "verb": "uvidět",
+   "en": "to see (catch sight of)",
+   "week": 13,
+   "present": [
+    "uvidím",
+    "uvidíš",
+    "uvidí",
+    "uvidíme",
+    "uvidíte",
+    "uvidí"
+   ],
+   "past": "uviděl",
+   "future": "-"
+  },
+  {
+   "verb": "pamatovat si",
+   "en": "to remember",
+   "week": 13,
+   "present": [
+    "pamatuju si / pamatuji si",
+    "pamatuješ si",
+    "pamatuje si",
+    "pamatujeme si",
+    "pamatujete si",
+    "pamatujou si / pamatují si"
+   ],
+   "past": "pamatoval si",
+   "future": "budu"
+  },
+  {
+   "verb": "vydat",
+   "en": "to publish, to issue",
+   "week": 23,
+   "present": [
+    "vydám",
+    "vydáš",
+    "vydá",
+    "vydáme",
+    "vydáte",
+    "vydají"
+   ],
+   "past": "vydal",
+   "future": "-"
+  },
+  {
+   "verb": "věnovat se",
+   "en": "to devote oneself to",
+   "week": 20,
+   "present": [
+    "věnuju se / věnuji se",
+    "věnuješ se",
+    "věnuje se",
+    "věnujeme se",
+    "věnujete se",
+    "věnujou se / věnují se"
+   ],
+   "past": "věnoval se",
+   "future": "budu"
+  },
+  {
+   "verb": "tvořit",
+   "en": "to create, to form",
+   "week": 23,
+   "present": [
+    "tvořím",
+    "tvoříš",
+    "tvoří",
+    "tvoříme",
+    "tvoříte",
+    "tvoří"
+   ],
+   "past": "tvořil",
+   "future": "budu"
+  },
+  {
+   "verb": "bavit",
+   "en": "to amuse (baví mě = I enjoy it)",
+   "week": 7,
+   "present": [
+    "bavím",
+    "bavíš",
+    "baví",
+    "bavíme",
+    "bavíte",
+    "baví"
+   ],
+   "past": "bavil",
+   "future": "budu"
+  },
+  {
+   "verb": "vzniknout",
+   "en": "to arise, to originate",
+   "week": 23,
+   "present": [
+    "vzniknu",
+    "vznikneš",
+    "vznikne",
+    "vznikneme",
+    "vzniknete",
+    "vzniknou"
+   ],
+   "past": "vznikl",
+   "future": "-"
+  },
+  {
+   "verb": "vybrat",
+   "en": "to choose",
+   "week": 7,
+   "present": [
+    "vyberu",
+    "vybereš",
+    "vybere",
+    "vybereme",
+    "vyberete",
+    "vyberou"
+   ],
+   "past": "vybral",
+   "future": "-"
+  },
+  {
+   "verb": "sledovat",
+   "en": "to watch, to follow",
+   "week": 7,
+   "present": [
+    "sleduju / sleduji",
+    "sleduješ",
+    "sleduje",
+    "sledujeme",
+    "sledujete",
+    "sledujou / sledují"
+   ],
+   "past": "sledoval",
+   "future": "budu"
+  },
+  {
+   "verb": "počítat",
+   "en": "to count",
+   "week": 15,
+   "present": [
+    "počítám",
+    "počítáš",
+    "počítá",
+    "počítáme",
+    "počítáte",
+    "počítají"
+   ],
+   "past": "počítal",
+   "future": "budu"
+  },
+  {
+   "verb": "pustit",
+   "en": "to let go, to turn on",
+   "week": 20,
+   "present": [
+    "pustím",
+    "pustíš",
+    "pustí",
+    "pustíme",
+    "pustíte",
+    "pustí"
+   ],
+   "past": "pustil",
+   "future": "-"
+  },
+  {
+   "verb": "volat",
+   "en": "to call",
+   "week": 10,
+   "present": [
+    "volám",
+    "voláš",
+    "volá",
+    "voláme",
+    "voláte",
+    "volají"
+   ],
+   "past": "volal",
+   "future": "budu"
+  },
+  {
+   "verb": "hodit",
+   "en": "to throw",
+   "week": 20,
+   "present": [
+    "hodím",
+    "hodíš",
+    "hodí",
+    "hodíme",
+    "hodíte",
+    "hodí"
+   ],
+   "past": "hodil",
+   "future": "-"
+  },
+  {
+   "verb": "napadnout",
+   "en": "to attack, to occur to",
+   "week": 20,
+   "present": [
+    "napadnu",
+    "napadneš",
+    "napadne",
+    "napadneme",
+    "napadnete",
+    "napadnou"
+   ],
+   "past": "napadl",
+   "future": "-"
+  },
+  {
+   "verb": "použít",
+   "en": "to use (once)",
+   "week": 20,
+   "present": [
+    "použiju / použiji",
+    "použiješ",
+    "použije",
+    "použijeme",
+    "použijete",
+    "použijou / použijí"
+   ],
+   "past": "použil",
+   "future": "-"
+  },
+  {
+   "verb": "zajímat se",
+   "en": "to be interested",
+   "week": 7,
+   "present": [
+    "zajímám se",
+    "zajímáš se",
+    "zajímá se",
+    "zajímáme se",
+    "zajímáte se",
+    "zajímají se"
+   ],
+   "past": "zajímal se",
+   "future": "budu"
+  },
+  {
+   "verb": "ukazovat",
+   "en": "to show",
+   "week": 17,
+   "present": [
+    "ukazuju / ukazuji",
+    "ukazuješ",
+    "ukazuje",
+    "ukazujeme",
+    "ukazujete",
+    "ukazujou / ukazují"
+   ],
+   "past": "ukazoval",
+   "future": "budu"
+  },
+  {
+   "verb": "chybět",
+   "en": "to be missing, to miss",
+   "week": 15,
+   "present": [
+    "chybím",
+    "chybíš",
+    "chybí",
+    "chybíme",
+    "chybíte",
+    "chybí"
+   ],
+   "past": "chyběl",
+   "future": "budu"
+  },
+  {
+   "verb": "nabízet",
+   "en": "to offer",
+   "week": 20,
+   "present": [
+    "nabízím",
+    "nabízíš",
+    "nabízí",
+    "nabízíme",
+    "nabízíte",
+    "nabízejí / nabízí"
+   ],
+   "past": "nabízel",
+   "future": "budu"
+  },
+  {
+   "verb": "povídat si",
+   "en": "to chat",
+   "week": 14,
+   "present": [
+    "povídám si",
+    "povídáš si",
+    "povídá si",
+    "povídáme si",
+    "povídáte si",
+    "povídají si"
+   ],
+   "past": "povídal si",
+   "future": "budu"
+  },
+  {
+   "verb": "připadat",
+   "en": "to seem",
+   "week": 23,
+   "present": [
+    "připadám",
+    "připadáš",
+    "připadá",
+    "připadáme",
+    "připadáte",
+    "připadají"
+   ],
+   "past": "připadal",
+   "future": "budu"
+  },
+  {
+   "verb": "vycházet",
+   "en": "to go out, to get along",
+   "week": 20,
+   "present": [
+    "vycházím",
+    "vycházíš",
+    "vychází",
+    "vycházíme",
+    "vycházíte",
+    "vycházejí / vychází"
+   ],
+   "past": "vycházel",
+   "future": "budu"
+  },
+  {
+   "verb": "odpovídat",
+   "en": "to answer, to correspond",
+   "week": 10,
+   "present": [
+    "odpovídám",
+    "odpovídáš",
+    "odpovídá",
+    "odpovídáme",
+    "odpovídáte",
+    "odpovídají"
+   ],
+   "past": "odpovídal",
+   "future": "budu"
+  },
+  {
+   "verb": "zůstávat",
+   "en": "to stay, to remain",
+   "week": 20,
+   "present": [
+    "zůstávám",
+    "zůstáváš",
+    "zůstává",
+    "zůstáváme",
+    "zůstáváte",
+    "zůstávají"
+   ],
+   "past": "zůstával",
+   "future": "budu"
+  },
+  {
+   "verb": "vadit",
+   "en": "to bother (vadí mi = I mind)",
+   "week": 17,
+   "present": [
+    "vadím",
+    "vadíš",
+    "vadí",
+    "vadíme",
+    "vadíte",
+    "vadí"
+   ],
+   "past": "vadil",
+   "future": "budu"
+  },
+  {
+   "verb": "měnit",
+   "en": "to change",
+   "week": 20,
+   "present": [
+    "měním",
+    "měníš",
+    "mění",
+    "měníme",
+    "měníte",
+    "mění"
+   ],
+   "past": "měnil",
+   "future": "budu"
+  },
+  {
+   "verb": "pochopit",
+   "en": "to understand, to grasp",
+   "week": 13,
+   "present": [
+    "pochopím",
+    "pochopíš",
+    "pochopí",
+    "pochopíme",
+    "pochopíte",
+    "pochopí"
+   ],
+   "past": "pochopil",
+   "future": "-"
+  },
+  {
+   "verb": "přestat",
+   "en": "to stop",
+   "week": 13,
+   "present": [
+    "přestanu",
+    "přestaneš",
+    "přestane",
+    "přestaneme",
+    "přestanete",
+    "přestanou"
+   ],
+   "past": "přestal",
+   "future": "-"
+  },
+  {
+   "verb": "přijmout",
+   "en": "to accept",
+   "week": 21,
+   "present": [
+    "přijmu",
+    "přijmeš",
+    "přijme",
+    "přijmeme",
+    "přijmete",
+    "přijmou"
+   ],
+   "past": "přijal",
+   "future": "-"
+  },
+  {
+   "verb": "využít",
+   "en": "to make use of",
+   "week": 23,
+   "present": [
+    "využiju / využiji",
+    "využiješ",
+    "využije",
+    "využijeme",
+    "využijete",
+    "využijou / využijí"
+   ],
+   "past": "využil",
+   "future": "-"
+  },
+  {
+   "verb": "projít",
+   "en": "to go through, to pass",
+   "week": 20,
+   "present": [
+    "projdu",
+    "projdeš",
+    "projde",
+    "projdeme",
+    "projdete",
+    "projdou"
+   ],
+   "past": "prošel",
+   "future": "-"
+  },
+  {
+   "verb": "vracet se",
+   "en": "to come back",
+   "week": 20,
+   "present": [
+    "vracím se",
+    "vracíš se",
+    "vrací se",
+    "vracíme se",
+    "vracíte se",
+    "vracejí se / vrací se"
+   ],
+   "past": "vracel se",
+   "future": "budu"
+  },
+  {
+   "verb": "doufat",
+   "en": "to hope",
+   "week": 14,
+   "present": [
+    "doufám",
+    "doufáš",
+    "doufá",
+    "doufáme",
+    "doufáte",
+    "doufají"
+   ],
+   "past": "doufal",
+   "future": "budu"
+  },
+  {
+   "verb": "nést",
+   "en": "to carry",
+   "week": 20,
+   "present": [
+    "nesu",
+    "neseš",
+    "nese",
+    "neseme",
+    "nesete",
+    "nesou"
+   ],
+   "past": "nesl",
+   "future": [
+    "ponesu",
+    "poneseš",
+    "ponese",
+    "poneseme",
+    "ponesete",
+    "ponesou"
+   ]
+  },
+  {
+   "verb": "řešit",
+   "en": "to solve, to deal with",
+   "week": 20,
+   "present": [
+    "řeším",
+    "řešíš",
+    "řeší",
+    "řešíme",
+    "řešíte",
+    "řeší"
+   ],
+   "past": "řešil",
+   "future": "budu"
+  },
+  {
+   "verb": "dostávat",
+   "en": "to get, to receive",
+   "week": 20,
+   "present": [
+    "dostávám",
+    "dostáváš",
+    "dostává",
+    "dostáváme",
+    "dostáváte",
+    "dostávají"
+   ],
+   "past": "dostával",
+   "future": "budu"
+  },
+  {
+   "verb": "sloužit",
+   "en": "to serve",
+   "week": 23,
+   "present": [
+    "sloužím",
+    "sloužíš",
+    "slouží",
+    "sloužíme",
+    "sloužíte",
+    "slouží"
+   ],
+   "past": "sloužil",
+   "future": "budu"
+  },
+  {
+   "verb": "týkat se",
+   "en": "to concern",
+   "week": 23,
+   "present": [
+    "týkám se",
+    "týkáš se",
+    "týká se",
+    "týkáme se",
+    "týkáte se",
+    "týkají se"
+   ],
+   "past": "týkal se",
+   "future": "budu"
+  },
+  {
+   "verb": "přesvědčit",
+   "en": "to convince",
+   "week": 23,
+   "present": [
+    "přesvědčím",
+    "přesvědčíš",
+    "přesvědčí",
+    "přesvědčíme",
+    "přesvědčíte",
+    "přesvědčí"
+   ],
+   "past": "přesvědčil",
+   "future": "-"
+  },
+  {
+   "verb": "pomáhat",
+   "en": "to help",
+   "week": 17,
+   "present": [
+    "pomáhám",
+    "pomáháš",
+    "pomáhá",
+    "pomáháme",
+    "pomáháte",
+    "pomáhají"
+   ],
+   "past": "pomáhal",
+   "future": "budu"
+  },
+  {
+   "verb": "fungovat",
+   "en": "to work, to function",
+   "week": 21,
+   "present": [
+    "funguju / funguji",
+    "funguješ",
+    "funguje",
+    "fungujeme",
+    "fungujete",
+    "fungujou / fungují"
+   ],
+   "past": "fungoval",
+   "future": "budu"
+  },
+  {
+   "verb": "dozvědět se",
+   "en": "to learn, to find out",
+   "week": 20,
+   "present": [
+    "dozvím se",
+    "dozvíš se",
+    "dozví se",
+    "dozvíme se",
+    "dozvíte se",
+    "dozvědí se"
+   ],
+   "past": "dozvěděl se",
+   "future": "-"
+  },
+  {
+   "verb": "přicházet",
+   "en": "to come, to arrive",
+   "week": 20,
+   "present": [
+    "přicházím",
+    "přicházíš",
+    "přichází",
+    "přicházíme",
+    "přicházíte",
+    "přicházejí / přichází"
+   ],
+   "past": "přicházel",
+   "future": "budu"
+  },
+  {
+   "verb": "dovolit",
+   "en": "to allow",
+   "week": 20,
+   "present": [
+    "dovolím",
+    "dovolíš",
+    "dovolí",
+    "dovolíme",
+    "dovolíte",
+    "dovolí"
+   ],
+   "past": "dovolil",
+   "future": "-"
+  },
+  {
+   "verb": "všimnout si",
+   "en": "to notice",
+   "week": 20,
+   "present": [
+    "všimnu si",
+    "všimneš si",
+    "všimne si",
+    "všimneme si",
+    "všimnete si",
+    "všimnou si"
+   ],
+   "past": "všiml si",
+   "future": "-"
+  },
+  {
+   "verb": "vydržet",
+   "en": "to last, to hold out",
+   "week": 20,
+   "present": [
+    "vydržím",
+    "vydržíš",
+    "vydrží",
+    "vydržíme",
+    "vydržíte",
+    "vydrží"
+   ],
+   "past": "vydržel",
+   "future": "-"
+  },
+  {
+   "verb": "zvednout",
+   "en": "to lift, to pick up",
+   "week": 20,
+   "present": [
+    "zvednu",
+    "zvedneš",
+    "zvedne",
+    "zvedneme",
+    "zvednete",
+    "zvednou"
+   ],
+   "past": "zvedl",
+   "future": "-"
+  },
+  {
+   "verb": "očekávat",
+   "en": "to expect",
+   "week": 23,
+   "present": [
+    "očekávám",
+    "očekáváš",
+    "očekává",
+    "očekáváme",
+    "očekáváte",
+    "očekávají"
+   ],
+   "past": "očekával",
+   "future": "budu"
+  },
+  {
+   "verb": "přemýšlet",
+   "en": "to think (about), to ponder",
+   "week": 20,
+   "present": [
+    "přemýšlím",
+    "přemýšlíš",
+    "přemýšlí",
+    "přemýšlíme",
+    "přemýšlíte",
+    "přemýšlejí / přemýšlí"
+   ],
+   "past": "přemýšlel",
+   "future": "budu"
+  },
+  {
+   "verb": "předpokládat",
+   "en": "to assume",
+   "week": 23,
+   "present": [
+    "předpokládám",
+    "předpokládáš",
+    "předpokládá",
+    "předpokládáme",
+    "předpokládáte",
+    "předpokládají"
+   ],
+   "past": "předpokládal",
+   "future": "budu"
+  },
+  {
+   "verb": "řídit",
+   "en": "to drive, to manage",
+   "week": 18,
+   "present": [
+    "řídím",
+    "řídíš",
+    "řídí",
+    "řídíme",
+    "řídíte",
+    "řídí"
+   ],
+   "past": "řídil",
+   "future": "budu"
+  },
+  {
+   "verb": "potvrdit",
+   "en": "to confirm",
+   "week": 21,
+   "present": [
+    "potvrdím",
+    "potvrdíš",
+    "potvrdí",
+    "potvrdíme",
+    "potvrdíte",
+    "potvrdí"
+   ],
+   "past": "potvrdil",
+   "future": "-"
+  },
+  {
+   "verb": "uvědomit si",
+   "en": "to realize",
+   "week": 20,
+   "present": [
+    "uvědomím si",
+    "uvědomíš si",
+    "uvědomí si",
+    "uvědomíme si",
+    "uvědomíte si",
+    "uvědomí si"
+   ],
+   "past": "uvědomil si",
+   "future": "-"
+  },
+  {
+   "verb": "naučit se",
+   "en": "to learn (master)",
+   "week": 13,
+   "present": [
+    "naučím se",
+    "naučíš se",
+    "naučí se",
+    "naučíme se",
+    "naučíte se",
+    "naučí se"
+   ],
+   "past": "naučil se",
+   "future": "-"
+  },
+  {
+   "verb": "zmizet",
+   "en": "to disappear",
+   "week": 20,
+   "present": [
+    "zmizím",
+    "zmizíš",
+    "zmizí",
+    "zmizíme",
+    "zmizíte",
+    "zmizí"
+   ],
+   "past": "zmizel",
+   "future": "-"
+  },
+  {
+   "verb": "vyprávět",
+   "en": "to tell (a story)",
+   "week": 20,
+   "present": [
+    "vyprávím",
+    "vyprávíš",
+    "vypráví",
+    "vyprávíme",
+    "vyprávíte",
+    "vyprávějí / vypráví"
+   ],
+   "past": "vyprávěl",
+   "future": "budu"
+  },
+  {
+   "verb": "vzpomenout si",
+   "en": "to remember, to recall",
+   "week": 20,
+   "present": [
+    "vzpomenu si",
+    "vzpomeneš si",
+    "vzpomene si",
+    "vzpomeneme si",
+    "vzpomenete si",
+    "vzpomenou si"
+   ],
+   "past": "vzpomněl si",
+   "future": "-"
+  },
+  {
+   "verb": "končit",
+   "en": "to end, to finish",
+   "week": 12,
+   "present": [
+    "končím",
+    "končíš",
+    "končí",
+    "končíme",
+    "končíte",
+    "končí"
+   ],
+   "past": "končil",
+   "future": "budu"
+  },
+  {
+   "verb": "nabídnout",
+   "en": "to offer (once)",
+   "week": 20,
+   "present": [
+    "nabídnu",
+    "nabídneš",
+    "nabídne",
+    "nabídneme",
+    "nabídnete",
+    "nabídnou"
+   ],
+   "past": "nabídl",
+   "future": "-"
+  },
+  {
+   "verb": "těšit se",
+   "en": "to look forward to",
+   "week": 14,
+   "present": [
+    "těším se",
+    "těšíš se",
+    "těší se",
+    "těšíme se",
+    "těšíte se",
+    "těší se"
+   ],
+   "past": "těšil se",
+   "future": "budu"
+  },
+  {
+   "verb": "chovat se",
+   "en": "to behave",
+   "week": 20,
+   "present": [
+    "chovám se",
+    "chováš se",
+    "chová se",
+    "chováme se",
+    "chováte se",
+    "chovají se"
+   ],
+   "past": "choval se",
+   "future": "budu"
+  },
+  {
+   "verb": "položit",
+   "en": "to put, to lay",
+   "week": 20,
+   "present": [
+    "položím",
+    "položíš",
+    "položí",
+    "položíme",
+    "položíte",
+    "položí"
+   ],
+   "past": "položil",
+   "future": "-"
+  },
+  {
+   "verb": "zemřít",
+   "en": "to die",
+   "week": 20,
+   "present": [
+    "zemřu",
+    "zemřeš",
+    "zemře",
+    "zemřeme",
+    "zemřete",
+    "zemřou"
+   ],
+   "past": "zemřel",
+   "future": "-"
+  },
+  {
+   "verb": "zavřít",
+   "en": "to close",
+   "week": 21,
+   "present": [
+    "zavřu",
+    "zavřeš",
+    "zavře",
+    "zavřeme",
+    "zavřete",
+    "zavřou"
+   ],
+   "past": "zavřel",
+   "future": "-"
+  },
+  {
+   "verb": "vysvětlovat",
+   "en": "to explain",
+   "week": 20,
+   "present": [
+    "vysvětluju / vysvětluji",
+    "vysvětluješ",
+    "vysvětluje",
+    "vysvětlujeme",
+    "vysvětlujete",
+    "vysvětlujou / vysvětlují"
+   ],
+   "past": "vysvětloval",
+   "future": "budu"
   }
  ],
  "cases": [
@@ -2074,7 +3806,8 @@
      "week": 12,
      "grammar": "past tense; mi = to me; pro + accusative"
     }
-   ]
+   ],
+   "category": "Core ladders"
   },
   {
    "title": "kniha (book)",
@@ -2133,7 +3866,8 @@
      "week": 17,
      "grammar": "mu = to him; dát is perfective, so dám = I will give"
     }
-   ]
+   ],
+   "category": "Core ladders"
   },
   {
    "title": "sestra a bratr (sister and brother)",
@@ -2186,7 +3920,8 @@
      "week": 12,
      "grammar": "past tense; mi = me (dative)"
     }
-   ]
+   ],
+   "category": "Core ladders"
   },
   {
    "title": "Praha (places)",
@@ -2233,7 +3968,8 @@
      "week": 13,
      "grammar": "past tense plural; na + locative"
     }
-   ]
+   ],
+   "category": "Core ladders"
   },
   {
    "title": "káva (café)",
@@ -2280,7 +4016,8 @@
      "week": 15,
      "grammar": "5+ + genitive plural (káv, korun)"
     }
-   ]
+   ],
+   "category": "Core ladders"
   },
   {
    "title": "pracovat (present, past, future)",
@@ -2321,7 +4058,8 @@
      "week": 12,
      "grammar": "past plural: -li + jsme"
     }
-   ]
+   ],
+   "category": "Core ladders"
   },
   {
    "title": "chtít, moct, muset (modal verbs)",
@@ -2362,7 +4100,8 @@
      "week": 17,
      "grammar": "mi = me (dative) after pomoct"
     }
-   ]
+   ],
+   "category": "Core ladders"
   },
   {
    "title": "byt (describing)",
@@ -2403,7 +4142,8 @@
      "week": 20,
      "grammar": "superlative nej-"
     }
-   ]
+   ],
+   "category": "Core ladders"
   },
   {
    "title": "zdraví (health)",
@@ -2444,7 +4184,8 @@
      "week": 17,
      "grammar": "past of je mi: bylo mi"
     }
-   ]
+   ],
+   "category": "Core ladders"
   },
   {
    "title": "auto (car)",
@@ -2485,7 +4226,8 @@
      "week": 15,
      "grammar": "bez + genitive (-a)"
     }
-   ]
+   ],
+   "category": "Core ladders"
   },
   {
    "title": "rohlík (bakery)",
@@ -2538,7 +4280,8 @@
      "week": 15,
      "grammar": "kolik stojí"
     }
-   ]
+   ],
+   "category": "Core ladders"
   },
   {
    "title": "trh (market, quantities)",
@@ -2585,7 +4328,8 @@
      "week": 15,
      "grammar": "5+ + genitive plural (vajec)"
     }
-   ]
+   ],
+   "category": "Core ladders"
   },
   {
    "title": "oblečení (clothes shop)",
@@ -2638,7 +4382,8 @@
      "week": 12,
      "grammar": "past; za + price"
     }
-   ]
+   ],
+   "category": "Core ladders"
   },
   {
    "title": "tramvaj (city transport)",
@@ -2691,7 +4436,8 @@
      "week": 17,
      "grammar": "past; mi = me (dative)"
     }
-   ]
+   ],
+   "category": "Core ladders"
   },
   {
    "title": "vlak (train trip)",
@@ -2744,7 +4490,8 @@
      "week": 14,
      "grammar": "future of jet: pojedeme"
     }
-   ]
+   ],
+   "category": "Core ladders"
   },
   {
    "title": "cesta (directions)",
@@ -2797,7 +4544,8 @@
      "week": 12,
      "grammar": "past; ne- + past"
     }
-   ]
+   ],
+   "category": "Core ladders"
   },
   {
    "title": "lékař (doctor)",
@@ -2850,7 +4598,8 @@
      "week": 16,
      "grammar": "mít + infinitive = be supposed to; po + locative"
     }
-   ]
+   ],
+   "category": "Core ladders"
   },
   {
    "title": "lékárna (pharmacy)",
@@ -2897,7 +4646,8 @@
      "week": 17,
      "grammar": "dative dceři; pro + accusative (ni)"
     }
-   ]
+   ],
+   "category": "Core ladders"
   },
   {
    "title": "úřad (office)",
@@ -2956,7 +4706,8 @@
      "week": 21,
      "grammar": "do + genitive (number)"
     }
-   ]
+   ],
+   "category": "Core ladders"
   },
   {
    "title": "pošta (post office)",
@@ -3009,7 +4760,8 @@
      "week": 17,
      "grammar": "past; dative mamince; z + genitive"
     }
-   ]
+   ],
+   "category": "Core ladders"
   },
   {
    "title": "banka (bank)",
@@ -3056,7 +4808,8 @@
      "week": 21,
      "grammar": "na + accusative; v + locative (Indii)"
     }
-   ]
+   ],
+   "category": "Core ladders"
   },
   {
    "title": "práce (job)",
@@ -3109,7 +4862,8 @@
      "week": 14,
      "grammar": "future; od / z + genitive"
     }
-   ]
+   ],
+   "category": "Core ladders"
   },
   {
    "title": "víkend (weekend)",
@@ -3156,7 +4910,8 @@
      "week": 14,
      "grammar": "future: budu + infinitive"
     }
-   ]
+   ],
+   "category": "Core ladders"
   },
   {
    "title": "počasí (weather)",
@@ -3209,7 +4964,8 @@
      "week": 13,
      "grammar": "v + locative"
     }
-   ]
+   ],
+   "category": "Core ladders"
   },
   {
    "title": "pozvání (invitations)",
@@ -3262,7 +5018,8 @@
      "week": 14,
      "grammar": "perfective future: přijdu, přinesu"
     }
-   ]
+   ],
+   "category": "Core ladders"
   },
   {
    "title": "pronájem (renting a flat)",
@@ -3315,7 +5072,8 @@
      "week": 20,
      "grammar": "past reflexive; do + genitive; comparative"
     }
-   ]
+   ],
+   "category": "Core ladders"
   },
   {
    "title": "opravy (landlord, repairs)",
@@ -3362,7 +5120,8 @@
      "week": 12,
      "grammar": "past (perfective)"
     }
-   ]
+   ],
+   "category": "Core ladders"
   },
   {
    "title": "včera (a past story)",
@@ -3415,7 +5174,8 @@
      "week": 20,
      "grammar": "tak = so"
     }
-   ]
+   ],
+   "category": "Core ladders"
   },
   {
    "title": "dovolená (a holiday story)",
@@ -3468,7 +5228,8 @@
      "week": 17,
      "grammar": "future pojedeme; k + dative"
     }
-   ]
+   ],
+   "category": "Core ladders"
   },
   {
    "title": "zítra (future plans)",
@@ -3521,7 +5282,8 @@
      "week": 20,
      "grammar": "za + accusative; comparative líp"
     }
-   ]
+   ],
+   "category": "Core ladders"
   },
   {
    "title": "narozeniny (birthday)",
@@ -3573,6 +5335,3097 @@
      "en": "Last year we celebrated the birthday in a restaurant with the whole family.",
      "week": 18,
      "grammar": "past; v + locative; s + instrumental"
+    }
+   ],
+   "category": "Core ladders"
+  },
+  {
+   "title": "Ráno doma (Morning at home)",
+   "category": "Daily routine",
+   "steps": [
+    {
+     "cz": "Vstávám v sedm.",
+     "en": "I get up at seven.",
+     "week": 4,
+     "grammar": "v + accusative for clock time (v sedm); vstávat → vstávám (já)"
+    },
+    {
+     "cz": "Ráno piju kávu.",
+     "en": "In the morning I drink coffee.",
+     "week": 6,
+     "grammar": "kávu = accusative (f -a → -u), object of piju; pít → piju"
+    },
+    {
+     "cz": "Nejdřív se sprchuju, pak snídám.",
+     "en": "First I shower, then I have breakfast.",
+     "week": 4,
+     "grammar": "reflexive se stands in second position; sprchovat se → sprchuju"
+    },
+    {
+     "cz": "Čistím si zuby v koupelně.",
+     "en": "I brush my teeth in the bathroom.",
+     "week": 8,
+     "grammar": "zuby = accusative plural; v + locative (v koupelně); si = for myself"
+    },
+    {
+     "cz": "Snídám chleba s máslem.",
+     "en": "I have bread and butter for breakfast.",
+     "week": 18,
+     "grammar": "chleba = accusative (same as nominative); s + instrumental (s máslem)"
+    },
+    {
+     "cz": "Musím odejít z domu v půl osmé.",
+     "en": "I have to leave the house at half past seven.",
+     "week": 15,
+     "grammar": "muset + infinitive; z + genitive (z domu); v půl + genitive ordinal (osmé)"
+    },
+    {
+     "cz": "Když nezazvoní budík, zaspím.",
+     "en": "If the alarm doesn't ring, I'll oversleep.",
+     "week": 13,
+     "grammar": "perfective present = future (zazvoní, zaspím); budík = nominative subject"
+    },
+    {
+     "cz": "Včera jsem zaspal, protože jsem šel spát pozdě.",
+     "en": "Yesterday I overslept because I went to bed late.",
+     "week": 12,
+     "grammar": "past tense (zaspal jsem, šel jsem); protože = because"
+    },
+    {
+     "cz": "Zítra budu vstávat dřív než obvykle.",
+     "en": "Tomorrow I'll get up earlier than usual.",
+     "week": 20,
+     "grammar": "budu + imperfective infinitive = future; dřív než = comparative + than"
+    },
+    {
+     "cz": "Kdybych neměl práci, spal bych do devíti.",
+     "en": "If I didn't have work, I'd sleep until nine.",
+     "week": 20,
+     "grammar": "kdybych + -l form = if; práci = accusative (f -e → -i); do + genitive (do devíti)"
+    }
+   ]
+  },
+  {
+   "title": "Večer doma (Evening at home)",
+   "category": "Daily routine",
+   "steps": [
+    {
+     "cz": "Večer jsem doma.",
+     "en": "In the evening I'm at home.",
+     "week": 2,
+     "grammar": "být → jsem; doma = at home (no preposition)"
+    },
+    {
+     "cz": "Večer vařím večeři.",
+     "en": "In the evening I cook dinner.",
+     "week": 6,
+     "grammar": "večeři = accusative (f -e → -i)"
+    },
+    {
+     "cz": "Dívám se na televizi.",
+     "en": "I watch TV.",
+     "week": 7,
+     "grammar": "dívat se na + accusative (na televizi)"
+    },
+    {
+     "cz": "Někdy čtu knihu v posteli.",
+     "en": "Sometimes I read a book in bed.",
+     "week": 8,
+     "grammar": "knihu = accusative; v + locative (v posteli)"
+    },
+    {
+     "cz": "Po večeři myju nádobí.",
+     "en": "After dinner I wash the dishes.",
+     "week": 8,
+     "grammar": "po + locative (po večeři); nádobí = accusative (n -í, unchanged)"
+    },
+    {
+     "cz": "Chodím spát v jedenáct.",
+     "en": "I go to bed at eleven.",
+     "week": 4,
+     "grammar": "chodit = regular going; v + accusative for clock time"
+    },
+    {
+     "cz": "Volám mámě do Indie.",
+     "en": "I call my mum in India.",
+     "week": 17,
+     "grammar": "volat + dative (mámě); do + genitive (do Indie)"
+    },
+    {
+     "cz": "Včera večer jsem se díval na film s kamarádem.",
+     "en": "Last night I watched a film with a friend.",
+     "week": 18,
+     "grammar": "past reflexive (díval jsem se); na + accusative (na film); s + instrumental (s kamarádem)"
+    },
+    {
+     "cz": "Dnes večer si udělám čaj a půjdu spát dřív.",
+     "en": "Tonight I'll make myself tea and go to bed earlier.",
+     "week": 14,
+     "grammar": "perfective udělám = future; čaj = accusative; půjdu = future of jít"
+    },
+    {
+     "cz": "Večer potřebuju klid, abych si mohl odpočinout.",
+     "en": "In the evening I need peace so that I can rest.",
+     "week": 20,
+     "grammar": "klid = accusative; aby + -l form (abych mohl) = so that"
+    }
+   ]
+  },
+  {
+   "title": "Úklid (Cleaning)",
+   "category": "Home",
+   "steps": [
+    {
+     "cz": "Uklízím.",
+     "en": "I'm cleaning.",
+     "week": 4,
+     "grammar": "uklízet → uklízím (já)"
+    },
+    {
+     "cz": "Uklízím pokoj.",
+     "en": "I'm cleaning the room.",
+     "week": 6,
+     "grammar": "pokoj = accusative (m inanimate = nominative)"
+    },
+    {
+     "cz": "Kde máme vysavač?",
+     "en": "Where's our vacuum cleaner?",
+     "week": 3,
+     "grammar": "mít → máme; vysavač = accusative (= nominative)"
+    },
+    {
+     "cz": "V sobotu uklízím celý byt.",
+     "en": "On Saturday I clean the whole flat.",
+     "week": 7,
+     "grammar": "v + accusative for days (v sobotu); celý byt = accusative"
+    },
+    {
+     "cz": "Vysávám koberec v obýváku.",
+     "en": "I'm vacuuming the carpet in the living room.",
+     "week": 8,
+     "grammar": "koberec = accusative; v + locative (v obýváku)"
+    },
+    {
+     "cz": "Musíš vynést odpadky.",
+     "en": "You have to take out the rubbish.",
+     "week": 10,
+     "grammar": "muset + infinitive; odpadky = accusative plural"
+    },
+    {
+     "cz": "Utřel jsem prach ze všech poliček.",
+     "en": "I dusted all the shelves.",
+     "week": 15,
+     "grammar": "past tense; prach = accusative; ze + genitive plural (ze všech poliček)"
+    },
+    {
+     "cz": "Až uklidím kuchyň, umyju okna.",
+     "en": "When I've cleaned the kitchen, I'll wash the windows.",
+     "week": 20,
+     "grammar": "až + perfective future = when (later); kuchyň, okna = accusative"
+    },
+    {
+     "cz": "Byt je čistší, než byl včera.",
+     "en": "The flat is cleaner than it was yesterday.",
+     "week": 20,
+     "grammar": "comparative čistší (čistý) + než; past byl"
+    },
+    {
+     "cz": "Chci, aby byl byt čistý, než přijdou hosté.",
+     "en": "I want the flat to be clean before the guests come.",
+     "week": 20,
+     "grammar": "chtít, aby + -l form (aby byl); než = before; přijdou = perfective future"
+    }
+   ]
+  },
+  {
+   "title": "Kuchyně (Kitchen)",
+   "category": "Home",
+   "steps": [
+    {
+     "cz": "To je kuchyň.",
+     "en": "This is the kitchen.",
+     "week": 3,
+     "grammar": "to je + noun (kuchyň is f)"
+    },
+    {
+     "cz": "Naše kuchyň je malá.",
+     "en": "Our kitchen is small.",
+     "week": 3,
+     "grammar": "naše + adjective agree with f noun (-á)"
+    },
+    {
+     "cz": "V kuchyni je lednička a sporák.",
+     "en": "In the kitchen there's a fridge and a cooker.",
+     "week": 8,
+     "grammar": "v + locative (v kuchyni); lednička, sporák = nominative subjects"
+    },
+    {
+     "cz": "Mléko je v ledničce.",
+     "en": "The milk is in the fridge.",
+     "week": 8,
+     "grammar": "v + locative (-ka → -ce: v ledničce)"
+    },
+    {
+     "cz": "Potřebujeme novou myčku.",
+     "en": "We need a new dishwasher.",
+     "week": 7,
+     "grammar": "accusative f: adjective -ou, noun -u (novou myčku)"
+    },
+    {
+     "cz": "Dej talíře do skříňky.",
+     "en": "Put the plates in the cupboard.",
+     "week": 15,
+     "grammar": "imperative dej; talíře = accusative plural; do + genitive (do skříňky)"
+    },
+    {
+     "cz": "Nemáme žádné hrnky, všechny jsou špinavé.",
+     "en": "We don't have any mugs, they're all dirty.",
+     "week": 21,
+     "grammar": "žádné hrnky = accusative plural; double negation nemáme žádné; plural adjective -é"
+    },
+    {
+     "cz": "Koupil jsem nůž, který dobře krájí.",
+     "en": "I bought a knife that cuts well.",
+     "week": 19,
+     "grammar": "past tense; nůž = accusative; který = relative (m, nominative subject)"
+    },
+    {
+     "cz": "Kdybychom měli větší kuchyň, vařili bychom víc.",
+     "en": "If we had a bigger kitchen, we'd cook more.",
+     "week": 20,
+     "grammar": "kdybychom + -l form; větší kuchyň = accusative, větší = comparative of velký"
+    }
+   ]
+  },
+  {
+   "title": "Praní (Laundry)",
+   "category": "Home",
+   "steps": [
+    {
+     "cz": "Peru.",
+     "en": "I'm doing the laundry.",
+     "week": 4,
+     "grammar": "prát → peru (irregular stem)"
+    },
+    {
+     "cz": "Peru prádlo.",
+     "en": "I'm washing the laundry.",
+     "week": 6,
+     "grammar": "prádlo = accusative (n = nominative)"
+    },
+    {
+     "cz": "Pračka je v koupelně.",
+     "en": "The washing machine is in the bathroom.",
+     "week": 8,
+     "grammar": "v + locative (v koupelně)"
+    },
+    {
+     "cz": "Prádlo schne na balkoně.",
+     "en": "The laundry is drying on the balcony.",
+     "week": 8,
+     "grammar": "na + locative (na balkoně) = where"
+    },
+    {
+     "cz": "Pověsím prádlo na balkon.",
+     "en": "I'll hang the laundry on the balcony.",
+     "week": 13,
+     "grammar": "perfective pověsím = future; na + accusative (na balkon) = where to"
+    },
+    {
+     "cz": "Peru bílé tričko na čtyřicet stupňů.",
+     "en": "I wash the white T-shirt at forty degrees.",
+     "week": 15,
+     "grammar": "tričko = accusative; na + accusative for the setting; čtyřicet + genitive plural (stupňů)"
+    },
+    {
+     "cz": "Došel mi prášek na praní.",
+     "en": "I've run out of washing powder.",
+     "week": 17,
+     "grammar": "dojít = run out; mi = dative (to me); prášek = nominative subject; na + accusative = for"
+    },
+    {
+     "cz": "Moje košile se srazila, protože jsem ji pral na devadesát.",
+     "en": "My shirt shrank because I washed it at ninety.",
+     "week": 13,
+     "grammar": "past f reflexive (srazila se); ji = it (accusative of ona); protože"
+    },
+    {
+     "cz": "Musíš ty ponožky vytřídit, než je dáš do pračky.",
+     "en": "You have to sort those socks before you put them in the machine.",
+     "week": 20,
+     "grammar": "ty ponožky, je = accusative plural; do + genitive (do pračky); než = before"
+    },
+    {
+     "cz": "Kdyby se pračka zase rozbila, zavolal bych opraváře.",
+     "en": "If the washing machine broke again, I'd call a repairman.",
+     "week": 20,
+     "grammar": "kdyby + -l form; opraváře = accusative m animate (-e)"
+    }
+   ]
+  },
+  {
+   "title": "Vaření večeře (Cooking dinner)",
+   "category": "Food & cooking",
+   "steps": [
+    {
+     "cz": "Vařím.",
+     "en": "I'm cooking.",
+     "week": 4,
+     "grammar": "vařit → vařím (já)"
+    },
+    {
+     "cz": "Vařím rýži.",
+     "en": "I'm cooking rice.",
+     "week": 6,
+     "grammar": "rýži = accusative (f -e → -i)"
+    },
+    {
+     "cz": "Krájím cibuli a česnek.",
+     "en": "I'm chopping onion and garlic.",
+     "week": 6,
+     "grammar": "cibuli = accusative f; česnek = accusative m inanimate"
+    },
+    {
+     "cz": "Vařím rýži s kuřetem.",
+     "en": "I'm cooking rice with chicken.",
+     "week": 18,
+     "grammar": "s + instrumental (kuře → s kuřetem)"
+    },
+    {
+     "cz": "Potřebuju dvě rajčata a trochu soli.",
+     "en": "I need two tomatoes and a bit of salt.",
+     "week": 15,
+     "grammar": "dvě rajčata = accusative plural; trochu + genitive (soli)"
+    },
+    {
+     "cz": "Dej to do hrnce a přidej vodu.",
+     "en": "Put it in the pot and add water.",
+     "week": 15,
+     "grammar": "imperatives dej, přidej; do + genitive (do hrnce); vodu = accusative"
+    },
+    {
+     "cz": "Polévka se vaří dvacet minut.",
+     "en": "The soup cooks for twenty minutes.",
+     "week": 15,
+     "grammar": "reflexive vařit se; duration without preposition; dvacet + genitive plural (minut)"
+    },
+    {
+     "cz": "Včera jsem poprvé vařil indické jídlo pro kolegy.",
+     "en": "Yesterday I cooked Indian food for colleagues for the first time.",
+     "week": 12,
+     "grammar": "past tense; jídlo = accusative; pro + accusative plural (pro kolegy)"
+    },
+    {
+     "cz": "Uvařím ti kari, které je pálivější než minule.",
+     "en": "I'll cook you a curry that's spicier than last time.",
+     "week": 20,
+     "grammar": "perfective future; ti = dative; které = relative (n); pálivější než = comparative"
+    },
+    {
+     "cz": "Vařím víc, abychom měli jídlo i na zítra.",
+     "en": "I cook more so that we have food for tomorrow too.",
+     "week": 20,
+     "grammar": "aby + -l form (abychom měli); jídlo = accusative; na + accusative (na zítra)"
+    }
+   ]
+  },
+  {
+   "title": "Snídaně (Breakfast)",
+   "category": "Food & cooking",
+   "steps": [
+    {
+     "cz": "Mám hlad.",
+     "en": "I'm hungry.",
+     "week": 3,
+     "grammar": "mít hlad = be hungry (fixed chunk)"
+    },
+    {
+     "cz": "Chci vajíčko.",
+     "en": "I want an egg.",
+     "week": 5,
+     "grammar": "chtít + accusative (n = nominative)"
+    },
+    {
+     "cz": "Dáš si čaj, nebo kávu?",
+     "en": "Will you have tea or coffee?",
+     "week": 5,
+     "grammar": "dát si + accusative (čaj, kávu)"
+    },
+    {
+     "cz": "Dám si kávu bez cukru.",
+     "en": "I'll have coffee without sugar.",
+     "week": 15,
+     "grammar": "kávu = accusative; bez + genitive (bez cukru)"
+    },
+    {
+     "cz": "Ke snídani mám jogurt a ovoce.",
+     "en": "For breakfast I have yogurt and fruit.",
+     "week": 17,
+     "grammar": "ke + dative (ke snídani); jogurt, ovoce = accusative"
+    },
+    {
+     "cz": "O víkendu snídáme spolu na balkoně.",
+     "en": "At the weekend we have breakfast together on the balcony.",
+     "week": 8,
+     "grammar": "o + locative (o víkendu); na + locative (na balkoně)"
+    },
+    {
+     "cz": "Dělám si míchaná vajíčka se sýrem.",
+     "en": "I'm making myself scrambled eggs with cheese.",
+     "week": 18,
+     "grammar": "vajíčka = accusative plural; se + instrumental (se sýrem), se before s-"
+    },
+    {
+     "cz": "Dneska jsem nesnídal, protože jsem neměl čas.",
+     "en": "Today I didn't have breakfast because I had no time.",
+     "week": 12,
+     "grammar": "negative past (ne- + -l form); čas = accusative; protože"
+    },
+    {
+     "cz": "Zítra si koupím čerstvé pečivo v pekárně naproti.",
+     "en": "Tomorrow I'll buy fresh bread in the bakery opposite.",
+     "week": 13,
+     "grammar": "perfective koupím = future; pečivo = accusative; v + locative (v pekárně)"
+    },
+    {
+     "cz": "Lékař mi řekl, abych jedl zdravější snídaně.",
+     "en": "The doctor told me to eat healthier breakfasts.",
+     "week": 20,
+     "grammar": "mi = dative; říct, aby + -l form; snídaně = accusative plural; zdravější = comparative"
+    }
+   ]
+  },
+  {
+   "title": "Supermarket (Supermarket)",
+   "category": "Shopping",
+   "steps": [
+    {
+     "cz": "Jdu nakupovat.",
+     "en": "I'm going shopping.",
+     "week": 4,
+     "grammar": "jít + infinitive = go to do"
+    },
+    {
+     "cz": "Potřebuju mléko a vejce.",
+     "en": "I need milk and eggs.",
+     "week": 6,
+     "grammar": "accusative (n = nominative; vejce plural)"
+    },
+    {
+     "cz": "Kde je pečivo?",
+     "en": "Where is the bread section?",
+     "week": 3,
+     "grammar": "kde je + nominative"
+    },
+    {
+     "cz": "Promiňte, kde máte mražené zboží?",
+     "en": "Excuse me, where do you have frozen food?",
+     "week": 7,
+     "grammar": "zboží = accusative (n -í); mražené agrees (n -é)"
+    },
+    {
+     "cz": "Hledám rýži, ale nemůžu ji najít.",
+     "en": "I'm looking for rice but can't find it.",
+     "week": 10,
+     "grammar": "rýži, ji = accusative f; moct + infinitive"
+    },
+    {
+     "cz": "Kupuju kilo brambor a dva litry mléka.",
+     "en": "I'm buying a kilo of potatoes and two litres of milk.",
+     "week": 15,
+     "grammar": "kilo + genitive plural (brambor); litr + genitive (mléka); dva litry = accusative plural"
+    },
+    {
+     "cz": "U pokladny jsem čekal deset minut.",
+     "en": "I waited at the checkout for ten minutes.",
+     "week": 15,
+     "grammar": "u + genitive (u pokladny); past; deset + genitive plural (minut)"
+    },
+    {
+     "cz": "Zaplatím kartou, protože nemám hotovost.",
+     "en": "I'll pay by card because I don't have cash.",
+     "week": 18,
+     "grammar": "instrumental of means (kartou); hotovost = accusative"
+    },
+    {
+     "cz": "V Lidlu je to levnější než v Albertu.",
+     "en": "It's cheaper at Lidl than at Albert.",
+     "week": 20,
+     "grammar": "v + locative (v Lidlu, v Albertu); levnější než = comparative"
+    },
+    {
+     "cz": "Udělal jsem si seznam, abych nic nezapomněl.",
+     "en": "I made a list so that I wouldn't forget anything.",
+     "week": 20,
+     "grammar": "seznam = accusative; aby + -l form; double negation nic nezapomněl"
+    }
+   ]
+  },
+  {
+   "title": "Drogerie (Drugstore)",
+   "category": "Shopping",
+   "steps": [
+    {
+     "cz": "To je drogerie.",
+     "en": "This is a drugstore.",
+     "week": 3,
+     "grammar": "to je + noun (f)"
+    },
+    {
+     "cz": "Potřebuju šampon.",
+     "en": "I need shampoo.",
+     "week": 6,
+     "grammar": "šampon = accusative (m inanimate = nominative)"
+    },
+    {
+     "cz": "Kolik stojí ten krém?",
+     "en": "How much does that cream cost?",
+     "week": 5,
+     "grammar": "kolik stojí + nominative subject"
+    },
+    {
+     "cz": "Máte zubní pastu?",
+     "en": "Do you have toothpaste?",
+     "week": 7,
+     "grammar": "accusative f: zubní (soft, unchanged), pasta → pastu"
+    },
+    {
+     "cz": "Hledám mýdlo pro citlivou pleť.",
+     "en": "I'm looking for soap for sensitive skin.",
+     "week": 7,
+     "grammar": "mýdlo = accusative; pro + accusative (pro citlivou pleť)"
+    },
+    {
+     "cz": "Tenhle deodorant je dražší než ten druhý.",
+     "en": "This deodorant is more expensive than the other one.",
+     "week": 20,
+     "grammar": "dražší (drahý) + než = comparative"
+    },
+    {
+     "cz": "Dejte mi dvě balení papírových kapesníků.",
+     "en": "Give me two packs of paper tissues.",
+     "week": 21,
+     "grammar": "polite imperative dejte; mi = dative; balení + genitive plural (papírových kapesníků)"
+    },
+    {
+     "cz": "Minule jsem tu koupil holicí strojek, který nefunguje.",
+     "en": "Last time I bought a shaver here that doesn't work.",
+     "week": 19,
+     "grammar": "past tense; strojek = accusative; který = relative (m, subject)"
+    },
+    {
+     "cz": "Chtěl bych ho vrátit, nebo vyměnit za nový.",
+     "en": "I'd like to return it or exchange it for a new one.",
+     "week": 20,
+     "grammar": "chtěl bych = polite conditional; ho = it (accusative m); vyměnit za + accusative"
+    }
+   ]
+  },
+  {
+   "title": "Nábytek (Furniture)",
+   "category": "Shopping",
+   "steps": [
+    {
+     "cz": "Potřebujeme stůl.",
+     "en": "We need a table.",
+     "week": 6,
+     "grammar": "stůl = accusative (m inanimate = nominative)"
+    },
+    {
+     "cz": "Chceme nový stůl a čtyři židle.",
+     "en": "We want a new table and four chairs.",
+     "week": 7,
+     "grammar": "accusative; čtyři + plural (židle)"
+    },
+    {
+     "cz": "Líbí se mi ta šedá pohovka.",
+     "en": "I like that grey sofa.",
+     "week": 17,
+     "grammar": "líbit se + dative (mi); pohovka = nominative subject"
+    },
+    {
+     "cz": "Ta skříň je moc velká do našeho pokoje.",
+     "en": "That wardrobe is too big for our room.",
+     "week": 15,
+     "grammar": "moc = too; do + genitive (do našeho pokoje)"
+    },
+    {
+     "cz": "Jedeme do obchodu s nábytkem.",
+     "en": "We're going to a furniture shop.",
+     "week": 18,
+     "grammar": "do + genitive (do obchodu); s + instrumental (s nábytkem)"
+    },
+    {
+     "cz": "Můžete nám ji přivézt v sobotu?",
+     "en": "Can you deliver it to us on Saturday?",
+     "week": 17,
+     "grammar": "nám = dative; ji = accusative f; v + accusative for days (v sobotu)"
+    },
+    {
+     "cz": "Dřevěné židle jsou dražší než plastové.",
+     "en": "Wooden chairs are more expensive than plastic ones.",
+     "week": 20,
+     "grammar": "plural adjectives -é; dražší než = comparative"
+    },
+    {
+     "cz": "Koupili jsme postel, kterou jsme si sami smontovali.",
+     "en": "We bought a bed that we assembled ourselves.",
+     "week": 19,
+     "grammar": "past plural; postel = accusative; kterou = relative (f accusative)"
+    },
+    {
+     "cz": "Změřil jsem pokoj, abychom věděli, co se tam vejde.",
+     "en": "I measured the room so we'd know what fits there.",
+     "week": 20,
+     "grammar": "pokoj = accusative; aby + -l form (abychom věděli); vejít se = fit"
+    }
+   ]
+  },
+  {
+   "title": "Restaurace (Restaurant)",
+   "category": "Café & restaurant",
+   "steps": [
+    {
+     "cz": "Jídelní lístek, prosím.",
+     "en": "The menu, please.",
+     "week": 1,
+     "grammar": "fixed chunk"
+    },
+    {
+     "cz": "Stůl pro dva, prosím.",
+     "en": "A table for two, please.",
+     "week": 5,
+     "grammar": "pro + accusative (pro dva)"
+    },
+    {
+     "cz": "Máte volný stůl?",
+     "en": "Do you have a free table?",
+     "week": 7,
+     "grammar": "volný stůl = accusative (m inanimate = nominative)"
+    },
+    {
+     "cz": "Dám si guláš a jedno pivo.",
+     "en": "I'll have goulash and one beer.",
+     "week": 5,
+     "grammar": "dát si + accusative (m inanimate, n unchanged)"
+    },
+    {
+     "cz": "Je to jídlo pálivé?",
+     "en": "Is this dish spicy?",
+     "week": 3,
+     "grammar": "adjective agrees with n noun (-é)"
+    },
+    {
+     "cz": "Mám rezervaci na osmou.",
+     "en": "I have a reservation for eight.",
+     "week": 14,
+     "grammar": "rezervaci = accusative (f -e → -i); na + accusative for time (na osmou)"
+    },
+    {
+     "cz": "Mohl bych dostat ještě jednu vidličku?",
+     "en": "Could I get one more fork?",
+     "week": 20,
+     "grammar": "mohl bych = polite conditional; jednu vidličku = accusative f"
+    },
+    {
+     "cz": "Polévka, kterou jsem dostal, je studená.",
+     "en": "The soup I got is cold.",
+     "week": 19,
+     "grammar": "kterou = relative (f accusative); past dostal jsem"
+    },
+    {
+     "cz": "Jídlo bylo výborné, zaplatíme každý zvlášť.",
+     "en": "The food was excellent, we'll pay separately.",
+     "week": 13,
+     "grammar": "past n (bylo); zaplatíme = perfective future"
+    },
+    {
+     "cz": "Kdyby tu bylo méně lidí, chodil bych sem častěji.",
+     "en": "If there were fewer people here, I'd come more often.",
+     "week": 20,
+     "grammar": "kdyby + -l form; méně + genitive plural (lidí); častěji = comparative"
+    }
+   ]
+  },
+  {
+   "title": "Hospoda (Pub)",
+   "category": "Café & restaurant",
+   "steps": [
+    {
+     "cz": "Jedno pivo, prosím.",
+     "en": "One beer, please.",
+     "week": 2,
+     "grammar": "jedno agrees with n noun (pivo)"
+    },
+    {
+     "cz": "Je tady volno?",
+     "en": "Is this seat free?",
+     "week": 3,
+     "grammar": "fixed chunk"
+    },
+    {
+     "cz": "Dvě piva, prosím.",
+     "en": "Two beers, please.",
+     "week": 5,
+     "grammar": "dvě + nominative plural (piva)"
+    },
+    {
+     "cz": "Pět piv a jednu limonádu.",
+     "en": "Five beers and one lemonade.",
+     "week": 15,
+     "grammar": "pět + genitive plural (piv); jednu limonádu = accusative f"
+    },
+    {
+     "cz": "Sedneme si ke stolu u okna.",
+     "en": "Let's sit at the table by the window.",
+     "week": 17,
+     "grammar": "ke + dative (ke stolu); u + genitive (u okna)"
+    },
+    {
+     "cz": "V pátek chodím s kolegy do hospody.",
+     "en": "On Fridays I go to the pub with colleagues.",
+     "week": 18,
+     "grammar": "s + instrumental plural (s kolegy); do + genitive (do hospody)"
+    },
+    {
+     "cz": "Ještě jedno, nebo už půjdeme?",
+     "en": "One more, or shall we go?",
+     "week": 14,
+     "grammar": "půjdeme = future of jít"
+    },
+    {
+     "cz": "Minule jsem platil já, dneska platíš ty.",
+     "en": "Last time I paid, today you pay.",
+     "week": 12,
+     "grammar": "past tense; stressed pronouns já, ty at the end"
+    },
+    {
+     "cz": "Hospoda, do které chodíme, je hned za rohem.",
+     "en": "The pub we go to is just around the corner.",
+     "week": 19,
+     "grammar": "do + genitive relative (do které); za + instrumental (za rohem)"
+    },
+    {
+     "cz": "Radši bych si dal nealko, protože zítra řídím.",
+     "en": "I'd rather have an alcohol-free one because I'm driving tomorrow.",
+     "week": 20,
+     "grammar": "radši = rather; conditional dal bych si; nealko = accusative"
+    }
+   ]
+  },
+  {
+   "title": "Autobus (Bus)",
+   "category": "Transport",
+   "steps": [
+    {
+     "cz": "Kde je zastávka?",
+     "en": "Where's the stop?",
+     "week": 3,
+     "grammar": "kde je + nominative"
+    },
+    {
+     "cz": "Čekám na autobus.",
+     "en": "I'm waiting for the bus.",
+     "week": 7,
+     "grammar": "čekat na + accusative (na autobus)"
+    },
+    {
+     "cz": "Kdy jede autobus na nádraží?",
+     "en": "When does the bus to the station go?",
+     "week": 9,
+     "grammar": "na + accusative = to (na nádraží)"
+    },
+    {
+     "cz": "Jedu autobusem číslo sto dvacet.",
+     "en": "I'm taking bus number 120.",
+     "week": 18,
+     "grammar": "instrumental for transport (autobusem)"
+    },
+    {
+     "cz": "Na které zastávce musím vystoupit?",
+     "en": "At which stop do I have to get off?",
+     "week": 10,
+     "grammar": "na + locative (na které zastávce); muset + infinitive"
+    },
+    {
+     "cz": "Autobus má deset minut zpoždění.",
+     "en": "The bus is ten minutes late.",
+     "week": 15,
+     "grammar": "zpoždění = accusative; deset + genitive plural (minut)"
+    },
+    {
+     "cz": "Včera mi ujel poslední autobus.",
+     "en": "Yesterday I missed the last bus.",
+     "week": 17,
+     "grammar": "ujet = leave without; mi = dative (on me); past"
+    },
+    {
+     "cz": "Kdybych jel autobusem, byl bych tam rychleji.",
+     "en": "If I went by bus, I'd be there faster.",
+     "week": 20,
+     "grammar": "kdybych + -l form; instrumental (autobusem); rychleji = comparative"
+    },
+    {
+     "cz": "Musím vyjít dřív, abych stihl autobus, který jede v osm.",
+     "en": "I have to leave earlier to catch the bus that goes at eight.",
+     "week": 20,
+     "grammar": "aby + -l form (abych stihl); autobus = accusative; který = relative (m)"
+    }
+   ]
+  },
+  {
+   "title": "Taxi (Taxi)",
+   "category": "Transport",
+   "steps": [
+    {
+     "cz": "Taxi, prosím.",
+     "en": "A taxi, please.",
+     "week": 1,
+     "grammar": "fixed chunk"
+    },
+    {
+     "cz": "Potřebuju taxi.",
+     "en": "I need a taxi.",
+     "week": 6,
+     "grammar": "taxi = accusative (indeclinable)"
+    },
+    {
+     "cz": "Na letiště, prosím.",
+     "en": "To the airport, please.",
+     "week": 9,
+     "grammar": "na + accusative = to (na letiště)"
+    },
+    {
+     "cz": "Můžete zastavit tady?",
+     "en": "Can you stop here?",
+     "week": 10,
+     "grammar": "moct + infinitive; polite vy form"
+    },
+    {
+     "cz": "Kolik to bude stát?",
+     "en": "How much will it cost?",
+     "week": 14,
+     "grammar": "bude stát = future"
+    },
+    {
+     "cz": "Objednal jsem si taxi přes aplikaci.",
+     "en": "I ordered a taxi through an app.",
+     "week": 12,
+     "grammar": "past tense; taxi = accusative; přes + accusative (přes aplikaci)"
+    },
+    {
+     "cz": "Řekněte řidiči, ať počká před domem.",
+     "en": "Tell the driver to wait in front of the house.",
+     "week": 18,
+     "grammar": "řidiči = dative; ať + verb = tell him to; před + instrumental (před domem)"
+    },
+    {
+     "cz": "Řidič jel jinou cestou, než jsem čekal.",
+     "en": "The driver took a different route than I expected.",
+     "week": 20,
+     "grammar": "instrumental of route (jinou cestou); než = than"
+    },
+    {
+     "cz": "Taxi je dražší než metro, ale v noci je rychlejší.",
+     "en": "A taxi is dearer than the metro, but faster at night.",
+     "week": 20,
+     "grammar": "comparatives dražší, rychlejší + než; v + locative (v noci)"
+    },
+    {
+     "cz": "Zavolej mi taxi, abych nepřišel pozdě.",
+     "en": "Call me a taxi so that I'm not late.",
+     "week": 20,
+     "grammar": "imperative zavolej; mi = dative (for me); aby + -l form"
+    }
+   ]
+  },
+  {
+   "title": "Kolo (Bike)",
+   "category": "Transport",
+   "steps": [
+    {
+     "cz": "Mám kolo.",
+     "en": "I have a bike.",
+     "week": 3,
+     "grammar": "mít + accusative (n = nominative)"
+    },
+    {
+     "cz": "Jezdím na kole.",
+     "en": "I ride a bike.",
+     "week": 8,
+     "grammar": "na + locative (na kole); jezdit = regularly"
+    },
+    {
+     "cz": "Kolo mám ve sklepě.",
+     "en": "I keep the bike in the cellar.",
+     "week": 8,
+     "grammar": "kolo = accusative; ve + locative (ve sklepě)"
+    },
+    {
+     "cz": "Do práce jezdím na kole.",
+     "en": "I cycle to work.",
+     "week": 9,
+     "grammar": "do + genitive (do práce); na + locative (na kole)"
+    },
+    {
+     "cz": "Potřebuju novou helmu.",
+     "en": "I need a new helmet.",
+     "week": 7,
+     "grammar": "accusative f (novou helmu)"
+    },
+    {
+     "cz": "Včera jsem píchl kolo.",
+     "en": "Yesterday I got a flat tyre.",
+     "week": 12,
+     "grammar": "past tense; kolo = accusative"
+    },
+    {
+     "cz": "Musím dát kolo do servisu.",
+     "en": "I have to take the bike in for repair.",
+     "week": 15,
+     "grammar": "kolo = accusative; do + genitive (do servisu)"
+    },
+    {
+     "cz": "Na kole jsem rychlejší než v tramvaji.",
+     "en": "I'm faster on a bike than on the tram.",
+     "week": 20,
+     "grammar": "comparative rychlejší + než; na + locative, v + locative"
+    },
+    {
+     "cz": "Jezdím po cyklostezce, která vede podél řeky.",
+     "en": "I ride on the cycle path that runs along the river.",
+     "week": 19,
+     "grammar": "po + locative (po cyklostezce); která = relative (f); podél + genitive (řeky)"
+    },
+    {
+     "cz": "Kdyby pršelo, jel bych radši metrem.",
+     "en": "If it rained, I'd rather go by metro.",
+     "week": 20,
+     "grammar": "kdyby + -l form; instrumental for transport (metrem); radši = rather"
+    }
+   ]
+  },
+  {
+   "title": "Letiště (Airport)",
+   "category": "Travel",
+   "steps": [
+    {
+     "cz": "Kde je letiště?",
+     "en": "Where's the airport?",
+     "week": 3,
+     "grammar": "kde je + nominative"
+    },
+    {
+     "cz": "Tady je můj pas a letenka.",
+     "en": "Here's my passport and ticket.",
+     "week": 3,
+     "grammar": "possessive můj (m); nominative"
+    },
+    {
+     "cz": "Mám jeden kufr a jednu tašku.",
+     "en": "I have one suitcase and one bag.",
+     "week": 6,
+     "grammar": "accusative: jeden kufr (m inanimate), jednu tašku (f)"
+    },
+    {
+     "cz": "Letím do Indie.",
+     "en": "I'm flying to India.",
+     "week": 9,
+     "grammar": "do + genitive (do Indie); letět → letím"
+    },
+    {
+     "cz": "Let má hodinu zpoždění.",
+     "en": "The flight is an hour late.",
+     "week": 9,
+     "grammar": "hodinu = accusative (f -a → -u); mít zpoždění = be late"
+    },
+    {
+     "cz": "Můj kufr je moc těžký, musím zaplatit navíc.",
+     "en": "My suitcase is too heavy, I have to pay extra.",
+     "week": 10,
+     "grammar": "muset + infinitive; adjective agrees with kufr (m)"
+    },
+    {
+     "cz": "Ztratili mi zavazadlo.",
+     "en": "They lost my luggage.",
+     "week": 17,
+     "grammar": "past plural (they); mi = dative of possession; zavazadlo = accusative"
+    },
+    {
+     "cz": "Poletím přes Dubaj, protože je to levnější.",
+     "en": "I'll fly via Dubai because it's cheaper.",
+     "week": 20,
+     "grammar": "poletím = future of letět; přes + accusative; levnější = comparative"
+    },
+    {
+     "cz": "Přijel jsem na letiště dvě hodiny předem, abych měl dost času.",
+     "en": "I came to the airport two hours early so I'd have enough time.",
+     "week": 20,
+     "grammar": "na + accusative (na letiště); dvě hodiny = accusative; dost + genitive (času); aby"
+    }
+   ]
+  },
+  {
+   "title": "Hotel (Hotel)",
+   "category": "Travel",
+   "steps": [
+    {
+     "cz": "Mám rezervaci.",
+     "en": "I have a reservation.",
+     "week": 6,
+     "grammar": "rezervaci = accusative (f -e → -i)"
+    },
+    {
+     "cz": "V kolik je snídaně?",
+     "en": "What time is breakfast?",
+     "week": 4,
+     "grammar": "v kolik = at what time"
+    },
+    {
+     "cz": "Máte volný pokoj?",
+     "en": "Do you have a free room?",
+     "week": 7,
+     "grammar": "volný pokoj = accusative (m inanimate)"
+    },
+    {
+     "cz": "Mám rezervaci na dvě noci.",
+     "en": "I have a reservation for two nights.",
+     "week": 7,
+     "grammar": "na + accusative (na dvě noci)"
+    },
+    {
+     "cz": "Pokoj je ve třetím patře.",
+     "en": "The room is on the third floor.",
+     "week": 8,
+     "grammar": "ve + locative (ve třetím patře)"
+    },
+    {
+     "cz": "V koupelně neteče teplá voda.",
+     "en": "There's no hot water in the bathroom.",
+     "week": 8,
+     "grammar": "v + locative (v koupelně); teplá voda = nominative subject"
+    },
+    {
+     "cz": "Můžu si tu nechat kufr do odpoledne?",
+     "en": "Can I leave my suitcase here until the afternoon?",
+     "week": 15,
+     "grammar": "kufr = accusative; do + genitive (do odpoledne)"
+    },
+    {
+     "cz": "Chtěl bych jednolůžkový pokoj se snídaní.",
+     "en": "I'd like a single room with breakfast.",
+     "week": 18,
+     "grammar": "chtěl bych; pokoj = accusative; se + instrumental (se snídaní)"
+    },
+    {
+     "cz": "Hotel, ve kterém jsme bydleli, byl blízko centra.",
+     "en": "The hotel we stayed in was near the centre.",
+     "week": 19,
+     "grammar": "ve + locative relative (ve kterém); blízko + genitive (centra); past"
+    },
+    {
+     "cz": "Příště si vezmeme pokoj, který bude tišší.",
+     "en": "Next time we'll take a room that's quieter.",
+     "week": 20,
+     "grammar": "vezmeme = future; pokoj = accusative; který; tišší = comparative"
+    }
+   ]
+  },
+  {
+   "title": "Výlet na hory (Trip to the mountains)",
+   "category": "Travel",
+   "steps": [
+    {
+     "cz": "Nahoře je krásný výhled.",
+     "en": "There's a beautiful view at the top.",
+     "week": 3,
+     "grammar": "adjective agrees (m -ý); nominative subject"
+    },
+    {
+     "cz": "Bereme si batoh a vodu.",
+     "en": "We're taking a backpack and water.",
+     "week": 6,
+     "grammar": "accusative: batoh (m inanimate), vodu (f)"
+    },
+    {
+     "cz": "Jedeme na hory.",
+     "en": "We're going to the mountains.",
+     "week": 9,
+     "grammar": "na + accusative plural (na hory) = where to"
+    },
+    {
+     "cz": "Jdeme pěšky na vrchol.",
+     "en": "We're walking to the top.",
+     "week": 9,
+     "grammar": "jít = on foot; na + accusative (na vrchol)"
+    },
+    {
+     "cz": "Cesta vede lesem.",
+     "en": "The path goes through the forest.",
+     "week": 18,
+     "grammar": "instrumental of route (lesem)"
+    },
+    {
+     "cz": "Šli jsme šest hodin a byli jsme hodně unavení.",
+     "en": "We walked for six hours and were very tired.",
+     "week": 13,
+     "grammar": "past plural; šest + genitive plural (hodin); unavení = m plural -í"
+    },
+    {
+     "cz": "Minulé léto jsme byli v Krkonoších.",
+     "en": "Last summer we were in the Krkonoše mountains.",
+     "week": 21,
+     "grammar": "minulé léto = accusative of time; v + locative plural (v Krkonoších)"
+    },
+    {
+     "cz": "Jsme na horách a máme krásné počasí.",
+     "en": "We're in the mountains and the weather's lovely.",
+     "week": 21,
+     "grammar": "na + locative plural (na horách); počasí = accusative"
+    },
+    {
+     "cz": "Až budeme nahoře, uděláme si přestávku.",
+     "en": "When we're at the top, we'll take a break.",
+     "week": 20,
+     "grammar": "až + future (budeme); přestávku = accusative"
+    },
+    {
+     "cz": "Kdyby bylo hezky, jezdili bychom na hory každý víkend.",
+     "en": "If the weather were nice, we'd go to the mountains every weekend.",
+     "week": 20,
+     "grammar": "kdyby + -l form; na + accusative; každý víkend = accusative of time"
+    }
+   ]
+  },
+  {
+   "title": "Porada (Meeting)",
+   "category": "Work",
+   "steps": [
+    {
+     "cz": "Mám poradu.",
+     "en": "I have a meeting.",
+     "week": 6,
+     "grammar": "poradu = accusative (f -a → -u)"
+    },
+    {
+     "cz": "Porada je v deset.",
+     "en": "The meeting is at ten.",
+     "week": 4,
+     "grammar": "v + accusative for clock time"
+    },
+    {
+     "cz": "Porada je v zasedací místnosti.",
+     "en": "The meeting is in the meeting room.",
+     "week": 8,
+     "grammar": "v + locative (v zasedací místnosti)"
+    },
+    {
+     "cz": "Na poradě mluvíme o projektu.",
+     "en": "At the meeting we talk about the project.",
+     "week": 8,
+     "grammar": "na + locative (na poradě); o + locative (o projektu)"
+    },
+    {
+     "cz": "Musím připravit prezentaci.",
+     "en": "I have to prepare a presentation.",
+     "week": 10,
+     "grammar": "muset + infinitive; prezentaci = accusative"
+    },
+    {
+     "cz": "Šéf chce výsledky do pátku.",
+     "en": "The boss wants results by Friday.",
+     "week": 15,
+     "grammar": "výsledky = accusative plural; do + genitive (do pátku)"
+    },
+    {
+     "cz": "Porada trvala dvě hodiny a nic jsme nevyřešili.",
+     "en": "The meeting lasted two hours and we solved nothing.",
+     "week": 13,
+     "grammar": "past; dvě hodiny = accusative of duration; double negation nic nevyřešili"
+    },
+    {
+     "cz": "Pošlu vám zápis z porady e-mailem.",
+     "en": "I'll send you the minutes of the meeting by e-mail.",
+     "week": 18,
+     "grammar": "pošlu = future; vám = dative; z + genitive (z porady); instrumental of means (e-mailem)"
+    },
+    {
+     "cz": "Mohli bychom poradu přesunout na čtvrtek?",
+     "en": "Could we move the meeting to Thursday?",
+     "week": 20,
+     "grammar": "polite conditional; poradu = accusative; na + accusative (na čtvrtek)"
+    },
+    {
+     "cz": "Navrhl jsem, aby porady byly kratší.",
+     "en": "I suggested that meetings should be shorter.",
+     "week": 20,
+     "grammar": "navrhnout, aby + -l form (aby byly); kratší = comparative of krátký"
+    }
+   ]
+  },
+  {
+   "title": "Kolegové (Colleagues)",
+   "category": "Work",
+   "steps": [
+    {
+     "cz": "To je můj kolega.",
+     "en": "This is my colleague.",
+     "week": 3,
+     "grammar": "possessive můj (m)"
+    },
+    {
+     "cz": "Moje kolegyně je z Polska.",
+     "en": "My colleague (f) is from Poland.",
+     "week": 8,
+     "grammar": "z + genitive (z Polska)"
+    },
+    {
+     "cz": "V poledne chodíme spolu na oběd.",
+     "en": "At noon we go to lunch together.",
+     "week": 7,
+     "grammar": "na + accusative (na oběd)"
+    },
+    {
+     "cz": "Sedím vedle kolegy.",
+     "en": "I sit next to a colleague.",
+     "week": 15,
+     "grammar": "vedle + genitive (vedle kolegy)"
+    },
+    {
+     "cz": "Pracuju s Petrem.",
+     "en": "I work with Petr.",
+     "week": 18,
+     "grammar": "s + instrumental (s Petrem)"
+    },
+    {
+     "cz": "Kolegové jsou milí a ochotní.",
+     "en": "My colleagues are nice and helpful.",
+     "week": 19,
+     "grammar": "m animate plural adjectives end in -í"
+    },
+    {
+     "cz": "Kolega mi pomohl s novým programem.",
+     "en": "A colleague helped me with the new program.",
+     "week": 18,
+     "grammar": "pomoct + dative (mi); s + instrumental (s novým programem); past"
+    },
+    {
+     "cz": "Dal jsem kolegyni dárek k narozeninám.",
+     "en": "I gave my colleague (f) a present for her birthday.",
+     "week": 17,
+     "grammar": "kolegyni = dative; dárek = accusative; k + dative plural (k narozeninám)"
+    },
+    {
+     "cz": "Mám kolegu, který mluví pěti jazyky.",
+     "en": "I have a colleague who speaks five languages.",
+     "week": 19,
+     "grammar": "kolegu = accusative m animate; který = relative (subject); mluvit + instrumental (pěti jazyky)"
+    },
+    {
+     "cz": "Je to nejlepší tým, ve kterém jsem kdy pracoval.",
+     "en": "It's the best team I've ever worked in.",
+     "week": 20,
+     "grammar": "superlative nejlepší; ve + locative relative (ve kterém); past"
+    }
+   ]
+  },
+  {
+   "title": "Pohovor (Job interview)",
+   "category": "Work",
+   "steps": [
+    {
+     "cz": "Jsem programátor.",
+     "en": "I'm a programmer.",
+     "week": 2,
+     "grammar": "být + job (nominative)"
+    },
+    {
+     "cz": "Mluvím anglicky a trochu česky.",
+     "en": "I speak English and a little Czech.",
+     "week": 4,
+     "grammar": "mluvit + language adverb (anglicky, česky)"
+    },
+    {
+     "cz": "Hledám práci.",
+     "en": "I'm looking for a job.",
+     "week": 6,
+     "grammar": "práci = accusative (f -e → -i)"
+    },
+    {
+     "cz": "Dobrý den, přišel jsem na pohovor.",
+     "en": "Hello, I've come for an interview.",
+     "week": 12,
+     "grammar": "past přišel jsem; na + accusative (na pohovor) = for"
+    },
+    {
+     "cz": "Pracuju jako programátor už pět let.",
+     "en": "I've worked as a programmer for five years.",
+     "week": 15,
+     "grammar": "jako + nominative; pět + genitive plural (let); present for ongoing action"
+    },
+    {
+     "cz": "Proč chcete pracovat u nás?",
+     "en": "Why do you want to work for us?",
+     "week": 15,
+     "grammar": "chtít + infinitive; u + genitive (u nás) = at our company"
+    },
+    {
+     "cz": "Dřív jsem pracoval pro velkou firmu v Bangalúru.",
+     "en": "Before, I worked for a big company in Bangalore.",
+     "week": 12,
+     "grammar": "past; pro + accusative (pro velkou firmu); v + locative (v Bangalúru)"
+    },
+    {
+     "cz": "Mám zkušenosti s Javou a Pythonem.",
+     "en": "I have experience with Java and Python.",
+     "week": 18,
+     "grammar": "zkušenosti = accusative plural; s + instrumental (s Javou, Pythonem)"
+    },
+    {
+     "cz": "Chtěl bych práci, kde bych se mohl dál učit.",
+     "en": "I'd like a job where I could keep learning.",
+     "week": 20,
+     "grammar": "conditional chtěl bych, mohl bych; práci = accusative"
+    },
+    {
+     "cz": "Kdy se dozvím, jestli jste mě vybrali?",
+     "en": "When will I find out whether you've chosen me?",
+     "week": 20,
+     "grammar": "dozvím se = perfective future; jestli = whether; mě = accusative"
+    }
+   ]
+  },
+  {
+   "title": "Zubař (Dentist)",
+   "category": "Health",
+   "steps": [
+    {
+     "cz": "Potřebuju zubaře.",
+     "en": "I need a dentist.",
+     "week": 6,
+     "grammar": "zubaře = accusative m animate (-e)"
+    },
+    {
+     "cz": "Jsem objednaný na úterý.",
+     "en": "I have an appointment on Tuesday.",
+     "week": 10,
+     "grammar": "objednaný agrees (m); na + accusative (na úterý)"
+    },
+    {
+     "cz": "Otevřete ústa, prosím.",
+     "en": "Open your mouth, please.",
+     "week": 10,
+     "grammar": "polite imperative; ústa = accusative (plural-only noun)"
+    },
+    {
+     "cz": "Bolí mě zub.",
+     "en": "My tooth hurts.",
+     "week": 16,
+     "grammar": "bolet + accusative of the person (mě); zub = subject"
+    },
+    {
+     "cz": "Jdu k zubaři.",
+     "en": "I'm going to the dentist.",
+     "week": 17,
+     "grammar": "k + dative for going to a person (k zubaři)"
+    },
+    {
+     "cz": "Bude to bolet?",
+     "en": "Will it hurt?",
+     "week": 14,
+     "grammar": "bude + infinitive = future"
+    },
+    {
+     "cz": "Dostal jsem injekci, takže to nebolelo.",
+     "en": "I got an injection, so it didn't hurt.",
+     "week": 20,
+     "grammar": "past; injekci = accusative; takže = so"
+    },
+    {
+     "cz": "Zubař mi řekl, abych si čistil zuby dvakrát denně.",
+     "en": "The dentist told me to brush my teeth twice a day.",
+     "week": 20,
+     "grammar": "mi = dative; říct, aby + -l form; zuby = accusative plural"
+    },
+    {
+     "cz": "Kdybych chodil na prohlídky pravidelně, neměl bych tolik problémů.",
+     "en": "If I went to check-ups regularly, I wouldn't have so many problems.",
+     "week": 20,
+     "grammar": "kdybych + -l form; na + accusative plural; tolik + genitive plural (problémů)"
+    }
+   ]
+  },
+  {
+   "title": "Nachlazení (A cold)",
+   "category": "Health",
+   "steps": [
+    {
+     "cz": "Mám rýmu.",
+     "en": "I have a runny nose.",
+     "week": 6,
+     "grammar": "rýmu = accusative (f -a → -u)"
+    },
+    {
+     "cz": "Mám horečku a kašel.",
+     "en": "I have a fever and a cough.",
+     "week": 6,
+     "grammar": "accusative: horečku (f), kašel (m inanimate)"
+    },
+    {
+     "cz": "Je mi zima.",
+     "en": "I'm cold.",
+     "week": 17,
+     "grammar": "je mi = dative of the person who feels it"
+    },
+    {
+     "cz": "Bolí mě v krku.",
+     "en": "I have a sore throat.",
+     "week": 16,
+     "grammar": "bolet + accusative (mě); v + locative (v krku)"
+    },
+    {
+     "cz": "Zůstanu dneska doma.",
+     "en": "I'll stay home today.",
+     "week": 13,
+     "grammar": "perfective zůstanu = future"
+    },
+    {
+     "cz": "Piju čaj s medem a citronem.",
+     "en": "I'm drinking tea with honey and lemon.",
+     "week": 18,
+     "grammar": "čaj = accusative; s + instrumental (s medem, citronem)"
+    },
+    {
+     "cz": "Napíšu šéfovi, že jsem nemocný.",
+     "en": "I'll write to the boss that I'm ill.",
+     "week": 17,
+     "grammar": "šéfovi = dative; že = that; nemocný (m)"
+    },
+    {
+     "cz": "Asi jsem se nachladil, když jsem šel ven bez bundy.",
+     "en": "I probably caught a cold when I went out without a jacket.",
+     "week": 15,
+     "grammar": "past reflexive (nachladil jsem se); bez + genitive (bez bundy)"
+    },
+    {
+     "cz": "Je mi líp než včera, ale pořád mám rýmu.",
+     "en": "I feel better than yesterday, but I still have a runny nose.",
+     "week": 20,
+     "grammar": "je mi = dative; líp = comparative of dobře; rýmu = accusative"
+    },
+    {
+     "cz": "Lékař mi doporučil, abych zůstal tři dny v posteli.",
+     "en": "The doctor advised me to stay in bed for three days.",
+     "week": 20,
+     "grammar": "mi = dative; aby + -l form; tři dny = accusative duration; v + locative (v posteli)"
+    }
+   ]
+  },
+  {
+   "title": "Úraz (Injury)",
+   "category": "Health",
+   "steps": [
+    {
+     "cz": "Au, to bolí!",
+     "en": "Ouch, that hurts!",
+     "week": 1,
+     "grammar": "fixed chunk"
+    },
+    {
+     "cz": "Spadl jsem.",
+     "en": "I fell.",
+     "week": 12,
+     "grammar": "past tense (m -l + jsem)"
+    },
+    {
+     "cz": "Bolí mě noha.",
+     "en": "My leg hurts.",
+     "week": 16,
+     "grammar": "bolet + accusative (mě); noha = subject"
+    },
+    {
+     "cz": "Spadl jsem ze schodů.",
+     "en": "I fell down the stairs.",
+     "week": 15,
+     "grammar": "ze + genitive plural (ze schodů)"
+    },
+    {
+     "cz": "Zavolejte záchranku!",
+     "en": "Call an ambulance!",
+     "week": 16,
+     "grammar": "polite imperative; záchranku = accusative"
+    },
+    {
+     "cz": "Nemůžu hýbat rukou.",
+     "en": "I can't move my arm.",
+     "week": 18,
+     "grammar": "hýbat + instrumental (rukou)"
+    },
+    {
+     "cz": "Na pohotovosti mi udělali rentgen.",
+     "en": "At the emergency room they X-rayed me.",
+     "week": 17,
+     "grammar": "na + locative (na pohotovosti); mi = dative; rentgen = accusative"
+    },
+    {
+     "cz": "Mám zlomenou ruku, takže měsíc nebudu chodit do práce.",
+     "en": "I have a broken arm, so I won't go to work for a month.",
+     "week": 14,
+     "grammar": "zlomenou ruku = accusative f; měsíc = accusative duration; nebudu chodit = future; do + genitive"
+    },
+    {
+     "cz": "Kdybych byl opatrnější, nestalo by se to.",
+     "en": "If I'd been more careful, it wouldn't have happened.",
+     "week": 20,
+     "grammar": "kdybych + -l form; opatrnější = comparative; conditional nestalo by se"
+    },
+    {
+     "cz": "Potřebuju potvrzení pro zaměstnavatele, že jsem byl na pohotovosti.",
+     "en": "I need a note for my employer that I was at the emergency room.",
+     "week": 21,
+     "grammar": "potvrzení = accusative; pro + accusative (zaměstnavatele, m animate -e); na + locative"
+    }
+   ]
+  },
+  {
+   "title": "Cizinecká policie (Foreign police)",
+   "category": "Offices",
+   "steps": [
+    {
+     "cz": "Kde je cizinecká policie?",
+     "en": "Where's the foreign police office?",
+     "week": 3,
+     "grammar": "kde je + nominative; adjective agrees (f -á)"
+    },
+    {
+     "cz": "Mám vízum.",
+     "en": "I have a visa.",
+     "week": 6,
+     "grammar": "vízum = accusative (n = nominative)"
+    },
+    {
+     "cz": "Mám tady pas a fotku.",
+     "en": "I have my passport and a photo here.",
+     "week": 6,
+     "grammar": "accusative: pas (m inanimate), fotku (f)"
+    },
+    {
+     "cz": "Potřebuju prodloužit pobyt.",
+     "en": "I need to extend my stay.",
+     "week": 10,
+     "grammar": "potřebovat + infinitive; pobyt = accusative"
+    },
+    {
+     "cz": "Musím vyplnit tenhle formulář?",
+     "en": "Do I have to fill in this form?",
+     "week": 10,
+     "grammar": "muset + infinitive; formulář = accusative"
+    },
+    {
+     "cz": "Čekal jsem ve frontě dvě hodiny.",
+     "en": "I waited in the queue for two hours.",
+     "week": 12,
+     "grammar": "past; ve + locative (ve frontě); dvě hodiny = accusative duration"
+    },
+    {
+     "cz": "Chybí mi potvrzení o ubytování.",
+     "en": "I'm missing the proof of accommodation.",
+     "week": 17,
+     "grammar": "chybět + dative (mi); o + locative (o ubytování)"
+    },
+    {
+     "cz": "Přinesu ho zítra, jestli to bude možné.",
+     "en": "I'll bring it tomorrow, if that's possible.",
+     "week": 14,
+     "grammar": "ho = it (accusative n); přinesu = perfective future; jestli + future"
+    },
+    {
+     "cz": "Úřednice mi řekla, abych přišel znovu za týden.",
+     "en": "The clerk told me to come back in a week.",
+     "week": 20,
+     "grammar": "mi = dative; aby + -l form; za + accusative (za týden) = in (time)"
+    }
+   ]
+  },
+  {
+   "title": "Pojišťovna (Insurance)",
+   "category": "Offices",
+   "steps": [
+    {
+     "cz": "Mám pojištění.",
+     "en": "I have insurance.",
+     "week": 6,
+     "grammar": "pojištění = accusative (n -í, unchanged)"
+    },
+    {
+     "cz": "Kolik stojí pojištění na rok?",
+     "en": "How much does insurance cost per year?",
+     "week": 7,
+     "grammar": "kolik stojí + nominative; na + accusative (na rok)"
+    },
+    {
+     "cz": "Potřebuju zdravotní pojištění.",
+     "en": "I need health insurance.",
+     "week": 7,
+     "grammar": "accusative n; zdravotní (soft, unchanged)"
+    },
+    {
+     "cz": "Platím pojištění každý měsíc.",
+     "en": "I pay insurance every month.",
+     "week": 7,
+     "grammar": "pojištění = accusative; každý měsíc = accusative of time"
+    },
+    {
+     "cz": "Jsem pojištěný u VZP.",
+     "en": "I'm insured with VZP.",
+     "week": 15,
+     "grammar": "u + genitive (u VZP, abbreviation unchanged); pojištěný (m)"
+    },
+    {
+     "cz": "Kde je moje kartička pojištěnce?",
+     "en": "Where's my insurance card?",
+     "week": 15,
+     "grammar": "pojištěnce = genitive (card of the insured person)"
+    },
+    {
+     "cz": "Chtěl bych změnit pojišťovnu.",
+     "en": "I'd like to change insurance company.",
+     "week": 5,
+     "grammar": "chtěl bych + infinitive; pojišťovnu = accusative"
+    },
+    {
+     "cz": "Pojišťovna mi nezaplatila účet za lékaře.",
+     "en": "The insurer didn't pay my doctor's bill.",
+     "week": 17,
+     "grammar": "mi = dative; účet = accusative; za + accusative (za lékaře); past f"
+    },
+    {
+     "cz": "Poslal jsem jim všechny dokumenty, které chtěli.",
+     "en": "I sent them all the documents they wanted.",
+     "week": 21,
+     "grammar": "jim = dative plural; dokumenty = accusative plural; které = relative (plural)"
+    },
+    {
+     "cz": "Potřebuju vědět, jestli pojištění platí i v zahraničí.",
+     "en": "I need to know whether the insurance is valid abroad too.",
+     "week": 20,
+     "grammar": "jestli = whether; v + locative (v zahraničí)"
+    }
+   ]
+  },
+  {
+   "title": "Rodiče (Parents)",
+   "category": "Family & friends",
+   "steps": [
+    {
+     "cz": "To je můj táta.",
+     "en": "This is my dad.",
+     "week": 3,
+     "grammar": "possessive můj (m)"
+    },
+    {
+     "cz": "Rodiče bydlí v Indii.",
+     "en": "My parents live in India.",
+     "week": 8,
+     "grammar": "v + locative (v Indii)"
+    },
+    {
+     "cz": "Mám rád svoje rodiče.",
+     "en": "I love my parents.",
+     "week": 7,
+     "grammar": "mít rád + accusative; rodiče = accusative plural; svoje = my own"
+    },
+    {
+     "cz": "Každou neděli volám rodičům.",
+     "en": "Every Sunday I call my parents.",
+     "week": 17,
+     "grammar": "volat + dative plural (rodičům); každou neděli = accusative of time"
+    },
+    {
+     "cz": "Loni jsem byl u rodičů na Vánoce.",
+     "en": "Last year I was at my parents' for Christmas.",
+     "week": 15,
+     "grammar": "u + genitive plural (u rodičů); na + accusative (na Vánoce)"
+    },
+    {
+     "cz": "Rodiče mi poslali balík s jídlem.",
+     "en": "My parents sent me a parcel with food.",
+     "week": 18,
+     "grammar": "mi = dative; balík = accusative; s + instrumental (s jídlem)"
+    },
+    {
+     "cz": "Táta je starší než máma.",
+     "en": "Dad is older than Mum.",
+     "week": 20,
+     "grammar": "comparative starší + než"
+    },
+    {
+     "cz": "Příští rok k nám rodiče přiletí do Prahy.",
+     "en": "Next year my parents will fly to us in Prague.",
+     "week": 17,
+     "grammar": "k + dative (k nám); přiletí = perfective future; do + genitive (do Prahy)"
+    },
+    {
+     "cz": "Chci, aby rodiče viděli, jak tady žiju.",
+     "en": "I want my parents to see how I live here.",
+     "week": 20,
+     "grammar": "chtít, aby + -l form (aby viděli); jak = how"
+    }
+   ]
+  },
+  {
+   "title": "Kamarád (A friend)",
+   "category": "Family & friends",
+   "steps": [
+    {
+     "cz": "Tomáš je můj kamarád.",
+     "en": "Tomáš is my friend.",
+     "week": 3,
+     "grammar": "být + nominative; můj (m)"
+    },
+    {
+     "cz": "Často chodíme spolu na pivo.",
+     "en": "We often go for a beer together.",
+     "week": 7,
+     "grammar": "na + accusative (na pivo) = for"
+    },
+    {
+     "cz": "Známe se z práce.",
+     "en": "We know each other from work.",
+     "week": 15,
+     "grammar": "se = each other; z + genitive (z práce)"
+    },
+    {
+     "cz": "Tomáš mi pomáhá s češtinou.",
+     "en": "Tomáš helps me with Czech.",
+     "week": 18,
+     "grammar": "pomáhat + dative (mi); s + instrumental (s češtinou)"
+    },
+    {
+     "cz": "Je vyšší než já a hraje basketbal.",
+     "en": "He's taller than me and plays basketball.",
+     "week": 20,
+     "grammar": "comparative vyšší + než; basketbal = accusative"
+    },
+    {
+     "cz": "Půjčil jsem mu svoje kolo.",
+     "en": "I lent him my bike.",
+     "week": 17,
+     "grammar": "mu = dative; kolo = accusative; past"
+    },
+    {
+     "cz": "Seznámil jsem se s ním před dvěma lety.",
+     "en": "I met him two years ago.",
+     "week": 18,
+     "grammar": "seznámit se s + instrumental (s ním); před + instrumental (před dvěma lety) = ago"
+    },
+    {
+     "cz": "Je to člověk, kterému můžu věřit.",
+     "en": "He's a person I can trust.",
+     "week": 19,
+     "grammar": "věřit + dative, so relative kterému (dative)"
+    },
+    {
+     "cz": "Bez Tomáše bych se tady cítil sám.",
+     "en": "Without Tomáš I'd feel alone here.",
+     "week": 20,
+     "grammar": "bez + genitive (bez Tomáše); conditional cítil bych se"
+    }
+   ]
+  },
+  {
+   "title": "Syn a škola (My son and school)",
+   "category": "Family & friends",
+   "steps": [
+    {
+     "cz": "Mám syna.",
+     "en": "I have a son.",
+     "week": 6,
+     "grammar": "syna = accusative m animate (-a)"
+    },
+    {
+     "cz": "Můj syn je ve škole.",
+     "en": "My son is at school.",
+     "week": 8,
+     "grammar": "ve + locative (ve škole)"
+    },
+    {
+     "cz": "Chodí do druhé třídy.",
+     "en": "He's in the second year.",
+     "week": 15,
+     "grammar": "do + genitive (do druhé třídy)"
+    },
+    {
+     "cz": "Ráno ho vozím do školy autem.",
+     "en": "In the morning I drive him to school.",
+     "week": 18,
+     "grammar": "ho = accusative; do + genitive (do školy); instrumental for transport (autem)"
+    },
+    {
+     "cz": "Odpoledne ho vyzvedávám z družiny.",
+     "en": "In the afternoon I pick him up from the after-school club.",
+     "week": 15,
+     "grammar": "ho = accusative; z + genitive (z družiny)"
+    },
+    {
+     "cz": "Včera měl ve škole test z matematiky.",
+     "en": "Yesterday he had a maths test at school.",
+     "week": 15,
+     "grammar": "past; ve + locative; z + genitive (z matematiky) = in a subject"
+    },
+    {
+     "cz": "Musím mu pomoct s domácím úkolem.",
+     "en": "I have to help him with his homework.",
+     "week": 18,
+     "grammar": "pomoct + dative (mu); s + instrumental (s domácím úkolem)"
+    },
+    {
+     "cz": "Učitelka říká, že je šikovný.",
+     "en": "The teacher says he's clever.",
+     "week": 20,
+     "grammar": "že = that; šikovný (m)"
+    },
+    {
+     "cz": "Píše líp než já, ale čte pomaleji.",
+     "en": "He writes better than me but reads more slowly.",
+     "week": 20,
+     "grammar": "comparative adverbs líp, pomaleji + než"
+    },
+    {
+     "cz": "Chci, aby se naučil česky i anglicky.",
+     "en": "I want him to learn both Czech and English.",
+     "week": 20,
+     "grammar": "chtít, aby + -l form (aby se naučil); i ... i = both ... and"
+    }
+   ]
+  },
+  {
+   "title": "Kino (Cinema)",
+   "category": "Free time",
+   "steps": [
+    {
+     "cz": "Film začíná v osm.",
+     "en": "The film starts at eight.",
+     "week": 4,
+     "grammar": "v + accusative for clock time"
+    },
+    {
+     "cz": "Chci vidět ten nový český film.",
+     "en": "I want to see that new Czech film.",
+     "week": 7,
+     "grammar": "ten nový český film = accusative (m inanimate)"
+    },
+    {
+     "cz": "Jaký film dávají?",
+     "en": "What film is on?",
+     "week": 7,
+     "grammar": "jaký film = accusative; dávají = they show"
+    },
+    {
+     "cz": "Jdeme do kina?",
+     "en": "Shall we go to the cinema?",
+     "week": 9,
+     "grammar": "do + genitive (do kina)"
+    },
+    {
+     "cz": "Dva lístky na osmou, prosím.",
+     "en": "Two tickets for eight o'clock, please.",
+     "week": 14,
+     "grammar": "dva lístky = accusative plural; na + accusative (na osmou)"
+    },
+    {
+     "cz": "Ten film se mi moc líbil.",
+     "en": "I really liked that film.",
+     "week": 17,
+     "grammar": "líbit se + dative (mi); film = subject; past"
+    },
+    {
+     "cz": "Je to film s anglickými titulky.",
+     "en": "It's a film with English subtitles.",
+     "week": 21,
+     "grammar": "s + instrumental plural (s anglickými titulky)"
+    },
+    {
+     "cz": "Byl delší a nudnější, než jsem čekal.",
+     "en": "It was longer and more boring than I expected.",
+     "week": 20,
+     "grammar": "comparatives delší, nudnější + než; past"
+    },
+    {
+     "cz": "Film, o kterém jsi mluvil, už nehrají.",
+     "en": "The film you talked about isn't on any more.",
+     "week": 19,
+     "grammar": "o + locative relative (o kterém); už ne- = not any more"
+    },
+    {
+     "cz": "Kdybys měl v pátek čas, šli bychom spolu do kina.",
+     "en": "If you had time on Friday, we'd go to the cinema together.",
+     "week": 20,
+     "grammar": "kdybys + -l form; čas = accusative; v + accusative (v pátek); do + genitive"
+    }
+   ]
+  },
+  {
+   "title": "Sport (Sport)",
+   "category": "Free time",
+   "steps": [
+    {
+     "cz": "Hraju fotbal.",
+     "en": "I play football.",
+     "week": 7,
+     "grammar": "hrát + accusative for a sport (fotbal)"
+    },
+    {
+     "cz": "Rád plavu.",
+     "en": "I like swimming.",
+     "week": 7,
+     "grammar": "rád + verb = like doing (m: rád)"
+    },
+    {
+     "cz": "Běhám v parku.",
+     "en": "I run in the park.",
+     "week": 8,
+     "grammar": "v + locative (v parku)"
+    },
+    {
+     "cz": "Dvakrát týdně chodím do posilovny.",
+     "en": "Twice a week I go to the gym.",
+     "week": 9,
+     "grammar": "do + genitive (do posilovny)"
+    },
+    {
+     "cz": "V neděli jsem běžel deset kilometrů.",
+     "en": "On Sunday I ran ten kilometres.",
+     "week": 15,
+     "grammar": "v + accusative (v neděli); past; deset + genitive plural (kilometrů)"
+    },
+    {
+     "cz": "Hraju tenis s kamarádem z práce.",
+     "en": "I play tennis with a friend from work.",
+     "week": 18,
+     "grammar": "tenis = accusative; s + instrumental (s kamarádem); z + genitive (z práce)"
+    },
+    {
+     "cz": "Od příštího měsíce budu chodit na jógu.",
+     "en": "From next month I'll go to yoga.",
+     "week": 15,
+     "grammar": "od + genitive (od příštího měsíce); budu chodit = future; na + accusative (na jógu)"
+    },
+    {
+     "cz": "Fotbal je sport, který sleduju od dětství.",
+     "en": "Football is a sport I've followed since childhood.",
+     "week": 19,
+     "grammar": "který = relative (m accusative = nominative); od + genitive (od dětství)"
+    },
+    {
+     "cz": "Sportuju, abych byl zdravější.",
+     "en": "I do sport to be healthier.",
+     "week": 20,
+     "grammar": "aby + -l form (abych byl); zdravější = comparative"
+    }
+   ]
+  },
+  {
+   "title": "Hudba (Music)",
+   "category": "Free time",
+   "steps": [
+    {
+     "cz": "Poslouchám hudbu.",
+     "en": "I listen to music.",
+     "week": 6,
+     "grammar": "hudbu = accusative (f -a → -u)"
+    },
+    {
+     "cz": "Mám rád rock.",
+     "en": "I like rock.",
+     "week": 7,
+     "grammar": "mít rád + accusative (rock)"
+    },
+    {
+     "cz": "Hraju na kytaru.",
+     "en": "I play the guitar.",
+     "week": 7,
+     "grammar": "hrát na + accusative for an instrument (na kytaru)"
+    },
+    {
+     "cz": "V sobotu jdu na koncert.",
+     "en": "On Saturday I'm going to a concert.",
+     "week": 7,
+     "grammar": "v + accusative (v sobotu); na + accusative (na koncert)"
+    },
+    {
+     "cz": "Učím se hrát na klavír.",
+     "en": "I'm learning to play the piano.",
+     "week": 10,
+     "grammar": "učit se + infinitive; hrát na + accusative (na klavír)"
+    },
+    {
+     "cz": "Moje oblíbená kapela vydala nové album.",
+     "en": "My favourite band released a new album.",
+     "week": 12,
+     "grammar": "past f (vydala, kapela = subject); nové album = accusative"
+    },
+    {
+     "cz": "Koncert byl v klubu blízko centra.",
+     "en": "The concert was in a club near the centre.",
+     "week": 15,
+     "grammar": "v + locative (v klubu); blízko + genitive (centra)"
+    },
+    {
+     "cz": "Koupil jsem lístky pro nás oba.",
+     "en": "I bought tickets for both of us.",
+     "week": 12,
+     "grammar": "lístky = accusative plural; pro + accusative (pro nás oba)"
+    },
+    {
+     "cz": "Je to písnička, kterou poslouchám pořád dokola.",
+     "en": "It's a song I listen to over and over.",
+     "week": 19,
+     "grammar": "kterou = relative (f accusative)"
+    },
+    {
+     "cz": "Kdybych měl víc času, hrál bych v kapele.",
+     "en": "If I had more time, I'd play in a band.",
+     "week": 20,
+     "grammar": "kdybych + -l form; víc + genitive (času); v + locative (v kapele)"
+    }
+   ]
+  },
+  {
+   "title": "Zima (Winter)",
+   "category": "Weather & seasons",
+   "steps": [
+    {
+     "cz": "Je zima.",
+     "en": "It's cold.",
+     "week": 3,
+     "grammar": "je + noun for weather (no subject)"
+    },
+    {
+     "cz": "Venku je mínus pět.",
+     "en": "It's minus five outside.",
+     "week": 2,
+     "grammar": "numbers; je + temperature"
+    },
+    {
+     "cz": "V zimě sněží.",
+     "en": "In winter it snows.",
+     "week": 8,
+     "grammar": "v + locative (v zimě); sněží has no subject"
+    },
+    {
+     "cz": "Beru si teplou bundu a čepici.",
+     "en": "I'm putting on a warm jacket and a hat.",
+     "week": 7,
+     "grammar": "brát si = put on; accusative f (teplou bundu, čepici)"
+    },
+    {
+     "cz": "Na Vánoce jezdíme na hory.",
+     "en": "At Christmas we go to the mountains.",
+     "week": 9,
+     "grammar": "na + accusative (na Vánoce, na hory)"
+    },
+    {
+     "cz": "Silnice jsou kluzké.",
+     "en": "The roads are slippery.",
+     "week": 19,
+     "grammar": "plural adjective -é agrees with silnice (f plural)"
+    },
+    {
+     "cz": "Loni v zimě napadlo hodně sněhu.",
+     "en": "Last winter a lot of snow fell.",
+     "week": 15,
+     "grammar": "hodně + genitive (sněhu); past n (napadlo)"
+    },
+    {
+     "cz": "Tahle zima je teplejší než ta minulá.",
+     "en": "This winter is warmer than the last one.",
+     "week": 20,
+     "grammar": "comparative teplejší + než"
+    },
+    {
+     "cz": "Až napadne sníh, postavíme s dětmi sněhuláka.",
+     "en": "When snow falls, we'll build a snowman with the kids.",
+     "week": 20,
+     "grammar": "až + perfective future; s + instrumental plural (s dětmi); sněhuláka = accusative m animate"
+    },
+    {
+     "cz": "Nemám rád zimu, protože je brzo tma.",
+     "en": "I don't like winter because it gets dark early.",
+     "week": 20,
+     "grammar": "mít rád + accusative (zimu); protože"
+    }
+   ]
+  },
+  {
+   "title": "Léto (Summer)",
+   "category": "Weather & seasons",
+   "steps": [
+    {
+     "cz": "Je teplo.",
+     "en": "It's warm.",
+     "week": 3,
+     "grammar": "je + weather word (no subject)"
+    },
+    {
+     "cz": "V létě je horko.",
+     "en": "In summer it's hot.",
+     "week": 8,
+     "grammar": "v + locative (v létě)"
+    },
+    {
+     "cz": "Potřebuju krém na opalování.",
+     "en": "I need sun cream.",
+     "week": 7,
+     "grammar": "krém = accusative; na + accusative = for (na opalování)"
+    },
+    {
+     "cz": "Dnes je třicet stupňů.",
+     "en": "Today it's thirty degrees.",
+     "week": 15,
+     "grammar": "třicet + genitive plural (stupňů)"
+    },
+    {
+     "cz": "V létě jezdíme k moři.",
+     "en": "In summer we go to the seaside.",
+     "week": 17,
+     "grammar": "k + dative (k moři)"
+    },
+    {
+     "cz": "Minulý týden byla bouřka a pršelo celou noc.",
+     "en": "Last week there was a storm and it rained all night.",
+     "week": 12,
+     "grammar": "past f (byla bouřka); celou noc = accusative of duration"
+    },
+    {
+     "cz": "V horku piju víc vody.",
+     "en": "In the heat I drink more water.",
+     "week": 15,
+     "grammar": "v + locative (v horku); víc + genitive (vody)"
+    },
+    {
+     "cz": "Léto v Praze je teplejší, než jsem čekal.",
+     "en": "Summer in Prague is warmer than I expected.",
+     "week": 20,
+     "grammar": "v + locative (v Praze); teplejší + než"
+    },
+    {
+     "cz": "Kdyby nebylo tak horko, šli bychom na výlet.",
+     "en": "If it weren't so hot, we'd go on a trip.",
+     "week": 20,
+     "grammar": "kdyby + -l form; na + accusative (na výlet)"
+    }
+   ]
+  },
+  {
+   "title": "Večeře u nás (Dinner at ours)",
+   "category": "Plans & invitations",
+   "steps": [
+    {
+     "cz": "Máš čas v sobotu večer?",
+     "en": "Do you have time on Saturday evening?",
+     "week": 7,
+     "grammar": "čas = accusative; v + accusative (v sobotu)"
+    },
+    {
+     "cz": "Přijď k nám na večeři.",
+     "en": "Come to our place for dinner.",
+     "week": 17,
+     "grammar": "imperative přijď; k + dative (k nám); na + accusative (na večeři)"
+    },
+    {
+     "cz": "Přijdou taky Petr a Jana.",
+     "en": "Petr and Jana are coming too.",
+     "week": 13,
+     "grammar": "přijdou = perfective future; plural subject"
+    },
+    {
+     "cz": "Nemusíš nic nosit.",
+     "en": "You don't have to bring anything.",
+     "week": 10,
+     "grammar": "nemusíš + infinitive; double negation nic"
+    },
+    {
+     "cz": "Můžeš přijít s přítelkyní.",
+     "en": "You can come with your girlfriend.",
+     "week": 18,
+     "grammar": "s + instrumental (s přítelkyní)"
+    },
+    {
+     "cz": "Uvařím něco indického.",
+     "en": "I'll cook something Indian.",
+     "week": 15,
+     "grammar": "něco + genitive adjective (indického); uvařím = future"
+    },
+    {
+     "cz": "Díky za pozvání, rád přijdu.",
+     "en": "Thanks for the invitation, I'll be glad to come.",
+     "week": 14,
+     "grammar": "za + accusative (za pozvání); rád (m); přijdu = future"
+    },
+    {
+     "cz": "Přinesu víno, které mám od kolegy z Moravy.",
+     "en": "I'll bring wine I got from a colleague from Moravia.",
+     "week": 19,
+     "grammar": "víno = accusative; které = relative (n); od + genitive (od kolegy); z + genitive (z Moravy)"
+    },
+    {
+     "cz": "Kdybys nemohl přijít, dej mi včas vědět.",
+     "en": "If you can't come, let me know in time.",
+     "week": 20,
+     "grammar": "kdybys + -l form; mi = dative"
+    }
+   ]
+  },
+  {
+   "title": "Schůzka (Meeting up)",
+   "category": "Plans & invitations",
+   "steps": [
+    {
+     "cz": "Sejdeme se?",
+     "en": "Shall we meet?",
+     "week": 14,
+     "grammar": "sejít se = perfective, present form = future"
+    },
+    {
+     "cz": "Hodí se ti zítra v šest?",
+     "en": "Does tomorrow at six suit you?",
+     "week": 17,
+     "grammar": "hodit se + dative (ti); v + accusative for time"
+    },
+    {
+     "cz": "Sejdeme se před metrem.",
+     "en": "Let's meet in front of the metro.",
+     "week": 18,
+     "grammar": "před + instrumental (před metrem)"
+    },
+    {
+     "cz": "Promiň, budu mít zpoždění.",
+     "en": "Sorry, I'll be late.",
+     "week": 14,
+     "grammar": "budu mít = future; zpoždění = accusative"
+    },
+    {
+     "cz": "Počkej na mě u vchodu.",
+     "en": "Wait for me at the entrance.",
+     "week": 15,
+     "grammar": "čekat na + accusative (na mě); u + genitive (u vchodu)"
+    },
+    {
+     "cz": "Můžeme to přesunout na příští týden?",
+     "en": "Can we move it to next week?",
+     "week": 10,
+     "grammar": "moct + infinitive; na + accusative (na příští týden)"
+    },
+    {
+     "cz": "Minule jsme se nesešli, protože jsem byl nemocný.",
+     "en": "Last time we didn't meet because I was ill.",
+     "week": 13,
+     "grammar": "negative past reflexive; protože"
+    },
+    {
+     "cz": "Nemůžu přijít, musím zůstat v práci déle.",
+     "en": "I can't come, I have to stay at work longer.",
+     "week": 20,
+     "grammar": "v + locative (v práci); déle = comparative of dlouho"
+    },
+    {
+     "cz": "Napiš mi, až budeš na místě, abych tě nemusel hledat.",
+     "en": "Text me when you're there so I don't have to look for you.",
+     "week": 20,
+     "grammar": "mi = dative; až + future; na + locative (na místě); aby + -l form; tě = accusative"
+    }
+   ]
+  },
+  {
+   "title": "Stěhování (Moving house)",
+   "category": "Past events",
+   "steps": [
+    {
+     "cz": "Stěhuju se.",
+     "en": "I'm moving.",
+     "week": 4,
+     "grammar": "reflexive stěhovat se → stěhuju se"
+    },
+    {
+     "cz": "Mám hodně krabic.",
+     "en": "I have a lot of boxes.",
+     "week": 15,
+     "grammar": "hodně + genitive plural (krabic)"
+    },
+    {
+     "cz": "Stěhuju se do nového bytu.",
+     "en": "I'm moving to a new flat.",
+     "week": 15,
+     "grammar": "do + genitive (do nového bytu)"
+    },
+    {
+     "cz": "Minulý měsíc jsme se přestěhovali.",
+     "en": "Last month we moved.",
+     "week": 13,
+     "grammar": "perfective past plural; minulý měsíc = accusative of time"
+    },
+    {
+     "cz": "Kamarádi mi pomohli nosit nábytek.",
+     "en": "Friends helped me carry the furniture.",
+     "week": 17,
+     "grammar": "pomoct + dative (mi); nábytek = accusative"
+    },
+    {
+     "cz": "Pračku jsme nesli do čtvrtého patra.",
+     "en": "We carried the washing machine to the fourth floor.",
+     "week": 15,
+     "grammar": "pračku = accusative; do + genitive (do čtvrtého patra); past"
+    },
+    {
+     "cz": "Při stěhování se rozbila lampa.",
+     "en": "The lamp broke during the move.",
+     "week": 13,
+     "grammar": "při + locative (při stěhování); past f reflexive"
+    },
+    {
+     "cz": "Nový byt je větší a světlejší než ten starý.",
+     "en": "The new flat is bigger and brighter than the old one.",
+     "week": 20,
+     "grammar": "comparatives větší, světlejší + než"
+    },
+    {
+     "cz": "Musel jsem nahlásit novou adresu na úřadě.",
+     "en": "I had to report the new address at the office.",
+     "week": 21,
+     "grammar": "past of muset; novou adresu = accusative; na + locative (na úřadě)"
+    },
+    {
+     "cz": "Kdybych věděl, kolik je to práce, objednal bych si stěhovací firmu.",
+     "en": "If I'd known how much work it is, I'd have hired a moving company.",
+     "week": 20,
+     "grammar": "kdybych + -l form; kolik + genitive (práce); firmu = accusative"
+    }
+   ]
+  },
+  {
+   "title": "Ztracená peněženka (Lost wallet)",
+   "category": "Past events",
+   "steps": [
+    {
+     "cz": "Kde je moje peněženka?",
+     "en": "Where's my wallet?",
+     "week": 3,
+     "grammar": "possessive moje (f)"
+    },
+    {
+     "cz": "Nemůžu najít peněženku.",
+     "en": "I can't find my wallet.",
+     "week": 10,
+     "grammar": "moct + infinitive; peněženku = accusative"
+    },
+    {
+     "cz": "Ztratil jsem peněženku.",
+     "en": "I lost my wallet.",
+     "week": 12,
+     "grammar": "past; peněženku = accusative"
+    },
+    {
+     "cz": "Měl jsem ji v kapse.",
+     "en": "I had it in my pocket.",
+     "week": 12,
+     "grammar": "ji = accusative f; v + locative (v kapse)"
+    },
+    {
+     "cz": "Naposledy jsem ji viděl v tramvaji.",
+     "en": "I last saw it on the tram.",
+     "week": 12,
+     "grammar": "ji = accusative; v + locative (v tramvaji)"
+    },
+    {
+     "cz": "V peněžence byly karty a dva tisíce korun.",
+     "en": "There were cards and two thousand crowns in the wallet.",
+     "week": 15,
+     "grammar": "v + locative (v peněžence); past plural byly; korun = genitive plural after tisíce"
+    },
+    {
+     "cz": "Hned jsem zavolal do banky a zablokoval kartu.",
+     "en": "I immediately called the bank and blocked the card.",
+     "week": 15,
+     "grammar": "zavolat do + genitive (do banky); kartu = accusative"
+    },
+    {
+     "cz": "Šel jsem na policii nahlásit ztrátu.",
+     "en": "I went to the police to report the loss.",
+     "week": 13,
+     "grammar": "na + accusative (na policii) = where to; ztrátu = accusative"
+    },
+    {
+     "cz": "Druhý den mi zavolal pán, který ji našel.",
+     "en": "The next day a man who'd found it called me.",
+     "week": 19,
+     "grammar": "mi = dative; který = relative (m subject); ji = accusative"
+    },
+    {
+     "cz": "Od té doby nosím peněženku ve vnitřní kapse, aby se to neopakovalo.",
+     "en": "Since then I carry my wallet in an inside pocket so it doesn't happen again.",
+     "week": 20,
+     "grammar": "od + genitive (od té doby); ve + locative (ve vnitřní kapse); aby + -l form"
+    }
+   ]
+  },
+  {
+   "title": "Praha a já (Prague and me)",
+   "category": "Feelings & opinions",
+   "steps": [
+    {
+     "cz": "Praha je krásná.",
+     "en": "Prague is beautiful.",
+     "week": 3,
+     "grammar": "adjective agrees (f -á)"
+    },
+    {
+     "cz": "Líbí se mi Praha.",
+     "en": "I like Prague.",
+     "week": 17,
+     "grammar": "líbit se + dative (mi); Praha = subject"
+    },
+    {
+     "cz": "Podle mě je doprava tady skvělá.",
+     "en": "In my opinion the transport here is excellent.",
+     "week": 15,
+     "grammar": "podle + genitive (podle mě)"
+    },
+    {
+     "cz": "Souhlasím s tebou.",
+     "en": "I agree with you.",
+     "week": 18,
+     "grammar": "souhlasit s + instrumental (s tebou)"
+    },
+    {
+     "cz": "Na začátku se mi tady nelíbilo.",
+     "en": "At first I didn't like it here.",
+     "week": 13,
+     "grammar": "na + locative (na začátku); mi = dative; negative past n"
+    },
+    {
+     "cz": "Nelíbí se mi, že je tady tolik turistů.",
+     "en": "I don't like that there are so many tourists here.",
+     "week": 15,
+     "grammar": "mi = dative; tolik + genitive plural (turistů)"
+    },
+    {
+     "cz": "Myslím, že Praha je dražší než Brno.",
+     "en": "I think Prague is more expensive than Brno.",
+     "week": 20,
+     "grammar": "myslet, že = think that; dražší + než"
+    },
+    {
+     "cz": "Je to nejkrásnější město, které jsem kdy viděl.",
+     "en": "It's the most beautiful city I've ever seen.",
+     "week": 20,
+     "grammar": "superlative nej- + comparative; které = relative (n accusative)"
+    },
+    {
+     "cz": "Kdyby byly byty levnější, zůstal bych tady navždy.",
+     "en": "If flats were cheaper, I'd stay here for ever.",
+     "week": 20,
+     "grammar": "kdyby + -l form (byly); levnější = comparative"
+    }
+   ]
+  },
+  {
+   "title": "Nálada (Mood)",
+   "category": "Feelings & opinions",
+   "steps": [
+    {
+     "cz": "Jsem unavený.",
+     "en": "I'm tired.",
+     "week": 3,
+     "grammar": "být + adjective (m -ý)"
+    },
+    {
+     "cz": "Dnes mám dobrou náladu.",
+     "en": "Today I'm in a good mood.",
+     "week": 7,
+     "grammar": "mít + accusative f (dobrou náladu)"
+    },
+    {
+     "cz": "Je mi smutno.",
+     "en": "I feel sad.",
+     "week": 17,
+     "grammar": "je mi = dative of the person who feels it"
+    },
+    {
+     "cz": "Bojím se zkoušky.",
+     "en": "I'm afraid of the exam.",
+     "week": 15,
+     "grammar": "bát se + genitive (zkoušky)"
+    },
+    {
+     "cz": "Mám radost z nového bytu.",
+     "en": "I'm happy about the new flat.",
+     "week": 15,
+     "grammar": "mít radost z + genitive (z nového bytu)"
+    },
+    {
+     "cz": "Těším se na víkend.",
+     "en": "I'm looking forward to the weekend.",
+     "week": 7,
+     "grammar": "těšit se na + accusative (na víkend)"
+    },
+    {
+     "cz": "Mrzí mě, že jsem ti nezavolal.",
+     "en": "I'm sorry I didn't call you.",
+     "week": 17,
+     "grammar": "mrzet + accusative (mě); volat + dative (ti); negative past"
+    },
+    {
+     "cz": "Zlobím se na souseda, protože je pořád hlučný.",
+     "en": "I'm angry with the neighbour because he's always noisy.",
+     "week": 20,
+     "grammar": "zlobit se na + accusative (souseda, m animate -a); protože"
+    },
+    {
+     "cz": "Jsem rád, že je dnes pátek.",
+     "en": "I'm glad it's Friday today.",
+     "week": 20,
+     "grammar": "rád (m); že = that"
+    },
+    {
+     "cz": "Byl bych šťastnější, kdyby moje rodina bydlela blíž.",
+     "en": "I'd be happier if my family lived closer.",
+     "week": 20,
+     "grammar": "conditional byl bych; kdyby + -l form; comparatives šťastnější, blíž"
+    }
+   ]
+  },
+  {
+   "title": "Vzhled (Appearance)",
+   "category": "Describing people",
+   "steps": [
+    {
+     "cz": "Je vysoký.",
+     "en": "He's tall.",
+     "week": 3,
+     "grammar": "být + adjective (m -ý)"
+    },
+    {
+     "cz": "Má krátké vlasy.",
+     "en": "He has short hair.",
+     "week": 7,
+     "grammar": "vlasy = accusative plural; adjective -é"
+    },
+    {
+     "cz": "Má modré oči a vousy.",
+     "en": "He has blue eyes and a beard.",
+     "week": 7,
+     "grammar": "oči = accusative plural (irregular); vousy = plural"
+    },
+    {
+     "cz": "Nosí brýle.",
+     "en": "He wears glasses.",
+     "week": 7,
+     "grammar": "brýle = accusative (plural-only noun)"
+    },
+    {
+     "cz": "Je to ten pán s kloboukem.",
+     "en": "That's the man with the hat.",
+     "week": 18,
+     "grammar": "s + instrumental (s kloboukem)"
+    },
+    {
+     "cz": "Moje sestra je menší než já.",
+     "en": "My sister is shorter than me.",
+     "week": 20,
+     "grammar": "comparative menší (malý) + než"
+    },
+    {
+     "cz": "Vypadá mladší, než je.",
+     "en": "She looks younger than she is.",
+     "week": 20,
+     "grammar": "comparative mladší + než"
+    },
+    {
+     "cz": "Dřív měl dlouhé vlasy, ale teď je má krátké.",
+     "en": "He used to have long hair, but now he has it short.",
+     "week": 12,
+     "grammar": "past; vlasy, je = accusative plural"
+    },
+    {
+     "cz": "Hledám ženu v červených šatech.",
+     "en": "I'm looking for a woman in a red dress.",
+     "week": 21,
+     "grammar": "ženu = accusative; v + locative plural (šaty is plural-only: v červených šatech)"
+    },
+    {
+     "cz": "Muž, kterého jsem viděl, byl vysoký a měl černou bundu.",
+     "en": "The man I saw was tall and had a black jacket.",
+     "week": 19,
+     "grammar": "kterého = relative (m animate accusative); černou bundu = accusative; past"
+    }
+   ]
+  },
+  {
+   "title": "Povaha (Character)",
+   "category": "Describing people",
+   "steps": [
+    {
+     "cz": "Je milý.",
+     "en": "He's nice.",
+     "week": 3,
+     "grammar": "být + adjective (m -ý)"
+    },
+    {
+     "cz": "Moje kolegyně je velmi pracovitá.",
+     "en": "My colleague is very hard-working.",
+     "week": 3,
+     "grammar": "adjective agrees (f -á)"
+    },
+    {
+     "cz": "Můj šéf je přísný, ale spravedlivý.",
+     "en": "My boss is strict but fair.",
+     "week": 3,
+     "grammar": "adjectives agree (m -ý)"
+    },
+    {
+     "cz": "S Janou je vždycky legrace.",
+     "en": "It's always fun with Jana.",
+     "week": 18,
+     "grammar": "s + instrumental (s Janou)"
+    },
+    {
+     "cz": "Je klidnější než jeho bratr.",
+     "en": "He's calmer than his brother.",
+     "week": 20,
+     "grammar": "comparative klidnější + než"
+    },
+    {
+     "cz": "Nemám rád lidi, kteří lžou.",
+     "en": "I don't like people who lie.",
+     "week": 19,
+     "grammar": "lidi = accusative plural; kteří = relative (m animate plural subject)"
+    },
+    {
+     "cz": "Myslím si o něm, že je trochu sobecký.",
+     "en": "I think he's a bit selfish.",
+     "week": 20,
+     "grammar": "o + locative (o něm); že = that"
+    },
+    {
+     "cz": "Je to nejochotnější člověk, kterého znám.",
+     "en": "He's the most helpful person I know.",
+     "week": 20,
+     "grammar": "superlative nej-; kterého = relative (m animate accusative)"
+    },
+    {
+     "cz": "Kdyby byl trpělivější, byl by skvělý učitel.",
+     "en": "If he were more patient, he'd be a great teacher.",
+     "week": 20,
+     "grammar": "kdyby + -l form; trpělivější = comparative; conditional byl by"
+    }
+   ]
+  },
+  {
+   "title": "Moje čtvrť (My neighbourhood)",
+   "category": "Describing places",
+   "steps": [
+    {
+     "cz": "Je tady klid.",
+     "en": "It's quiet here.",
+     "week": 3,
+     "grammar": "je + noun (klid)"
+    },
+    {
+     "cz": "Blízko je park a obchod.",
+     "en": "There's a park and a shop nearby.",
+     "week": 3,
+     "grammar": "blízko = nearby (adverb); nominative subjects"
+    },
+    {
+     "cz": "Bydlím na Smíchově.",
+     "en": "I live in Smíchov.",
+     "week": 8,
+     "grammar": "na + locative (Prague districts often take na)"
+    },
+    {
+     "cz": "Vedle domu je zastávka.",
+     "en": "There's a stop next to the house.",
+     "week": 15,
+     "grammar": "vedle + genitive (vedle domu)"
+    },
+    {
+     "cz": "Do centra to mám deset minut.",
+     "en": "It takes me ten minutes to the centre.",
+     "week": 15,
+     "grammar": "do + genitive (do centra); deset + genitive plural (minut)"
+    },
+    {
+     "cz": "V naší ulici je hodně restaurací.",
+     "en": "There are lots of restaurants in our street.",
+     "week": 15,
+     "grammar": "v + locative (v naší ulici); hodně + genitive plural (restaurací)"
+    },
+    {
+     "cz": "Naproti nám je pekárna.",
+     "en": "There's a bakery opposite us.",
+     "week": 17,
+     "grammar": "naproti + dative (nám)"
+    },
+    {
+     "cz": "Dřív tady byla továrna, teď jsou tu nové byty.",
+     "en": "There used to be a factory here, now there are new flats.",
+     "week": 12,
+     "grammar": "past f (byla); plural jsou + adjective -é"
+    },
+    {
+     "cz": "Je to čtvrť, ve které se mi bydlí dobře.",
+     "en": "It's a district where I like living.",
+     "week": 19,
+     "grammar": "ve + locative relative (ve které); bydlí se mi = impersonal + dative"
+    },
+    {
+     "cz": "Nájem je tu sice dražší než na okraji, ale nemusím dojíždět.",
+     "en": "The rent here is higher than on the outskirts, but I don't have to commute.",
+     "week": 20,
+     "grammar": "sice ... ale; dražší + než; na + locative (na okraji)"
+    }
+   ]
+  },
+  {
+   "title": "Vesnice (Village)",
+   "category": "Describing places",
+   "steps": [
+    {
+     "cz": "To je vesnice.",
+     "en": "This is a village.",
+     "week": 3,
+     "grammar": "to je + noun (f)"
+    },
+    {
+     "cz": "Vesnice je malá a klidná.",
+     "en": "The village is small and quiet.",
+     "week": 3,
+     "grammar": "adjectives agree (f -á)"
+    },
+    {
+     "cz": "Na vesnici bydlí tři sta lidí.",
+     "en": "Three hundred people live in the village.",
+     "week": 15,
+     "grammar": "na + locative (na vesnici); tři sta + genitive plural (lidí)"
+    },
+    {
+     "cz": "Uprostřed vesnice je kostel.",
+     "en": "There's a church in the middle of the village.",
+     "week": 15,
+     "grammar": "uprostřed + genitive (vesnice)"
+    },
+    {
+     "cz": "Kolem vesnice jsou pole a lesy.",
+     "en": "Around the village there are fields and forests.",
+     "week": 15,
+     "grammar": "kolem + genitive (vesnice); plural subjects"
+    },
+    {
+     "cz": "Jezdíme tam z města autobusem.",
+     "en": "We go there from the city by bus.",
+     "week": 18,
+     "grammar": "z + genitive (z města); instrumental for transport (autobusem)"
+    },
+    {
+     "cz": "Vyrostl jsem v malé vesnici blízko Amritsaru.",
+     "en": "I grew up in a small village near Amritsar.",
+     "week": 12,
+     "grammar": "past; v + locative (v malé vesnici); blízko + genitive (Amritsaru)"
+    },
+    {
+     "cz": "Na vesnici je vzduch čistší než ve městě.",
+     "en": "The air in a village is cleaner than in the city.",
+     "week": 20,
+     "grammar": "na + locative, ve + locative; čistší + než"
+    },
+    {
+     "cz": "Vesnice, kde jsem vyrostl, se hodně změnila.",
+     "en": "The village where I grew up has changed a lot.",
+     "week": 19,
+     "grammar": "kde = where (relative); past f reflexive (změnila se)"
+    },
+    {
+     "cz": "Až budu starší, chtěl bych bydlet na vesnici.",
+     "en": "When I'm older, I'd like to live in a village.",
+     "week": 20,
+     "grammar": "až + future (budu); starší = comparative; chtěl bych; na + locative"
+    }
+   ]
+  },
+  {
+   "title": "Telefonát (Phone call)",
+   "category": "Phone & messages",
+   "steps": [
+    {
+     "cz": "Haló?",
+     "en": "Hello? (on the phone)",
+     "week": 1,
+     "grammar": "fixed chunk"
+    },
+    {
+     "cz": "Neslyším vás dobře.",
+     "en": "I can't hear you well.",
+     "week": 6,
+     "grammar": "vás = accusative of vy"
+    },
+    {
+     "cz": "Můžete mluvit pomaleji?",
+     "en": "Can you speak more slowly?",
+     "week": 10,
+     "grammar": "moct + infinitive; pomaleji = comparative of pomalu"
+    },
+    {
+     "cz": "Není tady, zavolejte později.",
+     "en": "He isn't here, call later.",
+     "week": 10,
+     "grammar": "negative být (není); polite imperative zavolejte"
+    },
+    {
+     "cz": "Můžu mluvit s panem Novákem?",
+     "en": "Can I speak to Mr Novák?",
+     "week": 18,
+     "grammar": "s + instrumental (s panem Novákem)"
+    },
+    {
+     "cz": "Volám kvůli inzerátu na byt.",
+     "en": "I'm calling about the flat advert.",
+     "week": 17,
+     "grammar": "kvůli + dative (inzerátu); na + accusative (na byt)"
+    },
+    {
+     "cz": "Můžu mu nechat vzkaz?",
+     "en": "Can I leave him a message?",
+     "week": 17,
+     "grammar": "mu = dative; vzkaz = accusative"
+    },
+    {
+     "cz": "Volal jsem vám včera, ale nikdo to nebral.",
+     "en": "I called you yesterday but nobody answered.",
+     "week": 17,
+     "grammar": "volat + dative (vám); past; double negation nikdo nebral"
+    },
+    {
+     "cz": "Řekněte mu, prosím, ať mi zavolá zpátky.",
+     "en": "Please tell him to call me back.",
+     "week": 17,
+     "grammar": "mu, mi = dative; ať + perfective = tell him to"
+    },
+    {
+     "cz": "Zavolám vám, až budu vědět víc.",
+     "en": "I'll call you when I know more.",
+     "week": 20,
+     "grammar": "vám = dative; až + future; víc = comparative"
+    }
+   ]
+  },
+  {
+   "title": "Zprávy (Text messages)",
+   "category": "Phone & messages",
+   "steps": [
+    {
+     "cz": "Píšu zprávu.",
+     "en": "I'm writing a message.",
+     "week": 6,
+     "grammar": "zprávu = accusative (f -a → -u)"
+    },
+    {
+     "cz": "Mám vybitý telefon.",
+     "en": "My phone is dead.",
+     "week": 7,
+     "grammar": "vybitý telefon = accusative (m inanimate)"
+    },
+    {
+     "cz": "Napiš mi.",
+     "en": "Text me.",
+     "week": 17,
+     "grammar": "imperative napiš; mi = dative"
+    },
+    {
+     "cz": "Poslal jsem ti zprávu.",
+     "en": "I sent you a message.",
+     "week": 17,
+     "grammar": "ti = dative; zprávu = accusative; past"
+    },
+    {
+     "cz": "Promiň, že jsem neodpověděl, byl jsem v práci.",
+     "en": "Sorry I didn't answer, I was at work.",
+     "week": 12,
+     "grammar": "že = that; negative past; v + locative (v práci)"
+    },
+    {
+     "cz": "Pošlu ti adresu přes WhatsApp.",
+     "en": "I'll send you the address via WhatsApp.",
+     "week": 17,
+     "grammar": "ti = dative; adresu = accusative; přes + accusative"
+    },
+    {
+     "cz": "Ve skupině jsme si psali celý večer.",
+     "en": "We were writing in the group all evening.",
+     "week": 13,
+     "grammar": "ve + locative (ve skupině); celý večer = accusative duration; past"
+    },
+    {
+     "cz": "Odpověz mi, prosím, co nejdřív.",
+     "en": "Please answer me as soon as possible.",
+     "week": 20,
+     "grammar": "odpovědět + dative (mi); co nej- = as ... as possible"
+    },
+    {
+     "cz": "Zpráva, kterou jsi mi poslal, nepřišla.",
+     "en": "The message you sent me didn't arrive.",
+     "week": 19,
+     "grammar": "kterou = relative (f accusative); mi = dative; past f"
+    },
+    {
+     "cz": "Napsal jsem mu, aby nezapomněl na zítřek.",
+     "en": "I wrote to him not to forget about tomorrow.",
+     "week": 20,
+     "grammar": "mu = dative; aby + -l form; zapomenout na + accusative (na zítřek)"
+    },
+    {
+     "cz": "Napiš mi, kdybys něco potřeboval.",
+     "en": "Text me if you need anything.",
+     "week": 20,
+     "grammar": "mi = dative; kdybys + -l form"
+    }
+   ]
+  },
+  {
+   "title": "Rozpočet (Budget)",
+   "category": "Money",
+   "steps": [
+    {
+     "cz": "Kolik vyděláváš?",
+     "en": "How much do you earn?",
+     "week": 5,
+     "grammar": "kolik + verb"
+    },
+    {
+     "cz": "Nemám peníze.",
+     "en": "I don't have money.",
+     "week": 6,
+     "grammar": "peníze = accusative plural (plural-only noun)"
+    },
+    {
+     "cz": "Šetřím na nové auto.",
+     "en": "I'm saving for a new car.",
+     "week": 7,
+     "grammar": "šetřit na + accusative (na nové auto)"
+    },
+    {
+     "cz": "Nájem je patnáct tisíc.",
+     "en": "The rent is fifteen thousand.",
+     "week": 15,
+     "grammar": "patnáct + genitive plural (tisíc)"
+    },
+    {
+     "cz": "Za jídlo utratím pět tisíc měsíčně.",
+     "en": "I spend five thousand a month on food.",
+     "week": 15,
+     "grammar": "za + accusative (za jídlo); pět + genitive plural (tisíc)"
+    },
+    {
+     "cz": "Nájem musím zaplatit do patnáctého.",
+     "en": "I have to pay the rent by the fifteenth.",
+     "week": 15,
+     "grammar": "nájem = accusative; do + genitive (do patnáctého)"
+    },
+    {
+     "cz": "Každý měsíc posílám část výplaty rodině.",
+     "en": "Every month I send part of my salary to my family.",
+     "week": 17,
+     "grammar": "každý měsíc = accusative of time; část + genitive (výplaty); rodině = dative"
+    },
+    {
+     "cz": "Minulý měsíc jsem utratil víc, než jsem plánoval.",
+     "en": "Last month I spent more than I planned.",
+     "week": 20,
+     "grammar": "past; víc + než"
+    },
+    {
+     "cz": "Elektřina je letos dražší než loni.",
+     "en": "Electricity is more expensive this year than last year.",
+     "week": 20,
+     "grammar": "dražší + než"
+    },
+    {
+     "cz": "Dávám stranou trochu peněz, abych měl rezervu.",
+     "en": "I put a little money aside so that I have a reserve.",
+     "week": 20,
+     "grammar": "trochu + genitive plural (peněz); aby + -l form; rezervu = accusative"
+    },
+    {
+     "cz": "Kdybych měl vyšší plat, mohl bych si koupit byt.",
+     "en": "If I had a higher salary, I could buy a flat.",
+     "week": 20,
+     "grammar": "kdybych + -l form; vyšší plat, byt = accusative; vyšší = comparative"
+    }
+   ]
+  },
+  {
+   "title": "Placení (Paying)",
+   "category": "Money",
+   "steps": [
+    {
+     "cz": "Kolik to dělá?",
+     "en": "How much is it?",
+     "week": 5,
+     "grammar": "fixed chunk"
+    },
+    {
+     "cz": "Platím kartou.",
+     "en": "I'm paying by card.",
+     "week": 18,
+     "grammar": "instrumental of means (kartou)"
+    },
+    {
+     "cz": "Můžu platit kartou?",
+     "en": "Can I pay by card?",
+     "week": 10,
+     "grammar": "moct + infinitive; instrumental (kartou)"
+    },
+    {
+     "cz": "Nemám drobné.",
+     "en": "I don't have any change.",
+     "week": 6,
+     "grammar": "drobné = accusative plural (adjective used as a noun)"
+    },
+    {
+     "cz": "Platba kartou nefunguje.",
+     "en": "Card payment isn't working.",
+     "week": 18,
+     "grammar": "kartou = instrumental (payment by card)"
+    },
+    {
+     "cz": "Můžete mi rozměnit tisícovku?",
+     "en": "Can you break a thousand-crown note for me?",
+     "week": 17,
+     "grammar": "mi = dative (for me); tisícovku = accusative"
+    },
+    {
+     "cz": "Zaplatil jsem dvakrát, můžete mi vrátit peníze?",
+     "en": "I paid twice, can you give me the money back?",
+     "week": 17,
+     "grammar": "past; mi = dative; peníze = accusative plural"
+    },
+    {
+     "cz": "Fakturu jsem zaplatil převodem.",
+     "en": "I paid the invoice by bank transfer.",
+     "week": 18,
+     "grammar": "fakturu = accusative; instrumental of means (převodem)"
+    },
+    {
+     "cz": "Poslal jsem peníze na účet, který mi dali.",
+     "en": "I sent the money to the account they gave me.",
+     "week": 19,
+     "grammar": "na + accusative (na účet); který = relative (m accusative); mi = dative"
+    },
+    {
+     "cz": "Radši bych platil v hotovosti, kdyby to šlo.",
+     "en": "I'd rather pay in cash, if possible.",
+     "week": 20,
+     "grammar": "radši + conditional; v + locative (v hotovosti); kdyby to šlo"
     }
    ]
   }
