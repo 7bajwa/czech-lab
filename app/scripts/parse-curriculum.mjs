@@ -250,6 +250,27 @@ const exam = { format: '', mocks: [] }
   exam.format = exam.format.trim()
 }
 
+// Everyday Czech lessons: "## Level 1 · 3 · Title (Czech)" + "Week: n" + "### Words|Phrases|Dialogue" tables
+const everyday = []
+{
+  let cur = null, sec = null
+  for (const l of readDoc('czech-everyday.md')) {
+    const h = l.match(/^## Level (\d) · (\d+) · (.+)/)
+    if (h) { cur = { level: +h[1], n: +h[2], title: h[3], week: 0, words: [], phrases: [], dialogue: [] }; everyday.push(cur); sec = null; continue }
+    if (!cur) continue
+    const w = l.match(/^Week:\s*(\d+)/)
+    if (w) { cur.week = +w[1]; continue }
+    const s = l.match(/^### (Words|Phrases|Dialogue)/)
+    if (s) { sec = s[1].toLowerCase(); continue }
+    const c = cellsOf(l)
+    if (!sec || !l.startsWith('|') || isHead(c)) continue
+    if (sec === 'dialogue') { if (/^[AB]$/.test(c[0])) cur.dialogue.push({ who: c[0], cz: c[1], en: c[2] }) }
+    else if (c[0] && c[1]) cur[sec].push({ cz: c[0], en: c[1], note: (c[2] ?? '').replace(/^AI\s*·?\s*/, '').replace(/^(src|AI|check)$/, '') })
+  }
+}
+writeFileSync(join(outDir, 'everyday.json'), JSON.stringify(everyday))
+console.log(`everyday: ${everyday.length} lessons (${everyday.flatMap((x) => [...x.words, ...x.phrases]).length} words + phrases, ${everyday.flatMap((x) => x.dialogue).length} dialogue lines)`)
+
 console.log(`extra: ${phrasebook.length} phrase categories (${phrasebook.flatMap((g) => g.items).length}), ${wordgroups.length} word groups (${wordgroups.flatMap((g) => g.items).length}), wordbook ${wordbook.length}, frequency ${frequency.length}, role-plays ${roleplay.length}, grammar ${grammar.length}, weekend ${Object.keys(weekend).length}, mocks ${exam.mocks.length}`)
 console.log(`games now: ${practice.verbs.length} verbs, ${practice.ladders.length} ladders`)
 const bump = (name, list) => { const bad = list.filter(Boolean); if (bad.length) console.log(`check ${name}:`, bad.slice(0, 5).join(' ; ')) }

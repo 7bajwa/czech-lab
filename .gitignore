@@ -2,3 +2,6 @@ node_modules/
 dist/
 .claude/settings.local.json
 app/scripts/audio-texts.json
+
+# converted copies of the source books: for reading on this computer only (copyrighted)
+Doc/sources/

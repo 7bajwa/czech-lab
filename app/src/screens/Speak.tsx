@@ -96,7 +96,7 @@ function RolePlays() {
   )
 }
 
-function RolePlayer({ rp, rate, onBack }: { rp: RolePlay; rate: number; onBack: () => void }) {
+export function RolePlayer({ rp, rate, onBack }: { rp: RolePlay; rate: number; onBack: () => void }) {
   const [mode, setMode] = useState<'solo' | 'friend'>('solo')
   const [me, setMe] = useState<'A' | 'B'>('A')
   const [i, setI] = useState(0)

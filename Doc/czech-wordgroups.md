@@ -92,7 +92,7 @@ Gender: m = masculine, f = feminine, n = neuter, pl = plural only; colours/numbe
 
 | Czech | English | Gender | Note |
 |---|---|---|---|
-| barva | colour | f | src |
+| barva | colour, paint | f | src |
 | červený | red |  | src |
 | modrý | blue |  | src |
 | zelený | green |  | src |
@@ -172,6 +172,7 @@ Gender: m = masculine, f = feminine, n = neuter, pl = plural only; colours/numbe
 | gram | gram | m | src |
 | kilo | kilo | n | src |
 | litr | litre | m | src |
+| tři čtvrtě | three quarters |  | src |
 
 ## Days & months
 
@@ -186,7 +187,7 @@ Gender: m = masculine, f = feminine, n = neuter, pl = plural only; colours/numbe
 | neděle | Sunday | f | src |
 | víkend | weekend | m | src |
 | týden | week | m | src |
-| měsíc | month | m | src |
+| měsíc | month, moon | m | src |
 | rok | year | m | src |
 | leden | January | m | src |
 | únor | February | m | src |
@@ -227,6 +228,7 @@ Gender: m = masculine, f = feminine, n = neuter, pl = plural only; colours/numbe
 | teplota | temperature | f | AI |
 | monzun | monsoon | m | src |
 | předpověď počasí | weather forecast | f | AI |
+| náledí | black ice | n | src |
 
 ## Time words
 
@@ -320,7 +322,7 @@ Gender: m = masculine, f = feminine, n = neuter, pl = plural only; colours/numbe
 | prst | finger | m | src |
 | palec | thumb | m | src |
 | záda | back | pl | src |
-| břicho | stomach, belly | n | src |
+| břicho | belly | n | src |
 | pas | waist | m | src |
 | noha | leg, foot | f | src |
 | koleno | knee | n | src |
@@ -335,6 +337,7 @@ Gender: m = masculine, f = feminine, n = neuter, pl = plural only; colours/numbe
 | krev | blood | f | AI |
 | vousy | beard | pl | src |
 | knír | moustache | m | src |
+| žaludek | stomach | m | src |
 
 ## Health
 
@@ -380,7 +383,7 @@ Gender: m = masculine, f = feminine, n = neuter, pl = plural only; colours/numbe
 | klobouk | hat (brimmed) | m | AI |
 | šála | scarf | f | src |
 | rukavice | glove | f | src |
-| kraťasy | shorts | pl | src |
+| kraťasy / krátké kalhoty | shorts | pl | src |
 | punčocháče | tights | pl | src |
 | plavky | swimsuit, swimming trunks | pl | src |
 | slipy | underpants | pl | src |
@@ -393,6 +396,8 @@ Gender: m = masculine, f = feminine, n = neuter, pl = plural only; colours/numbe
 | deštník | umbrella | m | AI |
 | brýle | glasses | pl | AI |
 | kostým | costume | m | src |
+| vesta | cardigan | f | src |
+| spodní prádlo | underwear | n | src |
 
 ## Food
 
@@ -423,11 +428,11 @@ Gender: m = masculine, f = feminine, n = neuter, pl = plural only; colours/numbe
 | nudle | noodle | f | src |
 | knedlík | dumpling | m | AI |
 | polévka | soup | f | src |
-| salát | salad | m | src |
+| salát | salad, lettuce | m | src |
 | guláš | goulash | m | AI |
 | pizza | pizza | f | src |
-| sendvič | sandwich | m | src |
-| hranolky | chips, fries | pl | src |
+| obložený chléb | sandwich | m | src |
+| bramborové hranolky | chips, fries | pl | src |
 | cereálie | cereal | pl | src |
 | jogurt | yoghurt | m | src |
 | med | honey | m | src |
@@ -498,6 +503,7 @@ Gender: m = masculine, f = feminine, n = neuter, pl = plural only; colours/numbe
 | alkohol | alcohol | m | src |
 | kola | cola | f | AI |
 | koktejl | cocktail | m | AI |
+| ovocný džus | fruit juice | m | src |
 
 ## Fruit
 
@@ -511,7 +517,7 @@ Gender: m = masculine, f = feminine, n = neuter, pl = plural only; colours/numbe
 | hruška | pear | f | src |
 | švestka | plum | f | src |
 | třešeň | cherry | f | src |
-| hrozen | grape, bunch of grapes | m | src |
+| hrozen | bunch of grapes | m | src |
 | citron | lemon | m | src |
 | broskev | peach | f | src |
 | meruňka | apricot | f | AI |
@@ -526,6 +532,7 @@ Gender: m = masculine, f = feminine, n = neuter, pl = plural only; colours/numbe
 | granátové jablko | pomegranate | n | src |
 | liči | lychee | n | src |
 | kokos | coconut | m | AI |
+| hroznové víno | grapes | n | src |
 
 ## Vegetables
 
@@ -542,11 +549,11 @@ Gender: m = masculine, f = feminine, n = neuter, pl = plural only; colours/numbe
 | hlávkový salát | lettuce | m | src |
 | zelí | cabbage | n | AI |
 | houba | mushroom | f | src |
-| hrách | peas | m | src |
+| hrášek | peas | m | src |
 | fazole | bean | f | src |
 | kukuřice | sweetcorn | f | src |
 | dýně | pumpkin | f | src |
-| ředkvička | radish | f | src |
+| ředkvička | radish (small red) | f | src |
 | brokolice | broccoli | f | src |
 | květák | cauliflower | m | src |
 | špenát | spinach | m | AI |
@@ -555,13 +562,14 @@ Gender: m = masculine, f = feminine, n = neuter, pl = plural only; colours/numbe
 | pórek | leek | m | AI |
 | lilek | aubergine | m | AI |
 | řepa | beetroot | f | AI |
+| ředkev | radish | f | src |
 
 ## Kitchen
 
 | Czech | English | Gender | Note |
 |---|---|---|---|
 | talíř | plate | m | src |
-| miska | bowl | f | src |
+| miska | small bowl | f | src |
 | hrnek | mug | m | src |
 | šálek | cup | m | src |
 | sklenice | glass | f | src |
@@ -571,21 +579,23 @@ Gender: m = masculine, f = feminine, n = neuter, pl = plural only; colours/numbe
 | nůž | knife | m | src |
 | hrnec | saucepan, pot | m | src |
 | pánev | frying pan | f | src |
-| lednička | fridge | f | src |
+| lednička / lednice | fridge | f | src |
 | sporák | cooker | m | src |
 | trouba | oven | f | AI |
 | mikrovlnka | microwave | f | AI |
 | myčka | dishwasher | f | AI |
 | konvice | kettle | f | src |
-| toustovač | toaster | m | src |
+| opékač topinek | toaster | m | src |
 | láhev | bottle | f | src |
 | plechovka | can, tin | f | src |
 | termoska | flask | f | src |
-| krabička na svačinu | lunchbox | f | check |
+| krabička na jídlo | lunchbox | f | src |
 | hůlky | chopsticks | pl | src |
 | wok | wok | m | src |
 | ubrousek | napkin | m | AI |
 | prkénko | chopping board | n | AI |
+| dřez | sink (kitchen) | m | src |
+| mísa | bowl | f | src |
 
 ## House & rooms
 
@@ -594,17 +604,17 @@ Gender: m = masculine, f = feminine, n = neuter, pl = plural only; colours/numbe
 | dům | house | m | src |
 | byt | flat, apartment | m | src |
 | pokoj | room | m | src |
-| kuchyně | kitchen | f | src |
+| kuchyň | kitchen | f | src |
 | koupelna | bathroom | f | src |
 | ložnice | bedroom | f | src |
 | obývák | living room | m | src |
 | jídelna | dining room | f | src |
 | záchod | toilet | m | src |
-| chodba | hallway | f | src |
+| chodba | corridor | f | src |
 | schody | stairs | pl | src |
 | dveře | door | pl | src |
 | okno | window | n | src |
-| stěna | wall | f | src |
+| stěna | wall (of a room) | f | src |
 | podlaha | floor | f | src |
 | strop | ceiling | m | AI |
 | střecha | roof | f | src |
@@ -622,6 +632,9 @@ Gender: m = masculine, f = feminine, n = neuter, pl = plural only; colours/numbe
 | chata | cottage, cabin | f | src |
 | chalupa | country cottage | f | src |
 | plot | fence | m | AI |
+| předsíň | hallway | f | src |
+| zeď | wall | f | src |
+| schodiště | staircase | n | src |
 
 ## Furniture & home
 
@@ -631,15 +644,15 @@ Gender: m = masculine, f = feminine, n = neuter, pl = plural only; colours/numbe
 | stůl | table | m | src |
 | židle | chair | f | src |
 | postel | bed | f | src |
-| gauč | sofa | m | src |
+| gauč / pohovka | sofa | f | src |
 | křeslo | armchair | n | AI |
-| skříň | cupboard, wardrobe | f | src |
+| skříň | wardrobe | f | src |
 | polička | shelf | f | src |
 | šuplík | drawer | m | src |
 | lampa | lamp | f | src |
 | zrcadlo | mirror | n | src |
 | polštář | pillow | m | src |
-| deka | blanket | f | src |
+| přikrývka | blanket | f | src |
 | peřina | duvet | f | AI |
 | koberec | carpet | m | src |
 | závěs | curtain | m | src |
@@ -651,10 +664,12 @@ Gender: m = masculine, f = feminine, n = neuter, pl = plural only; colours/numbe
 | pračka | washing machine | f | src |
 | vysavač | vacuum cleaner | m | AI |
 | žehlička | iron | f | AI |
-| koš | bin | m | src |
+| odpadkový koš | bin | m | src |
 | obraz | picture, painting | m | AI |
 | váza | vase | f | AI |
 | svíčka | candle | f | AI |
+| skříňka | cupboard | f | src |
+| lehátko | deckchair | n | src |
 
 ## Bathroom
 
@@ -662,8 +677,8 @@ Gender: m = masculine, f = feminine, n = neuter, pl = plural only; colours/numbe
 |---|---|---|---|
 | vana | bath | f | src |
 | sprcha | shower | f | src |
-| umyvadlo | washbasin, sink | n | src |
-| kohoutek | tap | m | src |
+| umyvadlo | washbasin | n | src |
+| vodovodní kohoutek | tap | m | src |
 | ručník | towel | m | src |
 | toaletní papír | toilet roll | m | src |
 | mýdlo | soap | n | AI |
@@ -677,6 +692,7 @@ Gender: m = masculine, f = feminine, n = neuter, pl = plural only; colours/numbe
 | žiletka | razor blade | f | AI |
 | deodorant | deodorant | m | AI |
 | parfém | perfume | m | AI |
+| opalovací krém | sun lotion | m | src |
 
 ## Town & streets
 
@@ -697,7 +713,7 @@ Gender: m = masculine, f = feminine, n = neuter, pl = plural only; colours/numbe
 | roh | corner | m | src |
 | park | park | m | src |
 | zastávka | stop (bus, tram) | f | src |
-| nádraží | train station | n | src |
+| nádraží | railway station | n | src |
 | autobusové nádraží | bus station | n | src |
 | parkoviště | car park | n | src |
 | letiště | airport | n | AI |
@@ -712,6 +728,12 @@ Gender: m = masculine, f = feminine, n = neuter, pl = plural only; colours/numbe
 | prolézačka | climbing frame | f | src |
 | houpačka na pérách | seesaw | f | check |
 | tunel | tunnel | m | src |
+| vlaková stanice | train station | f | src |
+| autobusová zastávka | bus stop | f | src |
+| dopravní světla | traffic lights | pl | src |
+| červený panáček | red man (crossing light) | m | src |
+| zelený panáček | green man (crossing light) | m | src |
+| přechod pro děti | children's crossing | m | src |
 
 ## Places & buildings
 
@@ -723,7 +745,7 @@ Gender: m = masculine, f = feminine, n = neuter, pl = plural only; colours/numbe
 | banka | bank | f | src |
 | bankomat | cash machine, ATM | m | src |
 | policejní stanice | police station | f | src |
-| hasičská zbrojnice | fire station | f | src |
+| hasičská stanice | fire station | f | src |
 | kino | cinema | n | src |
 | divadlo | theatre | n | src |
 | muzeum | museum | n | AI |
@@ -734,7 +756,7 @@ Gender: m = masculine, f = feminine, n = neuter, pl = plural only; colours/numbe
 | bar | bar | m | src |
 | hotel | hotel | m | src |
 | bazén | swimming pool | m | src |
-| sportovní centrum | sports centre | n | src |
+| sportovní středisko | sports centre | n | src |
 | posilovna | gym | f | src |
 | kostel | church | m | src |
 | katedrála | cathedral | f | src |
@@ -768,7 +790,7 @@ Gender: m = masculine, f = feminine, n = neuter, pl = plural only; colours/numbe
 | květinářství | flower shop | n | src |
 | hračkářství | toy shop | n | src |
 | kadeřnictví | hairdresser's | n | src |
-| novinový stánek | newspaper stand | m | src |
+| trafika | newspaper stand | f | src |
 | zmrzlinárna | ice cream shop | f | src |
 | cukrárna | cake shop | f | AI |
 | papírnictví | stationer's | n | AI |
@@ -779,6 +801,7 @@ Gender: m = masculine, f = feminine, n = neuter, pl = plural only; colours/numbe
 | účtenka | receipt | f | AI |
 | nákupní košík | shopping basket | m | AI |
 | taška | bag | f | AI |
+| obchodní dům | department store | m | src |
 
 ## Transport
 
@@ -794,8 +817,8 @@ Gender: m = masculine, f = feminine, n = neuter, pl = plural only; colours/numbe
 | motorka | motorbike | f | src |
 | letadlo | aeroplane | n | src |
 | loď | ship | f | src |
-| lodička | boat | f | src |
-| vrtulník | helicopter | m | src |
+| člun | boat | m | src |
+| vrtulník / helikoptéra | helicopter | f | src |
 | nákladní auto | lorry, truck | n | src |
 | autokar | coach | m | src |
 | taxi | taxi | n | AI |
@@ -810,6 +833,8 @@ Gender: m = masculine, f = feminine, n = neuter, pl = plural only; colours/numbe
 | odrazka | reflector | f | src |
 | řidičský průkaz | driving licence | m | AI |
 | benzín | petrol | m | AI |
+| cyklistická helma | cycle helmet | f | src |
+| světla | lights (bike, car) | pl | src |
 
 ## Jobs
 
@@ -855,6 +880,11 @@ Gender: m = masculine, f = feminine, n = neuter, pl = plural only; colours/numbe
 | kouzelník | wizard, magician | m | src |
 | pirát | pirate | m | src |
 | kovboj | cowboy | m | src |
+| řezník | butcher | m | src |
+| zelinář | greengrocer | m | src |
+| baletka | ballet dancer | f | src |
+| popová hvězda | pop star | f | src |
+| dozorčí na přechodu | school crossing patrol officer | m | src |
 
 ## School subjects
 
@@ -890,14 +920,14 @@ Gender: m = masculine, f = feminine, n = neuter, pl = plural only; colours/numbe
 | tužka | pencil | f | src |
 | propiska | pen | f | src |
 | pastelka | crayon | f | src |
-| fixa | felt-tip pen | f | src |
+| fix | felt-tip pen | m | src |
 | guma | rubber, eraser | f | src |
 | pravítko | ruler | n | src |
 | ořezávátko | pencil sharpener | n | src |
 | penál | pencil case | m | src |
 | nůžky | scissors | pl | src |
 | lepidlo | glue | n | src |
-| izolepa | sticky tape | f | src |
+| lepicí páska | sticky tape | f | src |
 | štětec | paintbrush | m | src |
 | papír | paper | m | src |
 | tabule | board | f | src |
@@ -906,7 +936,7 @@ Gender: m = masculine, f = feminine, n = neuter, pl = plural only; colours/numbe
 | kružítko | compasses | n | src |
 | úhloměr | protractor | m | src |
 | provázek | string | m | src |
-| složka | folder | f | src |
+| desky | folder | pl | src |
 | aktovka | school bag | f | src |
 | batoh | backpack | m | src |
 | mapa | map | f | src |
@@ -915,6 +945,9 @@ Gender: m = masculine, f = feminine, n = neuter, pl = plural only; colours/numbe
 | dopis | letter | m | AI |
 | pohled | postcard | m | src |
 | sešívačka | stapler | f | AI |
+| bílá tabule | white board | f | src |
+| početnice | maths book | f | src |
+| čítanka | reading book | f | src |
 
 ## Technology
 
@@ -971,7 +1004,7 @@ Gender: m = masculine, f = feminine, n = neuter, pl = plural only; colours/numbe
 | oblázek | pebble | m | src |
 | mušle | shell | f | src |
 | mořská řasa | seaweed | f | src |
-| pískový hrad | sandcastle | m | src |
+| hrad z písku | sandcastle | m | src |
 | ostrov | island | m | AI |
 | pole | field | n | AI |
 | louka | meadow | f | AI |
@@ -983,6 +1016,7 @@ Gender: m = masculine, f = feminine, n = neuter, pl = plural only; colours/numbe
 | jih | south | m | src |
 | východ | east | m | src |
 | západ | west | m | src |
+| kamenné jezírko | rock pool | n | src |
 
 ## Space
 
@@ -993,7 +1027,7 @@ Gender: m = masculine, f = feminine, n = neuter, pl = plural only; colours/numbe
 | hvězda | star | f | src |
 | planeta | planet | f | AI |
 | raketa | rocket | f | src |
-| kosmická loď | spaceship | f | src |
+| vesmírná loď | spaceship | f | src |
 | kometa | comet | f | src |
 | padající hvězda | shooting star | f | src |
 | sluneční soustava | solar system | f | src |
@@ -1016,7 +1050,7 @@ Gender: m = masculine, f = feminine, n = neuter, pl = plural only; colours/numbe
 | fotbal | football | m | src |
 | tenis | tennis | m | src |
 | hokej | hockey | m | src |
-| basketbal | basketball | m | src |
+| basketbal / košíková | basketball | f | src |
 | volejbal | volleyball | m | AI |
 | plavání | swimming | n | src |
 | cyklistika | cycling | f | src |
@@ -1025,7 +1059,7 @@ Gender: m = masculine, f = feminine, n = neuter, pl = plural only; colours/numbe
 | kriket | cricket | m | src |
 | badminton | badminton | m | src |
 | golf | golf | m | AI |
-| netbal | netball | m | check |
+| dívčí košíková | netball | f | src |
 | míč | ball | m | src |
 | pálka | bat | f | src |
 | tenisová raketa | racket | f | src |
@@ -1051,19 +1085,19 @@ Gender: m = masculine, f = feminine, n = neuter, pl = plural only; colours/numbe
 | hudba | music | f | src |
 | písnička | song | f | AI |
 | kytara | guitar | f | src |
-| klavír | piano | m | src |
+| klavír / piano | piano | n | src |
 | housle | violin | pl | src |
 | buben | drum | m | src |
 | flétna | flute | f | src |
 | zobcová flétna | recorder | f | src |
-| trubka | trumpet | f | src |
+| trubka / trumpeta | trumpet | f | src |
 | klarinet | clarinet | m | src |
 | harfa | harp | f | src |
 | xylofon | xylophone | m | src |
 | triangl | triangle (instrument) | m | src |
 | klávesy | keyboard (instrument) | pl | src |
-| rumba koule | maracas | pl | check |
-| notový stojan | music stand | m | src |
+| rumba koule | maracas | pl | src |
+| stojan na noty | music stand | m | src |
 | koncert | concert | m | src |
 | orchestr | orchestra | m | src |
 | festival | festival | m | src |
@@ -1079,21 +1113,22 @@ Gender: m = masculine, f = feminine, n = neuter, pl = plural only; colours/numbe
 | panenka | doll | f | src |
 | medvídek | teddy bear | m | src |
 | autíčko | toy car | n | src |
-| balónek | balloon | m | src |
+| balón | balloon | m | src |
 | drak | kite, dragon | m | src |
 | puzzle | jigsaw puzzle | n | src |
 | kostka | dice, block | f | src |
-| stavebnice | building blocks | f | src |
+| stavební kostky | building blocks | pl | src |
 | šachy | chess | pl | src |
-| karty | playing cards | pl | src |
+| hrací karty | playing cards | pl | src |
 | stolní hra | board game | f | src |
 | kulička | marble | f | src |
 | loutka | puppet | f | src |
 | švihadlo | skipping rope | n | src |
 | káča | spinning top | f | src |
-| domeček pro panenky | doll's house | m | check |
-| vláčkodráha | train set | f | check |
+| domeček pro panenky | doll's house | m | src |
+| vláček | train set | m | src |
 | korálek | bead | m | src |
+| hlavolam | puzzle, brain-teaser | m | src |
 
 ## Hobbies & events
 
@@ -1131,7 +1166,7 @@ Gender: m = masculine, f = feminine, n = neuter, pl = plural only; colours/numbe
 | vrtačka | drill | f | AI |
 | kleště | pliers | pl | AI |
 | francouzský klíč | spanner | m | AI |
-| lopata | spade, shovel | f | src |
+| lopata | shovel | f | src |
 | kbelík | bucket | m | src |
 | hrábě | rake | pl | AI |
 | žebřík | ladder | m | AI |
@@ -1140,6 +1175,7 @@ Gender: m = masculine, f = feminine, n = neuter, pl = plural only; colours/numbe
 | baterka | torch | f | AI |
 | metr | tape measure, metre | m | AI |
 | hadice | hose | f | AI |
+| rýč | spade | m | src |
 
 ## Countries & nationalities
 
