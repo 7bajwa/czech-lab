@@ -13,7 +13,7 @@
 | Máte polední menu? | Do you have a lunch menu? | AI |
 | Co nám doporučíte? | What do you recommend? | AI |
 | Jaké ryby dnes máte? | What fish do you have today? | src |
-| Obsluhujte nás, prosím, co nejrychleji. | Please serve us as quickly as possible. | check |
+| Spěcháme, můžete nás obsloužit co nejdřív? | We are in a hurry, can you serve us as soon as possible? | AI |
 | Máte vegetariánská jídla? | Do you have vegetarian dishes? | AI |
 | Mám alergii na ořechy. | I am allergic to nuts. | AI |
 | Je to bez lepku? | Is it gluten-free? | AI |
@@ -713,7 +713,7 @@
 | Tady je kód receptu. | Here is the prescription code. | AI |
 | Potřebuji něco proti bolesti hlavy. | I need something for a headache. | AI |
 | Je to na předpis? | Is it on prescription? | AI |
-| Je to slabší lék? | Is it a mild medicine? | check |
+| Máte něco slabšího? | Do you have something milder? | AI |
 | Je to bezpečné? | Is it safe? | src |
 | Pozor! | Caution! | src |
 | jed | poison | src |
@@ -811,7 +811,7 @@
 | po stranách | on the sides | src |
 | Nechte to dlouhé. | Keep it long. | src |
 | Ne moc krátké, prosím. | Not too short, please. | src |
-| Pěšinku nosím na této straně. | I part my hair on this side. | check |
+| Pěšinku mám na této straně. | I part my hair on this side. | AI |
 | na druhé straně | on the other side | src |
 | uprostřed | in the middle | src |
 | Zastřihněte mi knír. | Trim my moustache. | src |

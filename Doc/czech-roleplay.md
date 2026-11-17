@@ -357,7 +357,7 @@ Place: post office counter · A: customer · B: postal clerk · Week: 21
 | A | Oblečení a knihy. | Clothes and books. | AI |
 | B | Do Indie musíte vyplnit celní prohlášení. | For India you have to fill in a customs declaration. | AI |
 | A | Dobře. Kolik to bude stát? | OK. How much will it cost? | src |
-| B | Letecky asi tisíc korun. | About 1,000 crowns by air. | check |
+| B | Záleží na váze. Letecky asi tisíc korun. | It depends on the weight. About 1,000 crowns by air. | AI |
 | A | Jak dlouho to bude trvat? | How long will it take? | src |
 | B | Asi dva týdny. Chcete balík pojistit? | About two weeks. Do you want to insure the parcel? | src |
 | A | Ne, děkuju. | No, thanks. | AI |
@@ -462,7 +462,7 @@ Place: dental surgery · A: patient · B: dentist · Week: 16
 | A | Dobře, můžeme začít. | OK, we can start. | AI |
 | B | Hotovo. Dvě hodiny nejezte. | Done. Don't eat for two hours. | AI |
 | A | Kolik to stojí? | How much is it? | AI |
-| B | Základní plombu platí pojišťovna. | Your insurance pays for a basic filling. | check |
+| B | Základní výplň platí pojišťovna. | Your insurance pays for a basic filling. | AI |
 | A | Dobře, děkuju. | OK, thank you. | AI |
 | B | Za půl roku přijďte na prohlídku. | Come for a check-up in six months. | AI |
 | A | Dobře, na shledanou. | OK, goodbye. | AI |
@@ -521,11 +521,11 @@ Place: Ministry of the Interior office for foreigners · A: applicant · B: offi
 | A | Ano, všechno je tady. | Yes, it's all here. | AI |
 | B | A doklad o ubytování a o příjmu? | And proof of accommodation and income? | AI |
 | A | Tady je nájemní smlouva a potvrzení o příjmu. | Here's the rental contract and proof of income. | AI |
-| B | Dobře. Správní poplatek je dva tisíce pět set korun. | OK. The administrative fee is 2,500 crowns. | check |
+| B | Dobře. Správní poplatek je dva tisíce pět set korun. | OK. The administrative fee is 2,500 crowns. | AI |
 | A | Můžu platit kartou? | Can I pay by card? | AI |
 | B | Ano. Teď vám uděláme fotku a otisky prstů. | Yes. Now we'll take your photo and fingerprints. | src |
 | A | Dobře. Jak dlouho to bude trvat? | OK. How long will it take? | src |
-| B | Lhůta je šedesát dní. Pošleme vám zprávu. | The time limit is sixty days. We'll send you a message. | check |
+| B | Lhůta je šedesát dní. Pošleme vám zprávu. | The time limit is sixty days. We'll send you a message. | AI |
 | A | Kdy dostanu kartu? | When will I get the card? | src |
 | B | Až bude rozhodnutí, objednáte se na vyzvednutí. | Once there's a decision, you'll book an appointment to collect it. | AI |
 | A | Rozumím. Děkuju, na shledanou. | I understand. Thank you, goodbye. | src |

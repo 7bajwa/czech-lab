@@ -4701,10 +4701,10 @@
      "grammar": "muset + infinitive; o + locative"
     },
     {
-     "cz": "Odpověď dostanete do šedesáti dnů.",
+     "cz": "Odpověď dostanete do šedesáti dnů. / Odpověď dostanete do šedesáti dní.",
      "en": "You'll get an answer within sixty days.",
      "week": 21,
-     "grammar": "do + genitive (number)"
+     "grammar": "do + genitive (šedesáti dnů / dní: both are correct)"
     }
    ],
    "category": "Core ladders"
@@ -5635,7 +5635,7 @@
      "cz": "Peru bílé tričko na čtyřicet stupňů.",
      "en": "I wash the white T-shirt at forty degrees.",
      "week": 15,
-     "grammar": "tričko = accusative; na + accusative for the setting; čtyřicet + genitive plural (stupňů)"
+     "grammar": "tričko = accusative (neuter, no change); prát na + accusative = the wash setting; čtyřicet + genitive plural (stupňů)"
     },
     {
      "cz": "Došel mi prášek na praní.",
@@ -6277,7 +6277,7 @@
      "cz": "Včera jsem píchl kolo.",
      "en": "Yesterday I got a flat tyre.",
      "week": 12,
-     "grammar": "past tense; kolo = accusative"
+     "grammar": "past tense (píchnout → píchl jsem); kolo = accusative (neuter, no change); everyday spoken phrase"
     },
     {
      "cz": "Musím dát kolo do servisu.",

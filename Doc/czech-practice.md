@@ -414,7 +414,7 @@ Each ladder climbs from simple to complex around one word. Rows are played in or
 | Chtěl bych podat žádost o trvalý pobyt. | I'd like to apply for permanent residence. | 21 | o + accusative | AI |
 | Jaké dokumenty potřebuju k žádosti? | What documents do I need for the application? | 21 | k + dative (-i) | AI |
 | Musíte přinést pas, fotku a potvrzení o ubytování. | You have to bring your passport, a photo and proof of accommodation. | 21 | muset + infinitive; o + locative | AI |
-| Odpověď dostanete do šedesáti dnů. | You'll get an answer within sixty days. | 21 | do + genitive (number) | AI |
+| Odpověď dostanete do šedesáti dnů. / Odpověď dostanete do šedesáti dní. | You'll get an answer within sixty days. | 21 | do + genitive (šedesáti dnů / dní: both are correct) | AI |
 
 ### pošta (post office)
 

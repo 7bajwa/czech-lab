@@ -150,7 +150,7 @@
 | Krvácí mi prst. | My finger is bleeding. | src |
 | Myslím, že mám zlomenou ruku. | I think my arm is broken. | src |
 | Dejte vědět mému manželovi / mé manželce. | Let my husband / my wife know. | src |
-| Potřebuji zaškrtit krvácení. | I need a tourniquet. | check |
+| Musím zastavit krvácení. | I need to stop the bleeding. | AI |
 | Nehýbejte se! | Do not move! | AI |
 | Potřebuji pomoc. | I need help. | AI |
 | Kde je nejbližší nemocnice? | Where is the nearest hospital? | AI |
@@ -326,7 +326,7 @@
 | Bude bouřka. | There will be a storm. | AI |
 | Chci sedět ve stínu. | I want to sit in the shade. | src |
 | Chci sedět na slunci. | I want to sit in the sun. | src |
-| Chci sedět tam, kde je průvan. | I want to sit in a draught. | check |
+| Nechci sedět v průvanu. | I don't want to sit in a draught. | AI |
 | Jaká je předpověď počasí na zítřek? | What is the weather forecast for tomorrow? | src |
 | Jaká je předpověď na víkend? | What is the forecast for the weekend? | src |
 
@@ -461,7 +461,7 @@
 | Mimo provoz | Out of service | AI |
 | Platba kartou | Card payment | AI |
 | Pouze hotově | Cash only | AI |
-| Prosím, zazvoňte | Please ring the bell | check |
+| Zvoňte, prosím | Please ring the bell | AI |
 
 ## Car & driving
 
@@ -496,7 +496,7 @@
 | Zákaz odbočování vpravo | No right turn | src |
 | Zákaz otáčení | No U-turn | src |
 | Dej přednost protijedoucím vozidlům! | Give way to oncoming traffic! | src |
-| Stůj, celnice! | Stop, customs! | check |
+| Celní kontrola | Customs control | AI |
 | Zákaz zastavení | No stopping | src |
 | Zákaz stání | No parking | src |
 | Přikázaný směr jízdy | Ahead only (mandatory direction) | src |

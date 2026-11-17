@@ -790,7 +790,7 @@ Week: 21
 | A | Dobře. Potřebujete fotografii? | OK. Do you need a photo? | AI |
 | B | Ne, fotíme tady. Ještě potřebuju doklad o ubytování. | No, we take the photo here. I also need proof of accommodation. | AI |
 | A | Tady je. Kolik je poplatek? | Here it is. How much is the fee? | AI |
-| B | Poplatek je dva tisíce pět set korun. | The fee is two thousand five hundred crowns. | AI · check |
+| B | Poplatek je dva tisíce pět set korun. | The fee is two thousand five hundred crowns. | AI |
 | A | Dobře. A kdy bude rozhodnutí? | OK. And when will the decision be made? | AI |
 
 ## Level 1 · 13 · Travelling (Cestování)

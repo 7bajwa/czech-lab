@@ -561,7 +561,7 @@
 | Čekám návštěvu. | I'm expecting a visitor. | AI |
 | Můžu si uložit cennosti do trezoru? | Can I leave valuables in the safe? | AI |
 | Chtěl / Chtěla bych si vyzvednout věci z trezoru. | I'd like to get my things from the safe. | src |
-| Do kolika hodin se musí uvolnit pokoj? | What time is check-out? | check |
+| Do kolika hodin musím uvolnit pokoj? | What time is check-out? | AI |
 | Odjíždím v deset hodin. | I'm leaving at ten. | src |
 | Připravte mi účet, prosím. | Please prepare my bill. | AI |
 | Pošlete mi fakturu e-mailem. | Send me the invoice by e-mail. | AI |

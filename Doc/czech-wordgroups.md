@@ -726,7 +726,7 @@ Gender: m = masculine, f = feminine, n = neuter, pl = plural only; colours/numbe
 | houpačka | swing | f | src |
 | skluzavka | slide | f | src |
 | prolézačka | climbing frame | f | src |
-| houpačka na pérách | seesaw | f | check |
+| houpačka na vahadle | seesaw | f | AI |
 | tunel | tunnel | m | src |
 | vlaková stanice | train station | f | src |
 | autobusová zastávka | bus stop | f | src |
@@ -1059,7 +1059,6 @@ Gender: m = masculine, f = feminine, n = neuter, pl = plural only; colours/numbe
 | kriket | cricket | m | src |
 | badminton | badminton | m | src |
 | golf | golf | m | AI |
-| dívčí košíková | netball | f | src |
 | míč | ball | m | src |
 | pálka | bat | f | src |
 | tenisová raketa | racket | f | src |

@@ -72,7 +72,7 @@ Everyday sentences from simple to complex, grouped by category. The Grammar colu
 | Pračka je v koupelně. | The washing machine is in the bathroom. | 8 | v + locative (v koupelně) | AI |
 | Prádlo schne na balkoně. | The laundry is drying on the balcony. | 8 | na + locative (na balkoně) = where | AI |
 | Pověsím prádlo na balkon. | I'll hang the laundry on the balcony. | 13 | perfective pověsím = future; na + accusative (na balkon) = where to | AI |
-| Peru bílé tričko na čtyřicet stupňů. | I wash the white T-shirt at forty degrees. | 15 | tričko = accusative; na + accusative for the setting; čtyřicet + genitive plural (stupňů) | check |
+| Peru bílé tričko na čtyřicet stupňů. | I wash the white T-shirt at forty degrees. | 15 | tričko = accusative (neuter, no change); prát na + accusative = the wash setting; čtyřicet + genitive plural (stupňů) | AI |
 | Došel mi prášek na praní. | I've run out of washing powder. | 17 | dojít = run out; mi = dative (to me); prášek = nominative subject; na + accusative = for | AI |
 | Moje košile se srazila, protože jsem ji pral na devadesát. | My shirt shrank because I washed it at ninety. | 13 | past f reflexive (srazila se); ji = it (accusative of ona); protože | AI |
 | Musíš ty ponožky vytřídit, než je dáš do pračky. | You have to sort those socks before you put them in the machine. | 20 | ty ponožky, je = accusative plural; do + genitive (do pračky); než = before | AI |
@@ -219,7 +219,7 @@ Everyday sentences from simple to complex, grouped by category. The Grammar colu
 | Kolo mám ve sklepě. | I keep the bike in the cellar. | 8 | kolo = accusative; ve + locative (ve sklepě) | AI |
 | Do práce jezdím na kole. | I cycle to work. | 9 | do + genitive (do práce); na + locative (na kole) | AI |
 | Potřebuju novou helmu. | I need a new helmet. | 7 | accusative f (novou helmu) | AI |
-| Včera jsem píchl kolo. | Yesterday I got a flat tyre. | 12 | past tense; kolo = accusative | check |
+| Včera jsem píchl kolo. | Yesterday I got a flat tyre. | 12 | past tense (píchnout → píchl jsem); kolo = accusative (neuter, no change); everyday spoken phrase | AI |
 | Musím dát kolo do servisu. | I have to take the bike in for repair. | 15 | kolo = accusative; do + genitive (do servisu) | AI |
 | Na kole jsem rychlejší než v tramvaji. | I'm faster on a bike than on the tram. | 20 | comparative rychlejší + než; na + locative, v + locative | AI |
 | Jezdím po cyklostezce, která vede podél řeky. | I ride on the cycle path that runs along the river. | 19 | po + locative (po cyklostezce); která = relative (f); podél + genitive (řeky) | AI |

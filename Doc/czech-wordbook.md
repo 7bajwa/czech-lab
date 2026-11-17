@@ -177,7 +177,7 @@
 | blinds | žaluzie | pl | src |
 | blister | puchýř | m | src |
 | block (of buildings) | blok | m | src |
-| block of flats | činžovní dům | phr | check |
+| block of flats | bytový dům, panelák | m | AI |
 | blood | krev | f | src |
 | blood vessel | céva | f | src |
 | blouse | halenka | f | src |
@@ -569,7 +569,7 @@
 | expensive | drahý | adj | src |
 | explain | vysvětlovat / vysvětlit | v | src |
 | export | vývoz | m | src |
-| express mail | expres | m | check |
+| express mail | expresní zásilka | phr | AI |
 | express train | rychlík | m | src |
 | external | vnější | adj | src |
 | eye | oko | n | src |
@@ -683,7 +683,7 @@
 | garage (repairs) | autoservis | m | AI |
 | garden | zahrada | f | src |
 | garlic | česnek | m | src |
-| gate (airport) | gate, východ | m | check |
+| gate (airport) | východ, gate | m | AI |
 | gauze | gáza | f | src |
 | gear change | řazení | n | src |
 | gear lever | řadicí páka | phr | AI |
@@ -737,7 +737,7 @@
 | green | zelený | adj | src |
 | green beans | fazolky | pl | src |
 | green salad | hlávkový salát | phr | src |
-| greengrocer's | zelenina, ovoce a zelenina | f | check |
+| greengrocer's | zelinářství, ovoce a zelenina | n | AI |
 | grey | šedý | adj | src |
 | grilled | grilovaný | adj | AI |
 | groceries | potraviny | pl | src |
@@ -960,7 +960,7 @@
 | level crossing | železniční přejezd | phr | src |
 | liability | odpovědnost | f | AI |
 | library | knihovna | f | src |
-| licensed | koncesovaný | adj | check |
+| licensed | s licencí, koncesovaný | adj | AI |
 | lie down | lehat si / lehnout si | v | src |
 | life jacket | záchranná vesta | phr | AI |
 | lifeboat | záchranný člun | phr | src |
@@ -1286,7 +1286,7 @@
 | pliers | kleště | pl | src |
 | plum | švestka | f | src |
 | pneumonia | zápal plic | phr | src |
-| poached | pošírovaný | adj | check |
+| poached (egg) | ztracené vejce, pošírovaný | phr | AI |
 | pocket | kapsa | f | src |
 | point (show) | ukazovat / ukázat | v | src |
 | poison | jed | m | src |
@@ -1312,7 +1312,7 @@
 | pram | kočárek | m | src |
 | prayer | modlitba | f | src |
 | precious stone | drahokam | m | src |
-| premium (petrol) | Natural 95 | phr | check |
+| premium (petrol) | Natural 95 | phr | AI |
 | prepared | připravený | adj | src |
 | prescription | recept | m | AI |
 | press (iron) | žehlit / vyžehlit | v | src |
@@ -1504,7 +1504,7 @@
 | shoulder | rameno | n | src |
 | show | ukazovat / ukázat | v | src |
 | shower | sprcha | f | src |
-| shower cap | koupací čepice do sprchy | phr | check |
+| shower cap | sprchová čepice | phr | AI |
 | shrimps | krevety | pl | AI |
 | shrink | srážet se / srazit se | v | src |
 | side | strana | f | src |
@@ -1789,7 +1789,7 @@
 | traffic lights | semafor | m | AI |
 | train | vlak | m | src |
 | tram | tramvaj | f | src |
-| transfer ticket | přestupní jízdenka | phr | check |
+| transfer ticket | přestupní jízdenka | phr | AI |
 | travel | cestovat | v | src |
 | travel agency | cestovní kancelář | phr | src |
 | tray | tác | m | AI |
